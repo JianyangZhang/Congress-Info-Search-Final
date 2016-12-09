@@ -1,0 +1,374 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+	margin: 0 auto;
+	width: 100%;
+	font-family: open sans;
+	/*font-family: Microsoft YaHei;*/
+	/*white-space: nowrap;*/
+	overflow-x: hidden;
+    /*overflow-y: hidden;*/
+	background-color: #F4F3F4;
+	margin-top: 2.6vw;
+}
+
+a:focus {
+	outline: none;
+}
+
+#header {
+	background-color: #ffffff;
+	padding: 0vw;
+	white-space: nowrap;
+	margin-bottom: 0vw;
+}
+
+.navbar {
+	min-height: 0;
+	height: 2.6vw;
+}
+
+#header a {
+	text-decoration: none;
+}
+
+#toggleBtn {
+	padding: 0.3vw 0.5vw;
+}
+
+#logoImg {
+	width: 4vw;
+	/*vertical-align: top;*/
+}
+
+#titleCenter {
+	text-align:center;
+	display: inline-block;
+	float: none;
+	width: 90%
+}
+
+#text1 {
+	font-weight: bold;
+	font-size: 1.4vw;
+}
+
+#sideBar {
+	width: 15%;	
+	position: fixed;
+	height: 100%;
+	background: #3D3C3E;
+	padding: 1%;
+}
+
+#searchResult {
+	padding-left: 15%;
+	margin-bottom: 1vw;
+}
+
+#main.toggleDisplay #sideBar {
+	display: none;
+}
+
+#main.toggleDisplay #searchResult {
+	padding-left: 0px;
+}
+
+.black {
+	color: black;
+}
+
+#sideBarContent {
+	padding: 0%;
+	list-style: none;
+}
+
+#sideBarContent a {
+	color: white;
+	font-size: 1vw;
+	display: block;
+	line-height: 300%;
+	text-align: left;
+	padding: 0.5vw 1vw;
+}	
+
+#header a {
+	font-size: 0.85vw;
+}
+
+#sideBarContent i {
+	padding-right: 8%;
+}
+
+#tableHeader, #tableHeader_2, #tableHeader_3, #tableHeader_4 {
+	padding: 0% 1%;
+	font-size: 1.4vw;
+}
+
+#tableHeader table, #tableHeader_2 table, #tableHeader_3 table, #tableHeader_4 table {
+	margin-bottom: 1%;
+}
+
+#tableHeader th, #tableHeader_2 th, #tableHeader_3 th, #tableHeader_4 th {
+	padding-top: 0.5%;
+}
+
+#tableBody, #tableBody_2, #tableBody_3, #tableBody_4 {
+	padding: 0% 1.5%;
+}
+
+#tableBody .tab-content, #tableBody_2 .tab-content, #tableBody_3 .tab-content, #tableBody_4 .tab-content {
+	padding: 0.9vw;
+}
+
+#tableBody .nav.nav-tabs a, #tableBody_2 .nav.nav-tabs a, #tableBody_3 .nav.nav-tabs a, #tableBody_4 .nav.nav-tabs a {
+	font-size: 0.9vw;
+	padding: 0%;
+}
+
+.table {
+	margin-bottom: 0vw;
+}
+
+.tabPadding {
+	padding: 0.7vw 0.7vw;
+}
+
+.nav.nav-tabs a {
+	color: #cccccc;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus {
+	color: black;
+}
+
+#shadowBox, #shadowBox_2, #shadowBox_3, #shadowBox_4 {
+	box-shadow: 0 0 5px #000;
+	background-color: white;
+	border-radius: 0.2vw;
+}
+
+/*@media (max-width: 320px) {
+	
+}*/
+
+.my-controller {
+  padding: 0%;
+  margin: 0%;
+}
+
+
+.other-controller {
+  padding: 0%;
+  margin: 0%;
+}
+
+.tabMain {
+	font-size: 1vw;
+	background-color: #F4F3F4;
+	border-top-left-radius: 0.2vw;	
+	border-top-right-radius: 0.2vw;
+	border: 2px solid #F4F3F4;
+}
+
+.tabMain button {
+	font-size: 0.85vw;
+	padding: 0.2vw 0.5vw;
+}
+
+.searchBox {
+	display: inline-block;
+	float: right;
+	padding-right: 2vw;
+	padding-bottom: 0.5vw;
+	padding-top: 0.5vw;
+}
+
+.search {
+	width: 8vw;
+	height: 2vw;
+}
+
+.dropdownDiv {
+	display: inline-block;
+	float: right;
+	padding-right: 2vw;
+	padding-bottom: 0.5vw;
+	padding-top: 0.5vw;
+}
+
+.dropdownBtn {
+	width: 8vw;
+	height: 2vw;	
+	font-size: 0.75vw;
+}
+
+.dropdownBtn option {
+	padding-right: 0vw;
+}
+
+.searchBarTitle {
+	font-size: 1vw;
+	padding-left: 2vw;
+	float: left;
+	padding-bottom: 0.5vw;
+	padding-top: 0.7vw;
+}
+
+#shadowBox .removeHover:hover, #shadowBox_2 .removeHover:hover, #shadowBox_3 .removeHover:hover, #shadowBox_4 .removeHover:hover {
+	background-color: white;
+}
+
+#byState td, #house td, #senate td, #activeBills td, #newBills td, #pickedHouse td, #pickedSenate td, #pickedJoint td, 
+#favLegislators td, #favBills td, #favCommittees td {
+	padding: 0.05vw;
+	font-size: 0.85vw;
+	line-height: 2.3vw;	
+}
+
+.ng-binding, .ng-scope{
+	font-size: 0.8vw;
+}
+
+#cust1 a, #cust2 a, #cust3 a, #cust4 a, #cust5 a{
+	padding: 0.4vw 0.9vw;
+}
+
+.imgR, .imgD, .imgI {
+	width: 1.8vw;
+}
+
+.imgH {
+	width: 1.4vw;
+	margin-right: 0.2vw;
+}
+
+.imgS {
+	width: 1.2vw;
+	margin-left: 0.15vw;
+	margin-right: 0.3vw;
+}
+
+#favBtn_committees, #rmBtn_legislators, #rmBtn_bills, #rmBtn_committees {
+	padding: 0vw;
+	background-color: white;
+	border: 2px solid #d9d9d9;
+	width: 2vw;
+	height: 2vw;
+}
+
+#favBtn_committees i, #rmBtn_legislators i, #rmBtn_bills i, #rmBtn_committees i {
+	font-size: 1.6em;
+}
+
+#favBtn_committees:hover, #rmBtn_legislators:hover,  #rmBtn_bills:hover, #rmBtn_committees:hover {
+	padding: 0vw;
+	background-color: #d9d9d9;
+	border: 2px solid #d9d9d9;
+	width: 2vw;
+	height: 2vw;
+}
+
+/*---------------------------------------------------carousel------------------------------------------------------*/
+
+.carouselHeader {
+	padding: 0.5vw 0.9vw 0.4vw 0.9vw;
+	border-bottom: 2px solid #F4F3F4;
+	overflow: hidden;
+}
+
+.carouselHeader .goBack {
+	padding: 0vw;
+	width: 2.2vw;
+	height: 2.2vw;
+	background-color: white;
+	border: 2px solid #e6e6e6;
+	font-size: 0.8vw;
+}
+
+.carouselHeader .goBack:hover {
+	background-color: #F4F3F4;
+}
+
+.carouselHeader .favoriteBtn {
+	padding: 0vw;
+	width: 2.2vw;
+	height: 2.2vw;
+	float: right;
+	background-color: white;
+	border: 2px solid #e6e6e6;
+	font-size: 0.8vw;
+}
+
+.carouselHeader .favoriteBtn:hover {
+	background-color: #F4F3F4;
+}
+
+.carouselHeader span {
+	vertical-align: middle;
+	display: inline-block;
+	font-size: 0.9vw;
+}
+
+.carouselLeft, .carouselRight {
+	padding: 0.45vw 1vw;
+}
+
+#legislatorsCarousel td {
+	padding: 0.45vw;	
+	font-size: 0.8vw;	
+}
+
+#billsCarousel td {
+	padding: 0.6vw 0.45vw;	
+	font-size: 0.9vw;
+}
+
+#legislatorsCarousel th, #billsCarousel th {
+	padding: 0.3vw;	
+}
+
+#legislatorsCarousel .tdStyle {
+	font-weight: bold; 
+	min-width: 50%; 
+	padding-left: 5.5vw;
+}
+
+#legislatorsCarousel .tdStyle_2 {
+	min-width: 20%; 
+}
+
+#legislatorsCarousel .tdStyle_3 {
+	min-width: 15%; 
+}
+
+#billsCarousel .tdStyle_4 {
+	min-width: 25%;
+}
+
+#targetPhoto {
+	width: 10vw;
+}
+
+.socialImg img {
+	width: 2.3vw;
+}
+
+.socialImg a {
+	padding-right: 0.6vw;
+}
+
+.progress {
+	margin-bottom: 0vw;
+	height: 1.35vw;
+}
+
+.setYellow {
+	color: yellow;
+}
+
+#favBtn_legislators i {
+	font-size: 1.7em;
+}
+
+
