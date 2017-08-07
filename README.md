@@ -2,6 +2,8 @@ Redo the Congress-Info-Search project with more functions, better appearance and
 
 Video Demo: https://youtu.be/CiRaqp1XqjM
 
+Android Version: https://github.com/JianyangZhang/Congress-Info-Search-Android-Version
+
 ![main1](https://cloud.githubusercontent.com/assets/22739177/21064488/e130bf0a-be0f-11e6-9459-8273aa25d0cf.PNG)
 ![main2](https://cloud.githubusercontent.com/assets/22739177/21064489/e131b4be-be0f-11e6-967b-c77d6eeb7c9f.PNG)
 ![bu3](https://cloud.githubusercontent.com/assets/22739177/21446218/1ea00586-c878-11e6-92b0-0c3155c03900.PNG)
