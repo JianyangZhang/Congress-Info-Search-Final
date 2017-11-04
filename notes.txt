@@ -1,0 +1,3 @@
+VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ 
+
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath "d:\mongoData"
