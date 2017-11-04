@@ -1,0 +1,296 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001087",
+         
+         "first_name": "Rick",
+         "middle_name": null,
+         "last_name": "Crawford",
+         "date_of_birth": "1966-01-22",
+         "gender": "M",
+         "url": "https://crawford.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412400",
+         "cspan_id": "623259",
+         "votesmart_id": "119208",
+         "icpsr_id": "21106",
+         "twitter_account": "RepRickCrawford",
+         "facebook_account": "RepRickCrawford",
+         "youtube_account": "RepRickCrawford",
+         "crp_id": "N00030770",
+         "google_entity_id": "/m/0czb3pp",
+         "rss_url": "https://crawford.house.gov/news/rss.aspx",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0AR01083",
+           "seniority": "8",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:1",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2422 Rayburn House Office Building",
+           "phone": "202-225-4076",
+           "fax": "202-225-5602",
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 89,
+           "missed_votes_pct": 2.79,
+           "votes_with_party_pct": 98.31,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Nutrition",
+             "code": "HSAG03",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "General Farm Commodities and Risk Management",
+             "code": "HSAG16",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG16.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats",
+             "code": "HSIG03",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Department of Defense Intelligence and Overhead Architecture",
+             "code": "HSIG04",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Water Resources and Environment",
+             "code": "HSPW02",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Highways and Transit",
+             "code": "HSPW12",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Economic Development, Public Buildings, and Emergency Management",
+             "code": "HSPW13",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0AR01083",
+           "seniority": "6",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 150,
+           "missed_votes_pct": 4.38,
+           "votes_with_party_pct": 96.29,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:1",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 221,
+           "missed_votes_pct": 7.05,
+           "votes_with_party_pct": 94.04,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 13,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAG.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:1",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 204,
+           "missed_votes_pct": 0.87,
+           "votes_with_party_pct": 93.78,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 17,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 17,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

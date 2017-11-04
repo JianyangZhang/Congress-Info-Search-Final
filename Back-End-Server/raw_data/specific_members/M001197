@@ -1,0 +1,178 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "M001197",
+         
+         "first_name": "Martha",
+         "middle_name": null,
+         "last_name": "McSally",
+         "date_of_birth": "1966-03-22",
+         "gender": "F",
+         "url": "https://mcsally.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412611",
+         "cspan_id": "29126",
+         "votesmart_id": "137299",
+         "icpsr_id": "21501",
+         "twitter_account": "RepMcSally",
+         "facebook_account": "RepMcSally",
+         "youtube_account": null,
+         "crp_id": "N00033982",
+         "google_entity_id": "/m/027fybv",
+         "rss_url": "https://mcsally.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AZ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2AZ08102",
+           "seniority": "4",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:2",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "510 Cannon House Office Building",
+           "phone": "202-225-2542",
+           "fax": "202-225-0378",
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 91,
+           "missed_votes_pct": 1.97,
+           "votes_with_party_pct": 92.13,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Military Personnel",
+             "code": "HSAS02",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Readiness",
+             "code": "HSAS03",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Tactical Air and Land Forces",
+             "code": "HSAS25",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Border and Maritime Security",
+             "code": "HSHM11",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM11.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emergency Preparedness, Response and Communications",
+             "code": "HSHM12",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AZ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2AZ08102",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:2",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 197,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 91.85,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 33,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001176",
+         
+         "first_name": "Steve",
+         "middle_name": null,
+         "last_name": "Scalise",
+         "date_of_birth": "1965-10-06",
+         "gender": "M",
+         "url": "https://scalise.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412261",
+         "cspan_id": "1015311",
+         "votesmart_id": "9026",
+         "icpsr_id": "20759",
+         "twitter_account": "SteveScalise",
+         "facebook_account": "RepSteveScalise",
+         "youtube_account": "RepSteveScalise",
+         "crp_id": "N00009660",
+         "google_entity_id": "/m/0br34c",
+         "rss_url": "https://scalise.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "LA",
+           "party": "R",
+           "leadership_role": "Majority Whip",
+           "fec_candidate_id": "H0LA01087",
+           "seniority": "12",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:la/cd:1",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2338 Rayburn House Office Building",
+           "phone": "202-225-3015",
+           "fax": "202-226-0386",
+           "contact_form": null,
+           "bills_sponsored": 3,
+           "bills_cosponsored": 24,
+           "missed_votes_pct": 41.22,
+           "votes_with_party_pct": 98.60,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Communications and Technology",
+             "code": "HSIF16",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "LA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0LA01087",
+           "seniority": "10",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:la/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 46,
+           "missed_votes_pct": 1.74,
+           "votes_with_party_pct": 96.70,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "LA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:la/cd:1",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 165,
+           "missed_votes_pct": 1.59,
+           "votes_with_party_pct": 96.25,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIF.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "LA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:la/cd:1",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 193,
+           "missed_votes_pct": 1.18,
+           "votes_with_party_pct": 94.71,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSIF.json",
+             "rank_in_party": 19,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "LA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:la/cd:1",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 242,
+           "missed_votes_pct": 1.82,
+           "votes_with_party_pct": 94.57,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSIF.json",
+             "rank_in_party": 21,
+             "begin_date": "2009-01-22",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSVR.json",
+             "rank_in_party": 12,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "LA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:la/cd:1",
+           "start_date": "2008-05-07",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 59,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 93.60,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

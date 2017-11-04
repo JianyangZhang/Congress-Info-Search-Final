@@ -1,0 +1,198 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr849-115",
+         "bill_slug": "hr849",
+         "congress": "115",
+         "bill": "H.R.849",
+         "bill_type": "hr",
+         "number": "H.R.849",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr849.json",
+         "title": "To repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.",
+         "short_title": "Protecting Seniors Access to Medicare Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Phil Roe",
+         "sponsor_id": "R000582",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000582.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/849",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr849",
+         "introduced_date": "2017-02-03",
+         "active": true,
+         "house_passage": "2017-11-02",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 270,
+         "cosponsors_by_party": {"D":45,"R":225},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU","HSIF","HSWM"],
+         "subcommittee_codes": ["HSWM02","HSIF14"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-11-02",
+         "house_passage_vote": "2017-11-02",
+         "senate_passage_vote": null,
+         "summary": "Protecting Seniors' Access to Medicare Act of 2017 This bill amends the Patient Protection and Affordable Care Act (PPACA) to terminate the Independent Payment Advisory Board (IPAB). Under the PPACA, the IPAB is tasked with developing proposals to reduce the per capital rate of growth in Medicare spending.",
+         "summary_short": "Protecting Seniors' Access to Medicare Act of 2017 This bill amends the Patient Protection and Affordable Care Act (PPACA) to terminate the Independent Payment Advisory Board (IPAB). Under the PPACA, the IPAB is tasked with developing proposals to reduce the per capital rate of growth in Medicare spending.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "On passage Passed by the Yeas and Nays: 307 - 111 (Roll no. 604). (text: CR H8413)"
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 849."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Rule provides for consideration of H.R. 849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Considered under the provisions of rule H. Res. 600. (consideration: CR H8413-8421)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Rule H. Res. 600 passed House."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Rules Committee Resolution H. Res. 600 Reported to House. Rule provides for consideration of H.R. 849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-31",
+           "description": "Placed on the Union Calendar, Calendar No. 273."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-10-31",
+           "description": "Committee on Rules discharged."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-10-31",
+           "description": "Committee on Energy and Commerce discharged."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-31",
+           "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-373, Part I."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 13."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-15",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Referred to House Rules"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Referred to House Energy and Commerce"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Referred to House Ways and Means"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-11-02",
+             "time": "17:11:00",
+             "roll_call": "604",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 307,
+             "total_no": 111,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/604.json"
+           }
+         ]
+
+      }
+   ]
+}

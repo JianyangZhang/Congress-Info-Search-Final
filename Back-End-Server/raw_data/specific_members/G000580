@@ -1,0 +1,156 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000580",
+         
+         "first_name": "Thomas",
+         "middle_name": null,
+         "last_name": "Garrett",
+         "date_of_birth": "1972-03-27",
+         "gender": "M",
+         "url": "https://tomgarrett.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412729",
+         "cspan_id": "103625",
+         "votesmart_id": "134493",
+         "icpsr_id": null,
+         "twitter_account": "Rep_Tom_Garrett",
+         "facebook_account": "congressman-Tom-Garrett-1835767753333490",
+         "youtube_account": null,
+         "crp_id": "N00038847",
+         "google_entity_id": "/m/0j_7g_0",
+         "rss_url": "https://tomgarrett.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "VA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6VA05142",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:va/cd:5",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "415 Cannon House Office Building",
+           "phone": "202-225-4711",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 145,
+           "missed_votes_pct": 16.91,
+           "votes_with_party_pct": 94.66,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 26,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Early Childhood, Elementary, and Secondary Education",
+             "code": "HSED14",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Africa, Global Health, Global Human Rights, and International Organizations",
+             "code": "HSFA16",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Terrorism, Nonproliferation, and Trade",
+             "code": "HSFA18",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA18.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Cybersecurity, Infrastructure Protection, and Security Technologies",
+             "code": "HSHM08",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emergency Preparedness, Response and Communications",
+             "code": "HSHM12",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

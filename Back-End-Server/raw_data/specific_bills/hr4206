@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4206-115",
+         "bill_slug": "hr4206",
+         "congress": "115",
+         "bill": "H.R.4206",
+         "bill_type": "hr",
+         "number": "H.R.4206",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4206.json",
+         "title": "To amend title XVIII of the Social Security Act to modernize the physician self-referral prohibitions to promote care coordination in the merit-based incentive payment system and to facilitate physician practice participation in alternative payment models under the Medicare program, and for other purposes.",
+         "short_title": "To amend title XVIII of the Social Security Act to modernize the physician self-referral prohibitions to promote care coordination in the merit-based incentive payment system and to facilitate physician practice participation in alternative payment models",
+         "sponsor_title": "Rep.",
+         "sponsor": "Larry Bucshon",
+         "sponsor_id": "B001275",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001275.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4206",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4206",
+         "introduced_date": "2017-11-01",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "cosponsors_by_party": {"D":2,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Ways and Means Committee",
+         "committee_codes": ["HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

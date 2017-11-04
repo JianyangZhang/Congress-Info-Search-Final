@@ -1,0 +1,162 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001281",
+         
+         "first_name": "Joyce",
+         "middle_name": null,
+         "last_name": "Beatty",
+         "date_of_birth": "1950-03-12",
+         "gender": "F",
+         "url": "https://beatty.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412565",
+         "cspan_id": "67294",
+         "votesmart_id": "2427",
+         "icpsr_id": "21352",
+         "twitter_account": "RepBeatty",
+         "facebook_account": "RepJoyceBeatty",
+         "youtube_account": null,
+         "crp_id": "N00033904",
+         "google_entity_id": "/m/03lcwb",
+         "rss_url": "https://beatty.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2OH03125",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:3",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "133 Cannon House Office Building",
+           "phone": "202-225-4324",
+           "fax": "202-225-1984",
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 307,
+           "missed_votes_pct": 2.79,
+           "votes_with_party_pct": 96.28,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Housing and Insurance",
+             "code": "HSBA04",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA04.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSBA09",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2OH03125",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:3",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 24,
+           "bills_cosponsored": 365,
+           "missed_votes_pct": 1.96,
+           "votes_with_party_pct": 97.15,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:3",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 339,
+           "missed_votes_pct": 1.93,
+           "votes_with_party_pct": 96.07,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 26,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

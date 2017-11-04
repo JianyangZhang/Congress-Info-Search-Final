@@ -1,0 +1,134 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000578",
+         
+         "first_name": "Matt",
+         "middle_name": null,
+         "last_name": "Gaetz",
+         "date_of_birth": "1982-05-07",
+         "gender": "M",
+         "url": "https://gaetz.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412690",
+         "cspan_id": "104528",
+         "votesmart_id": "117101",
+         "icpsr_id": null,
+         "twitter_account": "RepMattGaetz",
+         "facebook_account": "CongressmanMattGaetz",
+         "youtube_account": null,
+         "crp_id": "N00039503",
+         "google_entity_id": "/m/0s8w2_s",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6FL01119",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:1",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "507 Cannon House Office Building",
+           "phone": "202-225-4136",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 170,
+           "missed_votes_pct": 0.99,
+           "votes_with_party_pct": 91.71,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 31,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSAS06",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS06.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Tactical Air and Land Forces",
+             "code": "HSAS25",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Regulatory Reform, Commercial, and Antitrust Law",
+             "code": "HSJU05",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU05.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

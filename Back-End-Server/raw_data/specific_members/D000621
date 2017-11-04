@@ -1,0 +1,258 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000621",
+         
+         "first_name": "Ron",
+         "middle_name": null,
+         "last_name": "DeSantis",
+         "date_of_birth": "1978-09-14",
+         "gender": "M",
+         "url": "https://desantis.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412526",
+         "cspan_id": "79744",
+         "votesmart_id": "137630",
+         "icpsr_id": "21318",
+         "twitter_account": "RepDeSantis",
+         "facebook_account": "RepDeSantis",
+         "youtube_account": "RepRonDeSantis",
+         "crp_id": "N00034746",
+         "google_entity_id": "/m/0l8mn35",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2FL00292",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:6",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1524 Longworth House Office Building",
+           "phone": "202-225-2706",
+           "fax": "202-226-6299",
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 111,
+           "missed_votes_pct": 7.06,
+           "votes_with_party_pct": 94.70,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "the Western Hemisphere",
+             "code": "HSFA07",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA07.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Middle East and North Africa",
+             "code": "HSFA13",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "National Security",
+             "code": "HSGO06",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO06.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Government Operations",
+             "code": "HSGO24",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO24.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Constitution and Civil Justice",
+             "code": "HSJU10",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2FL00292",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:6",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 145,
+           "missed_votes_pct": 2.42,
+           "votes_with_party_pct": 93.97,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSFA.json",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:6",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 203,
+           "missed_votes_pct": 0.34,
+           "votes_with_party_pct": 92.93,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSFA.json",
+             "rank_in_party": 20,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSJU.json",
+             "rank_in_party": 22,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 23,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

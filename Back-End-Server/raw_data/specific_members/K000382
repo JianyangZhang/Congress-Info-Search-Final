@@ -1,0 +1,218 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000382",
+         
+         "first_name": "Ann",
+         "middle_name": "McLane",
+         "last_name": "Kuster",
+         "date_of_birth": "1956-09-05",
+         "gender": "F",
+         "url": "https://kuster.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412557",
+         "cspan_id": "62650",
+         "votesmart_id": "122256",
+         "icpsr_id": "21340",
+         "twitter_account": "RepAnnieKuster",
+         "facebook_account": "CongresswomanAnnieKuster",
+         "youtube_account": "RepKuster",
+         "crp_id": "N00030875",
+         "google_entity_id": "/m/064p47_",
+         "rss_url": "https://kuster.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NH",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0NH02181",
+           "seniority": "6",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nh/cd:2",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "137 Cannon House Office Building",
+           "phone": "202-225-5206",
+           "fax": "202-225-2946",
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 269,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 93.69,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Conservation and Forestry",
+             "code": "HSAG15",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Commodity Exchanges, Energy, and Credit",
+             "code": "HSAG22",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG22.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSVR03",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSVR08",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR08.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NH",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0NH02181",
+           "seniority": "4",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nh/cd:2",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 327,
+           "missed_votes_pct": 0.83,
+           "votes_with_party_pct": 94.22,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSVR.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NH",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nh/cd:2",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 445,
+           "missed_votes_pct": 1.09,
+           "votes_with_party_pct": 92.88,
+           "committees": [
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSM.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-23",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSVR.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAG.json",
+             "rank_in_party": 13,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

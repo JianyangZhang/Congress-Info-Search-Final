@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s2070-115",
+         "bill_slug": "s2070",
+         "congress": "115",
+         "bill": "S.2070",
+         "bill_type": "s",
+         "number": "S.2070",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s2070.json",
+         "title": "A bill to amend the Violent Crime Control and Law Enforcement Act of 1994, to reauthorize the Missing Alzheimer's Disease Patient Alert Program, and to promote initiatives that will reduce the risk of injury and death relating to the wandering characteristics of some children with autism.",
+         "short_title": "A bill to amend the Violent Crime Control and Law Enforcement Act of 1994, to reauthorize the Missing Alzheimer's Disease Patient Alert Program, and to promote initiatives that will reduce the risk of injury and death relating to the wandering characteris",
+         "sponsor_title": "Sen.",
+         "sponsor": "Charles E. Grassley",
+         "sponsor_id": "G000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2070",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s2070",
+         "introduced_date": "2017-11-02",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "cosponsors_by_party": {"D":3,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S7002-7003)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-02",
+           "description": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S7002-7003)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

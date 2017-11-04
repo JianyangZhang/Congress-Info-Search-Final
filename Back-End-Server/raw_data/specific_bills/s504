@@ -1,0 +1,198 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s504-115",
+         "bill_slug": "s504",
+         "congress": "115",
+         "bill": "S.504",
+         "bill_type": "s",
+         "number": "S.504",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s504.json",
+         "title": "A bill to permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.",
+         "short_title": "Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mazie K. Hirono",
+         "sponsor_id": "H001042",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001042.json",
+         "sponsor_party": "D",
+         "sponsor_state": "HI",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/504",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s504",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": "2017-10-23",
+         "senate_passage": "2017-09-26",
+         "enacted": "2017-10-26",
+         "vetoed": null,
+         "cosponsors": 3,
+         "cosponsors_by_party": {"R":2,"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Immigration",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Became Public Law No: 115-79.",
+         "last_vote_date": "2017-10-23",
+         "house_passage_vote": "2017-10-23",
+         "senate_passage_vote": "2017-09-26",
+         "summary": "Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017  (Sec. 2) This bill amends the Homeland Security Act of 2002 to authorize U.S. Customs and Border Protection (CBP) to issue an Asia-Pacific Economic Cooperation Business Travel Card (ABT Card) to an individual who: (1) is a U.S. citizen, (2) has been approved and is in good standing in an existing Department of Homeland Security (DHS) international trusted traveler program, and (3) is engaged in business in the Asia-Pacific region or is a U.S. government official engaged in Asia-Pacific Economic Cooperation business.  The bill: (1) transfers card program authority from the the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 (APECBTC Act) to the Homeland Security Act of 2002; and (2) makes the program, which is scheduled to end on September 30, 2018, permanent. The CBP shall: (1) integrate application procedures for, and issuance, renewal, and revocation of, ABT cards with existing DHS international trusted traveler programs; (2) prescribe and collect a fee for card issuance and renewal, and (3) notify Congress if card program expenditures exceed collected amounts.  The bill establishes in the Treasury an Asia-Pacific Economic Cooperation Business Travel Card Account (Account). (Sec. 3) Amounts in the travel card account under the APECBTC Act are transferred to the Account and shall be available for expenses incurred with any card, and such Act is repealed. A card issued pursuant to such Act before the date of enactment of this bill shall remain valid until it expires.",
+         "summary_short": "Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017  (Sec. 2) This bill amends the Homeland Security Act of 2002 to authorize U.S. Customs and Border Protection (CBP) to issue an Asia-Pacific Economic Cooperation Business Travel Card (ABT Card) to an individual who: (1) is a U.S. citizen, (2) has been approved and is in good standing in an existing Department of Homeland Security (DHS) international trusted traveler program, and (3) is engaged in business in the Asia-Pacific r...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 19,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-11-02",
+           "description": "Became Public Law No: 115-79."
+         },
+                  {
+           "id": 18,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-11-02",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-26",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 570). (text: CR H8056)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "Considered as unfinished business. (consideration: CR H8062-8063)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on S. 504."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H8056-8057)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-23",
+           "description": "Ms. McSally moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-27",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-27",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-27",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-26",
+           "description": "Passed Senate with an amendment by Unanimous Consent. (text: CR S6144-6145)"
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-26",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S6144-6145)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 190."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-01",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-140."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-10-23",
+             "time": "19:01:00",
+             "roll_call": "570",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 401,
+             "total_no": 2,
+             "total_not_voting": 29,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/570.json"
+           }
+         ]
+
+      }
+   ]
+}

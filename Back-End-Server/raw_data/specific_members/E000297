@@ -1,0 +1,134 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "E000297",
+         
+         "first_name": "Adriano",
+         "middle_name": null,
+         "last_name": "Espaillat",
+         "date_of_birth": "1954-09-27",
+         "gender": "M",
+         "url": "https://espaillat.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412718",
+         "cspan_id": "68413",
+         "votesmart_id": "14379",
+         "icpsr_id": null,
+         "twitter_account": "RepEspaillat",
+         "facebook_account": "RepEspaillat",
+         "youtube_account": null,
+         "crp_id": "N00034549",
+         "google_entity_id": "/m/06nfs2",
+         "rss_url": "https://espaillat.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2NY13096",
+           "seniority": "2",
+           "district": "13", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:13",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1630 Longworth House Office Building",
+           "phone": "202-225-4365",
+           "fax": "202-225-0816",
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 213,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 95.84,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health, Employment, Labor, and Pensions",
+             "code": "HSED02",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Western Hemisphere",
+             "code": "HSFA07",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA07.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health and Technology",
+             "code": "HSSM26",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM26.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000624",
+         
+         "first_name": "Debbie",
+         "middle_name": null,
+         "last_name": "Dingell",
+         "date_of_birth": "1953-11-23",
+         "gender": "F",
+         "url": "https://debbiedingell.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412637",
+         "cspan_id": "20818",
+         "votesmart_id": "152482",
+         "icpsr_id": "21529",
+         "twitter_account": "RepDebDingell",
+         "facebook_account": "RepDebbieDingell",
+         "youtube_account": null,
+         "crp_id": "N00036149",
+         "google_entity_id": "/m/03m4188",
+         "rss_url": "https://debbiedingell.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MI12079",
+           "seniority": "4",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:12",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "116 Cannon House Office Building",
+           "phone": "202-225-4071",
+           "fax": "202-226-0371",
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 259,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 97.67,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Communications and Technology",
+             "code": "HSIF16",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Digital Commerce and Consumer Protection",
+             "code": "HSIF17",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF17.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Environment",
+             "code": "HSIF18",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF18.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MI12079",
+           "seniority": "2",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:12",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 197,
+           "missed_votes_pct": 2.79,
+           "votes_with_party_pct": 96.82,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

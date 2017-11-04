@@ -1,0 +1,359 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001048",
+         
+         "first_name": "John",
+         "middle_name": null,
+         "last_name": "Culberson",
+         "date_of_birth": "1956-08-24",
+         "gender": "M",
+         "url": "https://culberson.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400089",
+         "cspan_id": "88078",
+         "votesmart_id": "5488",
+         "icpsr_id": "20139",
+         "twitter_account": "CongCulberson",
+         "facebook_account": null,
+         "youtube_account": "johnculbersontx07",
+         "crp_id": "N00009738",
+         "google_entity_id": "/m/03sfhc",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0TX07055",
+           "seniority": "18",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2161 Rayburn House Office Building",
+           "phone": "202-225-2571",
+           "fax": "202-225-4381",
+           "contact_form": null,
+           "bills_sponsored": 3,
+           "bills_cosponsored": 103,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 97.34,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Homeland Security",
+             "code": "HSAP15",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Commerce, Justice, Science, and Related Agencies",
+             "code": "HSAP19",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP19.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation, and Housing and Urban Development, and Related Agencies",
+             "code": "HSAP20",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0TX07055",
+           "seniority": "16",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 155,
+           "missed_votes_pct": 4.83,
+           "votes_with_party_pct": 94.77,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 176,
+           "missed_votes_pct": 9.40,
+           "votes_with_party_pct": 94.26,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 199,
+           "missed_votes_pct": 8.97,
+           "votes_with_party_pct": 94.60,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAP.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 3,
+           "bills_cosponsored": 305,
+           "missed_votes_pct": 5.69,
+           "votes_with_party_pct": 92.04,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAP.json",
+             "rank_in_party": 14,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 264,
+           "missed_votes_pct": 7.57,
+           "votes_with_party_pct": 91.29,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAP.json",
+             "rank_in_party": 23,
+             "begin_date": "2007-01-04",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 201,
+           "missed_votes_pct": 5.19,
+           "votes_with_party_pct": 94.87,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 164,
+           "missed_votes_pct": 6.39,
+           "votes_with_party_pct": 93.44,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:7",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 1,
+           "bills_cosponsored": 100,
+           "missed_votes_pct": 2.31,
+           "votes_with_party_pct": 94.14,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

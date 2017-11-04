@@ -1,0 +1,261 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "H001059",
+         
+         "first_name": "Randy",
+         "middle_name": null,
+         "last_name": "Hultgren",
+         "date_of_birth": "1966-03-01",
+         "gender": "M",
+         "url": "https://hultgren.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412422",
+         "cspan_id": "62575",
+         "votesmart_id": "18199",
+         "icpsr_id": "21129",
+         "twitter_account": "RepHultgren",
+         "facebook_account": "RepHultgren",
+         "youtube_account": "rephultgren",
+         "crp_id": "N00031104",
+         "google_entity_id": "/m/0h0lr9",
+         "rss_url": "https://hultgren.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IL14080",
+           "seniority": "8",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:14",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2455 Rayburn House Office Building",
+           "phone": "202-225-2976",
+           "fax": "202-225-0697",
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 126,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 96.51,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Housing and Insurance",
+             "code": "HSBA04",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Capital Markets, Securities, and Investment",
+             "code": "HSBA16",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Research and Technology",
+             "code": "HSSY15",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy",
+             "code": "HSSY20",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IL14080",
+           "seniority": "6",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:14",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 172,
+           "missed_votes_pct": 2.04,
+           "votes_with_party_pct": 95.99,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:14",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 188,
+           "missed_votes_pct": 1.26,
+           "votes_with_party_pct": 95.92,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 28,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:14",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 305,
+           "missed_votes_pct": 0.31,
+           "votes_with_party_pct": 93.07,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSY.json",
+             "rank_in_party": 19,
+             "begin_date": "2011-02-09",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 23,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 20,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

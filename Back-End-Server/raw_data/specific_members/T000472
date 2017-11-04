@@ -1,0 +1,247 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "T000472",
+         
+         "first_name": "Mark",
+         "middle_name": null,
+         "last_name": "Takano",
+         "date_of_birth": "1960-12-10",
+         "gender": "M",
+         "url": "https://takano.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412520",
+         "cspan_id": "2737",
+         "votesmart_id": "22337",
+         "icpsr_id": "21312",
+         "twitter_account": "RepMarkTakano",
+         "facebook_account": "RepMarkTakano",
+         "youtube_account": "RepMarkTakano",
+         "crp_id": "N00006701",
+         "google_entity_id": "/m/0k3lj_y",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA43245",
+           "seniority": "6",
+           "district": "41", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:41",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1507 Longworth House Office Building",
+           "phone": "202-225-2305",
+           "fax": "202-225-7018",
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 386,
+           "missed_votes_pct": 2.96,
+           "votes_with_party_pct": 95.60,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Workforce Protections",
+             "code": "HSED10",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED10.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy",
+             "code": "HSSY20",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY20.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSVR03",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Economic Opportunity",
+             "code": "HSVR10",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA43245",
+           "seniority": "4",
+           "district": "41", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:41",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 28,
+           "bills_cosponsored": 506,
+           "missed_votes_pct": 0.38,
+           "votes_with_party_pct": 96.21,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSVR.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "41", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:41",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 524,
+           "missed_votes_pct": 0.17,
+           "votes_with_party_pct": 94.54,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 19,
+             "begin_date": "2014-04-01",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-14",
+             "end_date": "2014-04-01"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSVR.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

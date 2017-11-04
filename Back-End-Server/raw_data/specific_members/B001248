@@ -1,0 +1,377 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001248",
+         
+         "first_name": "Michael",
+         "middle_name": "C.",
+         "last_name": "Burgess",
+         "date_of_birth": "1950-12-23",
+         "gender": "M",
+         "url": "https://burgess.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400052",
+         "cspan_id": "1003620",
+         "votesmart_id": "50120",
+         "icpsr_id": "20355",
+         "twitter_account": "MichaelCBurgess",
+         "facebook_account": "michaelcburgess",
+         "youtube_account": "michaelcburgessmd",
+         "crp_id": "N00025219",
+         "google_entity_id": "/m/03tq8_",
+         "rss_url": "https://burgess.house.gov/news/rss.aspx",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2TX26093",
+           "seniority": "16",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2336 Rayburn House Office Building",
+           "phone": "202-225-7772",
+           "fax": "202-225-2919",
+           "contact_form": null,
+           "bills_sponsored": 31,
+           "bills_cosponsored": 98,
+           "missed_votes_pct": 2.30,
+           "votes_with_party_pct": 94.96,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSIF02",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSIF14",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF14.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Digital Commerce and Consumer Protection",
+             "code": "HSIF17",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Legislative and Budget Process Subcommittee",
+             "code": "HSRU02",
+             "parent_committee_id": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU/subcommittees/HSRU02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2TX26093",
+           "seniority": "14",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 55,
+           "bills_cosponsored": 201,
+           "missed_votes_pct": 0.53,
+           "votes_with_party_pct": 90.90,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSRU.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 49,
+           "bills_cosponsored": 241,
+           "missed_votes_pct": 2.01,
+           "votes_with_party_pct": 90.15,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIF.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSRU.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 30,
+           "bills_cosponsored": 222,
+           "missed_votes_pct": 1.62,
+           "votes_with_party_pct": 88.48,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/JSEC.json",
+             "rank_in_party": 2,
+             "begin_date": "2011-01-26",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSIF.json",
+             "rank_in_party": 14,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 280,
+           "missed_votes_pct": 3.75,
+           "votes_with_party_pct": 92.83,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSIF.json",
+             "rank_in_party": 18,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 33,
+           "bills_cosponsored": 285,
+           "missed_votes_pct": 4.48,
+           "votes_with_party_pct": 90.28,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSIF.json",
+             "rank_in_party": 25,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 196,
+           "missed_votes_pct": 1.07,
+           "votes_with_party_pct": 93.09,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:26",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 243,
+           "missed_votes_pct": 2.05,
+           "votes_with_party_pct": 94.23,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

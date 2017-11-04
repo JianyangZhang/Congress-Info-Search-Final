@@ -1,0 +1,207 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1329-115",
+         "bill_slug": "hr1329",
+         "congress": "115",
+         "bill": "H.R.1329",
+         "bill_type": "hr",
+         "number": "H.R.1329",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1329.json",
+         "title": "To increase, effective as of December 1, 2017, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, to amend title 38, United States Code, to improve the United States Court of Appeals for Veterans Claims, to improve the processing of claims by the Secretary of Veterans Affairs, and for other purposes.",
+         "short_title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Bost",
+         "sponsor_id": "B001295",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001295.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1329",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1329",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": "2017-05-23",
+         "senate_passage": "2017-10-25",
+         "enacted": "2017-11-02",
+         "vetoed": null,
+         "cosponsors": 12,
+         "cosponsors_by_party": {"D":9,"R":3},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR09"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Became Public Law No: 115-75.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-23",
+         "senate_passage_vote": "2017-10-25",
+         "summary": "(This measure has not been amended since it was reported to the House on May 19, 2017. The summary of that version is repeated here.) Veterans' Compensation Cost-of-Living Adjustment Act of 2017  (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to increase, as of December 1, 2017, the rates of veterans' wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Each such increase shall be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.  The VA may adjust administratively, consistent with such increases, the rates of disability compensation payable to persons entitled to veterans benefits under public laws administered by the VA on December 31, 1958, who have not received benefits under provisions governing veterans compensation for service-connected disability or death. (Sec. 3) The VA shall publish such increased rates in the Federal Register not later than the date on which certain social security increases are required to be published in FY2018.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on May 19, 2017. The summary of that version is repeated here.) Veterans' Compensation Cost-of-Living Adjustment Act of 2017  (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to increase, as of December 1, 2017, the rates of veterans' wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for s...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 22,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-11-02",
+           "description": "Became Public Law No: 115-75."
+         },
+                  {
+           "id": 21,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-11-02",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-26",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-25",
+           "description": "Passed Senate without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-10-25",
+           "description": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6820)"
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4476)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1329."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H4476-4477)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-19",
+           "description": "Placed on the Union Calendar, Calendar No. 83."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-19",
+           "description": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-134."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

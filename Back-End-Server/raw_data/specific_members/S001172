@@ -1,0 +1,309 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001172",
+         
+         "first_name": "Adrian",
+         "middle_name": null,
+         "last_name": "Smith",
+         "date_of_birth": "1970-12-19",
+         "gender": "M",
+         "url": "https://adriansmith.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412217",
+         "cspan_id": "1022845",
+         "votesmart_id": "21284",
+         "icpsr_id": "20729",
+         "twitter_account": "RepAdrianSmith",
+         "facebook_account": null,
+         "youtube_account": "RepAdrianSmith",
+         "crp_id": "N00027623",
+         "google_entity_id": "/m/0c505n",
+         "rss_url": "https://adriansmith.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6NE03115",
+           "seniority": "12",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ne/cd:3",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "320 Cannon House Office Building",
+           "phone": "202-225-6435",
+           "fax": "202-225-0207",
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 53,
+           "missed_votes_pct": 3.78,
+           "votes_with_party_pct": 96.93,
+           "committees": [
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Human Resources",
+             "code": "HSWM03",
+             "parent_committee_id": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM/subcommittees/HSWM03.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSWM02",
+             "parent_committee_id": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM/subcommittees/HSWM02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6NE03115",
+           "seniority": "10",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ne/cd:3",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 95,
+           "missed_votes_pct": 1.13,
+           "votes_with_party_pct": 96.87,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSWM.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ne/cd:3",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 106,
+           "missed_votes_pct": 1.26,
+           "votes_with_party_pct": 97.03,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSWM.json",
+             "rank_in_party": 13,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ne/cd:3",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 114,
+           "missed_votes_pct": 0.68,
+           "votes_with_party_pct": 94.80,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSWM.json",
+             "rank_in_party": 16,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ne/cd:3",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 187,
+           "missed_votes_pct": 0.54,
+           "votes_with_party_pct": 95.56,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSY.json",
+             "rank_in_party": 15,
+             "begin_date": "2009-01-22",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAG.json",
+             "rank_in_party": 13,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSII.json",
+             "rank_in_party": 12,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ne/cd:3",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 188,
+           "missed_votes_pct": 1.07,
+           "votes_with_party_pct": 93.48,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBU.json",
+             "rank_in_party": 17,
+             "begin_date": "2007-01-18",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAG.json",
+             "rank_in_party": 19,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSSY.json",
+             "rank_in_party": 19,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -9,15 +9,15 @@ function MainController($scope) {
 	$scope.oJson_4 = ""; // targetBills
 	$scope.oJson_5 = ""; // activeBills
 	$scope.oJson_6 = ""; // newBills
-	
-	$scope.congressInfo = [];	
+
+	$scope.congressInfo = [];
 	$scope.committeesInfo = [];
 	$scope.activeBillsInfo = [];
-	$scope.newBillsInfo = [];	
+	$scope.newBillsInfo = [];
 	$scope.favLegislatorsInfo = [];
 	$scope.favBillsInfo = [];
 	$scope.favCommitteesInfo = [];
-	
+
 	$scope.targetInfo = "-------";
 	$scope.targetID = "-------";
 	$scope.targetPhoto = "-------";
@@ -35,7 +35,7 @@ function MainController($scope) {
 	$scope.targetBirthday = "-------";
 	$scope.targetTwitter = "-------";
 	$scope.targetFacebook = "-------";
-	
+
 	$scope.selectedBillID = "-------";
 	$scope.selectedTitle = "-------";
 	$scope.selectedBillType = "-------";
@@ -46,11 +46,11 @@ function MainController($scope) {
 	$scope.selectedCongressUrl = "-------";
 	$scope.selectedVersionName = "-------";
 	$scope.selectedPDF = "-------";
-	
-	$.ajaxSetup({async: false});	
+
+	$.ajaxSetup({async: false});
 	$scope.generateDetails_l = function () {
 		$scope.targetInfo = this.info;
-		$scope.targetID = this.info.bioguide_id; 
+		$scope.targetID = this.info.bioguide_id;
 		$scope.targetPhoto = "http://theunitedstates.io/images/congress/225x275/" + this.info.bioguide_id + ".jpg";
 		$scope.targetName = this.info.title + ". " + this.info.last_name + ", " + this.info.first_name;
 		if (this.info.oc_email && this.info.oc_email != null) {
@@ -67,7 +67,7 @@ function MainController($scope) {
 		$scope.targetContact = this.info.phone;
 		$scope.targetParty = this.info.party;
 		$scope.targetStartTerm = formatDate(this.info.term_start);
-		$scope.targetEndTerm = formatDate(this.info.term_end);		
+		$scope.targetEndTerm = formatDate(this.info.term_end);
 		var oDate = new Date();
 		$scope.termPercent = (oDate.getTime() - Date.parse(this.info.term_start)) / (Date.parse(this.info.term_end) - Date.parse(this.info.term_start)) * 100;
 		$scope.termPercent = parseInt($scope.termPercent);
@@ -83,39 +83,39 @@ function MainController($scope) {
 			$scope.targetTwitter = "http://twitter.com/" + this.info.twitter_id;
 		} else {
 			$scope.targetTwitter = "N.A";
-		}		
+		}
 		if (this.info.facebook_id && this.info.facebook_id != null) {
 			$scope.targetFacebook = "http://facebook.com/" + this.info.facebook_id;
 		} else {
 			$scope.targetFacebook = "N.A";
-		}		
+		}
 		if (this.info.website && this.info.website != null) {
 			$scope.targetWebsite = this.info.website;
 		} else {
 			$scope.targetWebsite = "N.A";
-		}		
+		}
 		var send_data_3 = {"dataBase": "committees", "flag_3": $scope.targetID};
-		$.get("http://localhost/myhw8/loadInfo.php", send_data_3, function (receive_data) {			
-			$scope.oJson_3 = eval("(" + receive_data + ")");				
+		$.get("http://localhost/myhw8/loadInfo.php", send_data_3, function (receive_data) {
+			$scope.oJson_3 = eval("(" + receive_data + ")");
 		});
-		$scope.targetCommittees = [];		
+		$scope.targetCommittees = [];
 		for (var i = 0; i < $scope.oJson_3.count; i++) {
-			$scope.targetCommittees.push($scope.oJson_3.results[i]);		
-		}		
+			$scope.targetCommittees.push($scope.oJson_3.results[i]);
+		}
 		var send_data_4 = {"dataBase": "bills", "flag_4": $scope.targetID};
-		$.get("http://localhost/myhw8/loadInfo.php", send_data_4, function (receive_data) {			
-			$scope.oJson_4 = eval("(" + receive_data + ")");				
+		$.get("http://localhost/myhw8/loadInfo.php", send_data_4, function (receive_data) {
+			$scope.oJson_4 = eval("(" + receive_data + ")");
 		});
-		$scope.targetBills = [];		
+		$scope.targetBills = [];
 		for (var i = 0; i < $scope.oJson_4.count; i++) {
-			$scope.targetBills.push($scope.oJson_4.results[i]);		
+			$scope.targetBills.push($scope.oJson_4.results[i]);
 		}
 		if (localStorage.getItem($scope.targetID)) {
-			$("#favIcon_legislators").attr("class", "fa fa-star fa-lg setYellow"); 
+			$("#favIcon_legislators").attr("class", "fa fa-star fa-lg setYellow");
 		} else {
 			$("#favIcon_legislators").attr("class", "fa fa-star-o fa-lg");
-		}		
-	}	
+		}
+	}
 	$scope.followup_legislators = function () {
 		$('#btn_l').click();
 	}
@@ -139,9 +139,9 @@ function MainController($scope) {
 		$scope.selectedCongressUrl = this.info.urls.congress;
 		$scope.selectedVersionName = this.info.last_version.version_name;
 		$scope.selectedPDF = this.info.last_version.urls.pdf;
-		
+
 		if (localStorage.getItem($scope.selectedBillID)) {
-			$("#favIcon_bills").attr("class", "fa fa-star fa-lg setYellow"); 
+			$("#favIcon_bills").attr("class", "fa fa-star fa-lg setYellow");
 		} else {
 			$("#favIcon_bills").attr("class", "fa fa-star-o fa-lg");
 		}
@@ -149,136 +149,136 @@ function MainController($scope) {
 	$scope.followup_bills = function () {
 		$('#btn_b').click();
 	}
-	
+
 	var send_data = {"dataBase": "legislators"};
 	$.get("http://localhost/myhw8/loadInfo.php", send_data, function (receive_data) {
-		$scope.oJson = eval("(" + receive_data + ")");				
-	});	
+		$scope.oJson = eval("(" + receive_data + ")");
+	});
 	var send_data_2 = {"dataBase": "committees"};
 	$.get("http://localhost/myhw8/loadInfo.php", send_data_2, function (receive_data) {
-		$scope.oJson_2 = eval("(" + receive_data + ")");				
+		$scope.oJson_2 = eval("(" + receive_data + ")");
 	});
 	var send_data_5 = {"dataBase": "bills", "flag_5": "true"};
 	$.get("http://localhost/myhw8/loadInfo.php", send_data_5, function (receive_data) {
-		$scope.oJson_5 = eval("(" + receive_data + ")");				
+		$scope.oJson_5 = eval("(" + receive_data + ")");
 	});
 	var send_data_6 = {"dataBase": "bills", "flag_6": "false"};
 	$.get("http://localhost/myhw8/loadInfo.php", send_data_6, function (receive_data) {
-		$scope.oJson_6 = eval("(" + receive_data + ")");				
-	});	
-	
-	
+		$scope.oJson_6 = eval("(" + receive_data + ")");
+	});
+
+
 	for (var i = 0; i < $scope.oJson.count; i++) {
-		$scope.congressInfo.push($scope.oJson.results[i]);		
+		$scope.congressInfo.push($scope.oJson.results[i]);
 	}
 	for (var i = 0; i < $scope.oJson_2.count; i++) {
-		$scope.committeesInfo.push($scope.oJson_2.results[i]);		
+		$scope.committeesInfo.push($scope.oJson_2.results[i]);
 	}
 	for (var i = 0; i < 50; i++) {
-		$scope.activeBillsInfo.push($scope.oJson_5.results[i]);		
+		$scope.activeBillsInfo.push($scope.oJson_5.results[i]);
 	}
 	for (var i = 0; i < 50; i++) {
-		$scope.newBillsInfo.push($scope.oJson_6.results[i]);		
+		$scope.newBillsInfo.push($scope.oJson_6.results[i]);
 	}
 
 	$("#favBtn_legislators").on("click", function () {
 		if (!localStorage.getItem($scope.targetID)) {
 			localStorage.setItem($scope.targetID, JSON.stringify($scope.targetInfo));
-			$("#favIcon_legislators").attr("class", "fa fa-star fa-lg setYellow"); 
+			$("#favIcon_legislators").attr("class", "fa fa-star fa-lg setYellow");
 		} else {
 			localStorage.removeItem($scope.targetID);
 			$("#favIcon_legislators").attr("class", "fa fa-star-o fa-lg");
 		}
-		
+
 	});
-	
+
 	$("#favBtn_bills").on("click", function () {
 		if (!localStorage.getItem($scope.selectedBillID)) {
 			localStorage.setItem($scope.selectedBillID, JSON.stringify($scope.selectedInfo));
-			$("#favIcon_bills").attr("class", "fa fa-star fa-lg setYellow"); 
+			$("#favIcon_bills").attr("class", "fa fa-star fa-lg setYellow");
 		} else {
 			localStorage.removeItem($scope.selectedBillID);
 			$("#favIcon_bills").attr("class", "fa fa-star-o fa-lg");
 		}
-	});	
-	
+	});
+
 	$scope.favBtn_committees = function () {
 		var concateId = "#favIcon_committees_" + this.$index;
 		if (!localStorage.getItem(this.info.committee_id)) {
 			localStorage.setItem(this.info.committee_id, JSON.stringify(this.info));
-			$(concateId).attr("class", "fa fa-star fa-lg setYellow"); 
+			$(concateId).attr("class", "fa fa-star fa-lg setYellow");
 		} else {
 			localStorage.removeItem(this.info.committee_id);
 			$(concateId).attr("class", "fa fa-star-o fa-lg");
-		}		
-	}	
-	
+		}
+	}
+
 	$scope.deleteLegislator = function () {
 		if (localStorage.getItem(this.info.bioguide_id)) {
 			localStorage.removeItem(this.info.bioguide_id);
 			pushFavLegislators();
 		}
-	}	
-	$scope.deleteBill = function () {		
+	}
+	$scope.deleteBill = function () {
 		if (localStorage.getItem(this.info.bill_id)) {
 			localStorage.removeItem(this.info.bill_id);
 			pushFavBills();
 		}
 	}
-		
+
 	$scope.deleteCommittee = function () {
 		if (localStorage.getItem(this.info.committee_id)) {
 			localStorage.removeItem(this.info.committee_id);
 			pushFavCommittees();
 		}
-	}		
-	
+	}
+
 	$("#btn_f").on("click", function () {
 		pushFavLegislators();
 		pushFavBills();
 		pushFavCommittees();
 		// console.log($scope.favCommitteesInfo);
 		$scope.$apply();
-	});	
-	
+	});
+
 	function pushFavLegislators() {
 		$scope.favLegislatorsInfo = [];
 		for (var i = 0; i < localStorage.length; i++) {
 			var jsonObj = eval("(" + localStorage.getItem(localStorage.key(i)) + ")");
-			if (typeof jsonObj.bioguide_id != "undefined") {				
-				$scope.favLegislatorsInfo.push(jsonObj);	 
+			if (typeof jsonObj.bioguide_id != "undefined") {
+				$scope.favLegislatorsInfo.push(jsonObj);
 			}
-		}		
+		}
 	}
 	function pushFavBills() {
 		$scope.favBillsInfo = [];
 		for (var i = 0; i < localStorage.length; i++) {
 			var jsonObj = eval("(" + localStorage.getItem(localStorage.key(i)) + ")");
-			if (typeof jsonObj.bill_id != "undefined") {				
-				$scope.favBillsInfo.push(jsonObj);	
+			if (typeof jsonObj.bill_id != "undefined") {
+				$scope.favBillsInfo.push(jsonObj);
 			}
-		}		
+		}
 	}
 	function pushFavCommittees() {
 		$scope.favCommitteesInfo = [];
 		for (var i = 0; i < localStorage.length; i++) {
 			var jsonObj = eval("(" + localStorage.getItem(localStorage.key(i)) + ")");
-			if (typeof jsonObj.committee_id != "undefined") {				
-				$scope.favCommitteesInfo.push(jsonObj);	
+			if (typeof jsonObj.committee_id != "undefined") {
+				$scope.favCommitteesInfo.push(jsonObj);
 			}
-		}		
-	}	
-	
-	
+		}
+	}
+
+
 	$scope.isCommitteeInFav = function () {
 		for (var i = 0; i < localStorage.length; i++) {
-			if(this.info.committee_id == localStorage.key(i)) {				
+			if(this.info.committee_id == localStorage.key(i)) {
 				return true;
 			}
-		}		
-		return false;		
+		}
+		return false;
 	}
-	
+
 	for (var i = 0; i < $scope.oJson.count; i++) {
 		if ($scope.congressInfo[i].district == null) {
 			$scope.congressInfo[i].district = "N.A";
@@ -290,29 +290,29 @@ function MainController($scope) {
 		}
 	}
 	for (var i = 0; i < $scope.oJson_2.count; i++) {
-		if ($scope.committeesInfo[i].chamber == "senate") {	
+		if ($scope.committeesInfo[i].chamber == "senate") {
 			$scope.committeesInfo[i].chamber = "Senate";
 		} else if ($scope.committeesInfo[i].chamber == "house") {
 			$scope.committeesInfo[i].chamber = "House";
 		} else {
 			$scope.committeesInfo[i].chamber = "Joint";
 		}
-	}	
+	}
 
-	
+
 	function formatDate(iso8601) {
 		var MM = ["Jan.", "Feb.","Mar.","Apr.","May","Jun.","Jul.","Aug.","Sept.","Oct.","Nov.", "Dec."]
-		var dateSegments = iso8601.split("-");		
-		dateSegments[1] = MM[parseInt(dateSegments[1]) - 1];		
+		var dateSegments = iso8601.split("-");
+		dateSegments[1] = MM[parseInt(dateSegments[1]) - 1];
 		var desiredDate = dateSegments[1] + " " + dateSegments[2] + ", " + dateSegments[0];
 		return desiredDate;
 	}
-	
+
 	$scope.stateOptions = [
 		"Alabama",
 		"Alaska",
-		"Arizona", 
-		"Arkansas", 
+		"Arizona",
+		"Arkansas",
 		"California",
 		"Colorado",
 		"Connecticut",
@@ -359,19 +359,19 @@ function MainController($scope) {
 		"West Virginia",
 		"Wisconsin",
 		"Wyoming"
-	];	
-}	
+	];
+}
 
-function MyController($scope, $filter) {	
+function MyController($scope, $filter) {
 
 	$scope.currentPage = 1;
 	$scope.pageSize = 10;
 	$scope.col = 'state_name';
 	$scope.col_2 = 'committee_id'
-    $scope.desc = 0;		
+    $scope.desc = 0;
 	$scope.h = "House";
 	$scope.s = "Senate";
-	
+
 	$scope.pageChangeHandler = function (num) {
 		console.log('congressInfo page changed to ' + num);
 	}
@@ -384,7 +384,7 @@ function OtherController($scope) {
 }
 
 function ProgressDemoCtrl($scope) {
-	$scope.max = 100;	
+	$scope.max = 100;
 	$scope.random = function() {
 		var value = Math.floor(Math.random() * 100 + 1);
 		var type;
@@ -400,7 +400,7 @@ function ProgressDemoCtrl($scope) {
 		$scope.showWarning = type === 'danger' || type === 'warning';
 		$scope.dynamic = value;
 		$scope.type = type;
-	};	
+	};
 	$scope.randomStacked = function() {
 		$scope.stacked = [];
 		var types = ['success', 'info', 'warning', 'danger'];
@@ -428,33 +428,29 @@ $(document).ready(function() {
 	$("#toggleBtn").on("click", function (e) {
 		e.preventDefault();
 		$("#main").toggleClass("toggleDisplay");
-	});	
+	});
 	$("#btn_l").on("click", function () {
 		$("#switch_f").css('display', 'none');
 		$("#switch_b").css('display', 'none');
-		$("#switch_c").css('display', 'none');	
-		$("#switch_l").fadeIn("slow"); 
-	});	
+		$("#switch_c").css('display', 'none');
+		$("#switch_l").fadeIn("slow");
+	});
 	$("#btn_b").on("click", function () {
 		$("#switch_f").css('display', 'none');
 		$("#switch_l").css('display', 'none');
-		$("#switch_c").css('display', 'none');		
-		$("#switch_b").fadeIn("slow"); 
-	});	
+		$("#switch_c").css('display', 'none');
+		$("#switch_b").fadeIn("slow");
+	});
 	$("#btn_c").on("click", function () {
 		$("#switch_f").css('display', 'none');
 		$("#switch_l").css('display', 'none');
-		$("#switch_b").css('display', 'none');		
-		$("#switch_c").fadeIn("slow"); 
-	});	
+		$("#switch_b").css('display', 'none');
+		$("#switch_c").fadeIn("slow");
+	});
 	$("#btn_f").on("click", function () {
 		$("#switch_c").css('display', 'none');
 		$("#switch_l").css('display', 'none');
-		$("#switch_b").css('display', 'none');		
-		$("#switch_f").fadeIn("slow"); 
-	});		
+		$("#switch_b").css('display', 'none');
+		$("#switch_f").fadeIn("slow");
+	});
 });
-
-
-
-

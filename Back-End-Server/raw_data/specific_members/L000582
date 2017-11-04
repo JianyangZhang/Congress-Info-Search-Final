@@ -1,0 +1,166 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000582",
+         
+         "first_name": "Ted",
+         "middle_name": null,
+         "last_name": "Lieu",
+         "date_of_birth": "1969-03-29",
+         "gender": "M",
+         "url": "https://lieu.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412616",
+         "cspan_id": "28076",
+         "votesmart_id": null,
+         "icpsr_id": "21507",
+         "twitter_account": "RepTedLieu",
+         "facebook_account": "RepTedLieu",
+         "youtube_account": null,
+         "crp_id": "N00035825",
+         "google_entity_id": "/m/0f3y2w",
+         "rss_url": "https://lieu.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA33119",
+           "seniority": "4",
+           "district": "33", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:33",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "236 Cannon House Office Building",
+           "phone": "202-225-3976",
+           "fax": "202-225-4099",
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 368,
+           "missed_votes_pct": 11.49,
+           "votes_with_party_pct": 96.10,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-06",
+             "end_date": "2017-01-13"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 21,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "the Middle East and North Africa",
+             "code": "HSFA13",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Crime, Terrorism, Homeland Security, and Investigations",
+             "code": "HSJU08",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU08.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA33119",
+           "seniority": "2",
+           "district": "33", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:33",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 418,
+           "missed_votes_pct": 9.89,
+           "votes_with_party_pct": 94.89,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres320-115",
+         "bill_slug": "sres320",
+         "congress": "115",
+         "bill": "S.RES.320",
+         "bill_type": "sres",
+         "number": "S.RES.320",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres320.json",
+         "title": "A resolution supporting the goals and ideals of National Domestic Violence Awareness Month, commending domestic violence victim advocates, domestic violence victim service providers, crisis hotline staff, and first responders serving victims of domestic violence for their compassionate support of survivors of domestic violence, and expressing the sense of the Senate that Congress should continue to support efforts to end domestic violence, provide safety for victims of domestic violence and their families, and hold perpetrators of domestic violence accountable.",
+         "short_title": "A resolution supporting the goals and ideals of National Domestic Violence Awareness Month, commending domestic violence victim advocates, domestic violence victim service providers, crisis hotline staff, and first responders serving victims of domestic v",
+         "sponsor_title": "Sen.",
+         "sponsor": "Charles E. Grassley",
+         "sponsor_id": "G000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/320",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres320",
+         "introduced_date": "2017-11-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "cosponsors_by_party": {"D":2,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6973; text: CR S6972)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6973; text: CR S6972)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

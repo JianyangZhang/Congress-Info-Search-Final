@@ -1,0 +1,134 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "E000298",
+         
+         "first_name": "Ron",
+         "middle_name": null,
+         "last_name": "Estes",
+         "date_of_birth": "1956-07-19",
+         "gender": "M",
+         "url": "https://estes.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412735",
+         "cspan_id": "107963",
+         "votesmart_id": "125031",
+         "icpsr_id": null,
+         "twitter_account": "RepRonEstes",
+         "facebook_account": "RepRonEstes",
+         "youtube_account": null,
+         "crp_id": "N00040712",
+         "google_entity_id": "/m/0gfgsrm",
+         "rss_url": "",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "KS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8KS04112",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ks/cd:4",
+           "start_date": "2017-04-25",
+           "end_date": "2019-01-03",
+           "office": "2452 Rayburn House Office Building",
+           "phone": "202-225-6216",
+           "fax": "202-225-3489",
+           "contact_form": "https://estes.house.gov/contact/",
+           "bills_sponsored": 3,
+           "bills_cosponsored": 50,
+           "missed_votes_pct": 0.26,
+           "votes_with_party_pct": 97.13,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 18,
+             "begin_date": "2017-06-27",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 22,
+             "begin_date": "2017-05-02",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-05-02",
+             "end_date": "2017-06-27"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health, Employment, Labor, and Pensions",
+             "code": "HSED02",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation and Protective Security",
+             "code": "HSHM07",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM07.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Management Efficiency",
+             "code": "HSHM09",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM09.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

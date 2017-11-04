@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s2046-115",
+         "bill_slug": "s2046",
+         "congress": "115",
+         "bill": "S.2046",
+         "bill_type": "s",
+         "number": "S.2046",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s2046.json",
+         "title": "A bill to amend titles 5 and 44, United States Code, to require Federal evaluation activities, improve Federal data management, and for other purposes.",
+         "short_title": "A bill to amend titles 5 and 44, United States Code, to require Federal evaluation activities, improve Federal data management, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Patty Murray",
+         "sponsor_id": "M001111",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001111.json",
+         "sponsor_party": "D",
+         "sponsor_state": "WA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2046",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s2046",
+         "introduced_date": "2017-10-31",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-31",
+         "latest_major_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-10-31",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

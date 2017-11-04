@@ -1,0 +1,144 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1488-115",
+         "bill_slug": "hr1488",
+         "congress": "115",
+         "bill": "H.R.1488",
+         "bill_type": "hr",
+         "number": "H.R.1488",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1488.json",
+         "title": "To retitle Indiana Dunes National Lakeshore as Indiana Dunes National Park, and for other purposes.",
+         "short_title": "Indiana Dunes National Park Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Peter J. Visclosky",
+         "sponsor_id": "V000108",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/V000108.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1488",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1488",
+         "introduced_date": "2017-03-09",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 9,
+         "cosponsors_by_party": {"R":7,"D":2},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "Indiana Dunes National Park Act This bill renames the Indiana Dunes National Lakeshore as the Indiana Dunes National Park. ",
+         "summary_short": "Indiana Dunes National Park Act This bill renames the Indiana Dunes National Lakeshore as the Indiana Dunes National Park. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8325)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H8325-8326)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1488."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Cook moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-19",
+           "description": "Placed on the Union Calendar, Calendar No. 254."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-19",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-350."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-20",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-09",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

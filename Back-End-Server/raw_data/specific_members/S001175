@@ -1,0 +1,339 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001175",
+         
+         "first_name": "Jackie",
+         "middle_name": null,
+         "last_name": "Speier",
+         "date_of_birth": "1950-05-14",
+         "gender": "F",
+         "url": "https://speier.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412259",
+         "cspan_id": "1027627",
+         "votesmart_id": "8425",
+         "icpsr_id": "20762",
+         "twitter_account": "RepSpeier",
+         "facebook_account": "JackieSpeier",
+         "youtube_account": "jackiespeierca12",
+         "crp_id": "N00029649",
+         "google_entity_id": "/m/06k27l",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8CA12171",
+           "seniority": "12",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:14",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2465 Rayburn House Office Building",
+           "phone": "202-225-3531",
+           "fax": "202-347-0956",
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 264,
+           "missed_votes_pct": 3.78,
+           "votes_with_party_pct": 96.08,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Military Personnel",
+             "code": "HSAS02",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS02.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats and Capabilities",
+             "code": "HSAS26",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS26.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the National Security Agency and Cybersecurity",
+             "code": "HSIG02",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats",
+             "code": "HSIG03",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8CA12171",
+           "seniority": "10",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:14",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 32,
+           "bills_cosponsored": 299,
+           "missed_votes_pct": 8.45,
+           "votes_with_party_pct": 95.71,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Select Investigative Panel of the Committee on Energy and Commerce",
+             "code": "",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIG.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:14",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 382,
+           "missed_votes_pct": 7.05,
+           "votes_with_party_pct": 93.95,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAS.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:12",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 330,
+           "missed_votes_pct": 11.15,
+           "votes_with_party_pct": 92.36,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAS.json",
+             "rank_in_party": 28,
+             "begin_date": "2012-02-16",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHM.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2012-02-16"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSGO.json",
+             "rank_in_party": 17,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:12",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 296,
+           "missed_votes_pct": 11.44,
+           "votes_with_party_pct": 95.97,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSGO.json",
+             "rank_in_party": 23,
+             "begin_date": "2009-01-28",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBA.json",
+             "rank_in_party": 32,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:12",
+           "start_date": "2008-04-08",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 60,
+           "missed_votes_pct": 16.83,
+           "votes_with_party_pct": 98.12,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

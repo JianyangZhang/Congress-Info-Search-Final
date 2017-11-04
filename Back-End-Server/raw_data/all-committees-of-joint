@@ -1,0 +1,88 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "115",
+         "chamber": "Joint",
+         "num_results": 5,
+         "committees": [
+              {
+                 "id": "JCSE",
+                 "name": "Commission on Security and Cooperation in Europe",
+                 "chamber": "Joint",
+                 "url": "https://www.csce.gov/",
+                 "api_uri":"https://api.propublica.org/congress/v1/115/joint/committees/JCSE.json",
+                 "chair": "Roger Wicker",
+                 "chair_id": "W000437",
+                 "chair_party": "R",
+                 "chair_state": "MS",
+                 "chair_uri": "https://api.propublica.org/congress/v1/members/W000437.json",
+                 "ranking_member_id": "C000141",
+                 "subcommittees": [
+]
+               },
+                           {
+                 "id": "JSPR",
+                 "name": "Joint Committee on Printing",
+                 "chamber": "Joint",
+                 "url": "https://cha.house.gov/jointcommittees/joint-committee-on-printing",
+                 "api_uri":"https://api.propublica.org/congress/v1/115/joint/committees/JSPR.json",
+                 "chair": "Richard C. Shelby",
+                 "chair_id": "S000320",
+                 "chair_party": "R",
+                 "chair_state": "AL",
+                 "chair_uri": "https://api.propublica.org/congress/v1/members/S000320.json",
+                 "ranking_member_id": "K000367",
+                 "subcommittees": [
+]
+               },
+                           {
+                 "id": "JSTX",
+                 "name": "Joint Committee on Taxation",
+                 "chamber": "Joint",
+                 "url": "https://www.jct.gov/",
+                 "api_uri":"https://api.propublica.org/congress/v1/115/joint/committees/JSTX.json",
+                 "chair": "Kevin Brady",
+                 "chair_id": "B000755",
+                 "chair_party": "R",
+                 "chair_state": "TX",
+                 "chair_uri": "https://api.propublica.org/congress/v1/members/B000755.json",
+                 "ranking_member_id": "N000015",
+                 "subcommittees": [
+]
+               },
+                           {
+                 "id": "JSLC",
+                 "name": "Joint Committee on the Library",
+                 "chamber": "Joint",
+                 "url": "https://cha.house.gov/jointcommittees/joint-committee-library",
+                 "api_uri":"https://api.propublica.org/congress/v1/115/joint/committees/JSLC.json",
+                 "chair": "Gregg Harper",
+                 "chair_id": "H001045",
+                 "chair_party": "R",
+                 "chair_state": "MS",
+                 "chair_uri": "https://api.propublica.org/congress/v1/members/H001045.json",
+                 "ranking_member_id": "B001227",
+                 "subcommittees": [
+]
+               },
+                           {
+                 "id": "JSEC",
+                 "name": "Joint Economic Committee",
+                 "chamber": "Joint",
+                 "url": "https://www.jec.senate.gov/public/",
+                 "api_uri":"https://api.propublica.org/congress/v1/115/joint/committees/JSEC.json",
+                 "chair": "Pat Tiberi",
+                 "chair_id": "T000462",
+                 "chair_party": "R",
+                 "chair_state": "OH",
+                 "chair_uri": "https://api.propublica.org/congress/v1/members/T000462.json",
+                 "ranking_member_id": "H001046",
+                 "subcommittees": [
+]
+               }
+             ]
+      }
+   ]
+}

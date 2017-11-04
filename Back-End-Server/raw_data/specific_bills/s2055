@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s2055-115",
+         "bill_slug": "s2055",
+         "congress": "115",
+         "bill": "S.2055",
+         "bill_type": "s",
+         "number": "S.2055",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s2055.json",
+         "title": "A bill to amend the Public Health Service Act to better address substance use and substance use disorders among young people.",
+         "short_title": "A bill to amend the Public Health Service Act to better address substance use and substance use disorders among young people.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Gary Peters",
+         "sponsor_id": "P000595",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000595.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MI",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2055",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s2055",
+         "introduced_date": "2017-11-01",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

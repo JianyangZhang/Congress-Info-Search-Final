@@ -1,0 +1,360 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "T000467",
+         
+         "first_name": "Glenn",
+         "middle_name": null,
+         "last_name": "Thompson",
+         "date_of_birth": "1959-07-27",
+         "gender": "M",
+         "url": "https://thompson.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412317",
+         "cspan_id": "1031359",
+         "votesmart_id": "24046",
+         "icpsr_id": "20946",
+         "twitter_account": "CongressmanGT",
+         "facebook_account": "CongressmanGT",
+         "youtube_account": "CongressmanGT",
+         "crp_id": "N00029736",
+         "google_entity_id": "/m/0409b0_",
+         "rss_url": "https://thompson.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8PA05071",
+           "seniority": "10",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:5",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "124 Cannon House Office Building",
+           "phone": "202-225-5121",
+           "fax": "202-225-5796",
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 193,
+           "missed_votes_pct": 0.33,
+           "votes_with_party_pct": 91.93,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Nutrition",
+             "code": "HSAG03",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG03.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Conservation and Forestry",
+             "code": "HSAG15",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Early Childhood, Elementary, and Secondary Education",
+             "code": "HSED14",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy and Mineral Resources",
+             "code": "HSII06",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII06.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Federal Lands",
+             "code": "HSII10",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8PA05071",
+           "seniority": "8",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:5",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 194,
+           "missed_votes_pct": 0.23,
+           "votes_with_party_pct": 91.98,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:5",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 259,
+           "missed_votes_pct": 1.59,
+           "votes_with_party_pct": 91.30,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAG.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:5",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 197,
+           "missed_votes_pct": 0.37,
+           "votes_with_party_pct": 90.81,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSII.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSED.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:5",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 283,
+           "missed_votes_pct": 1.51,
+           "votes_with_party_pct": 92.32,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSED.json",
+             "rank_in_party": 19,
+             "begin_date": "2009-02-04",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSM.json",
+             "rank_in_party": 11,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAG.json",
+             "rank_in_party": 15,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

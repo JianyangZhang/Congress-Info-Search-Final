@@ -1,0 +1,144 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr425-115",
+         "bill_slug": "hr425",
+         "congress": "115",
+         "bill": "H.R.425",
+         "bill_type": "hr",
+         "number": "H.R.425",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr425.json",
+         "title": "To authorize the revocation or denial of passports to individuals affiliated with foreign terrorist organizations, and for other purposes.",
+         "short_title": "FTO Passport Revocation Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ted Poe",
+         "sponsor_id": "P000592",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000592.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/425",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr425",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "cosponsors_by_party": {"D":1,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": ["HSFA18"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "FTO Passport Revocation Act of 2017 This bill amends the Passport Act of 1926 to direct the Department of State to refuse to issue a passport to an individual who is a member of or affiliated with, or who has aided or provided material support to, a foreign terrorist organization.  The State Department: (1) shall revoke a passport previously issued to any such individual; and (2) may, prior to revocation, issue a limited passport or limit a previously issued passport, but only for return travel to the United States.  The State Department may issue or decline to revoke a passport for emergency, humanitarian, or law enforcement purposes.   A person whose passport is denied, revoked, or limited may seek State Department review within 60 days of receiving notice of such action.  The State Department shall report to Congress within 30 days regarding any such refusal or revocation.",
+         "summary_short": "FTO Passport Revocation Act of 2017 This bill amends the Passport Act of 1926 to direct the Department of State to refuse to issue a passport to an individual who is a member of or affiliated with, or who has aided or provided material support to, a foreign terrorist organization.  The State Department: (1) shall revoke a passport previously issued to any such individual; and (2) may, prior to revocation, issue a limited passport or limit a previously issued passport, but only for return trav...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8363)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H8363-8365)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 425."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Poe (TX) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-28",
+           "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

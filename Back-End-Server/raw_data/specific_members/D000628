@@ -1,0 +1,156 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000628",
+         
+         "first_name": "Neal",
+         "middle_name": null,
+         "last_name": "Dunn",
+         "date_of_birth": "1953-02-16",
+         "gender": "M",
+         "url": "https://dunn.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412691",
+         "cspan_id": "104529",
+         "votesmart_id": "166297",
+         "icpsr_id": null,
+         "twitter_account": "drnealdunnfl2",
+         "facebook_account": "drnealdunnfl2",
+         "youtube_account": null,
+         "crp_id": "N00037442",
+         "google_entity_id": "/g/11c2ld4vv7",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6FL02208",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:2",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "423 Cannon House Office Building",
+           "phone": "202-225-5235",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 123,
+           "missed_votes_pct": 1.64,
+           "votes_with_party_pct": 97.33,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Biotechnology, Horticulture, and Research",
+             "code": "HSAG14",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "General Farm Commodities and Risk Management",
+             "code": "HSAG16",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Space",
+             "code": "HSSY16",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy",
+             "code": "HSSY20",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSVR03",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSVR08",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres319-115",
+         "bill_slug": "sres319",
+         "congress": "115",
+         "bill": "S.RES.319",
+         "bill_type": "sres",
+         "number": "S.RES.319",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres319.json",
+         "title": "A resolution supporting the goals, activities, and ideals of Prematurity Awareness Month.",
+         "short_title": "A resolution supporting the goals, activities, and ideals of Prematurity Awareness Month.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Sherrod Brown",
+         "sponsor_id": "B000944",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B000944.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/319",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres319",
+         "introduced_date": "2017-11-01",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6971-6972)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6971-6972)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Referred to the Committee on Health, Education, Labor, and Pensions."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001106",
+         
+         "first_name": "Ryan",
+         "middle_name": null,
+         "last_name": "Costello",
+         "date_of_birth": "1976-09-07",
+         "gender": "M",
+         "url": "https://costello.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412651",
+         "cspan_id": "95125",
+         "votesmart_id": "133557",
+         "icpsr_id": "21547",
+         "twitter_account": "RepRyanCostello",
+         "facebook_account": "CongressmanRyanCostello",
+         "youtube_account": null,
+         "crp_id": "N00031064",
+         "google_entity_id": "/m/0127dxsz",
+         "rss_url": "https://costello.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0PA06076",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:6",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "326 Cannon House Office Building",
+           "phone": "202-225-4315",
+           "fax": "202-225-8440",
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 209,
+           "missed_votes_pct": 3.45,
+           "votes_with_party_pct": 84.52,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 29,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSIF02",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications and Technology",
+             "code": "HSIF16",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Digital Commerce and Consumer Protection",
+             "code": "HSIF17",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0PA06076",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:6",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 267,
+           "missed_votes_pct": 1.21,
+           "votes_with_party_pct": 84.87,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 27,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSVR.json",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

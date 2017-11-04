@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000820",
+         
+         "first_name": "Mimi",
+         "middle_name": null,
+         "last_name": "Walters",
+         "date_of_birth": "1962-05-14",
+         "gender": "F",
+         "url": "https://walters.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412618",
+         "cspan_id": "76141",
+         "votesmart_id": null,
+         "icpsr_id": "21509",
+         "twitter_account": "RepMimiWalters",
+         "facebook_account": "RepMimiWalters",
+         "youtube_account": null,
+         "crp_id": "N00035391",
+         "google_entity_id": "/m/077r0l",
+         "rss_url": "https://walters.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA45097",
+           "seniority": "4",
+           "district": "45", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:45",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "215 Cannon House Office Building",
+           "phone": "202-225-5611",
+           "fax": "202-225-9177",
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 77,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 98.19,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 28,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSIF02",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications and Technology",
+             "code": "HSIF16",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Digital Commerce and Consumer Protection",
+             "code": "HSIF17",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA45097",
+           "seniority": "2",
+           "district": "45", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:45",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 128,
+           "missed_votes_pct": 4.53,
+           "votes_with_party_pct": 95.42,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 29,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

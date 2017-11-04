@@ -1,0 +1,178 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "P000610",
+         
+         "first_name": "Stacey",
+         "middle_name": null,
+         "last_name": "Plaskett",
+         "date_of_birth": "1964-05-13",
+         "gender": "F",
+         "url": "https://plaskett.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412659",
+         "cspan_id": "79090",
+         "votesmart_id": null,
+         "icpsr_id": null,
+         "twitter_account": "staceyplaskett",
+         "facebook_account": "repstaceyplaskett",
+         "youtube_account": null,
+         "crp_id": "N00035000",
+         "google_entity_id": "/m/012844_c",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "VI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2VI00082",
+           "seniority": "4",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:vi/cd:79",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "331 Cannon House Office Building",
+           "phone": "202-225-1790",
+           "fax": "202-225-5517",
+           "contact_form": "https://plaskett.house.gov/contact/",
+           "bills_sponsored": 13,
+           "bills_cosponsored": 84,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "General Farm Commodities and Risk Management",
+             "code": "HSAG16",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Commodity Exchanges, Energy, and Credit",
+             "code": "HSAG22",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG22.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Livestock and Foreign Agriculture",
+             "code": "HSAG29",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG29.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health Care, Benefits and Administrative Rules",
+             "code": "HSGO27",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO27.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "The Interior, Energy, and Environment",
+             "code": "HSGO28",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO28.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "VI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2VI00082",
+           "seniority": "2",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:vi/cd:79",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 118,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

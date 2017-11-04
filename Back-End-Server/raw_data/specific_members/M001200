@@ -1,0 +1,124 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "M001200",
+         
+         "first_name": "A.",
+         "middle_name": "Donald",
+         "last_name": "McEachin",
+         "date_of_birth": "1961-10-10",
+         "gender": "M",
+         "url": "https://mceachin.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412728",
+         "cspan_id": "103621",
+         "votesmart_id": "8230",
+         "icpsr_id": null,
+         "twitter_account": "RepMcEachin",
+         "facebook_account": "RepMcEachin",
+         "youtube_account": null,
+         "crp_id": "N00039327",
+         "google_entity_id": "/m/0979v6",
+         "rss_url": "https://mceachin.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "VA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6VA04061",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:va/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "314 Cannon House Office Building",
+           "phone": "202-225-6365",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 150,
+           "missed_votes_pct": 5.25,
+           "votes_with_party_pct": 96.01,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 21,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Readiness",
+             "code": "HSAS03",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Seapower and Projection Forces",
+             "code": "HSAS28",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS28.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Federal Lands",
+             "code": "HSII10",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSII15",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII15.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

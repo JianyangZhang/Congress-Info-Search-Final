@@ -1,0 +1,178 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000574",
+         
+         "first_name": "Ruben",
+         "middle_name": null,
+         "last_name": "Gallego",
+         "date_of_birth": "1979-11-20",
+         "gender": "M",
+         "url": "https://rubengallego.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412612",
+         "cspan_id": "77233",
+         "votesmart_id": null,
+         "icpsr_id": "21502",
+         "twitter_account": "RepRubenGallego",
+         "facebook_account": "RepRubenGallego",
+         "youtube_account": null,
+         "crp_id": "N00036097",
+         "google_entity_id": "/m/0wy0mz5",
+         "rss_url": "https://rubengallego.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AZ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4AZ07043",
+           "seniority": "4",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1218 Longworth House Office Building",
+           "phone": "202-225-4065",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 283,
+           "missed_votes_pct": 4.11,
+           "votes_with_party_pct": 94.69,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Military Personnel",
+             "code": "HSAS02",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Tactical Air and Land Forces",
+             "code": "HSAS25",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Federal Lands",
+             "code": "HSII10",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSII15",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Indian, Insular and Alaska Native Affairs",
+             "code": "HSII24",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII24.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AZ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4AZ07043",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:7",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 198,
+           "missed_votes_pct": 1.36,
+           "votes_with_party_pct": 97.32,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 22,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

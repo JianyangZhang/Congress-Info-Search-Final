@@ -1,0 +1,367 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001184",
+         
+         "first_name": "Tim",
+         "middle_name": null,
+         "last_name": "Scott",
+         "date_of_birth": "1965-09-19",
+         "gender": "M",
+         "url": "https://www.scott.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412471",
+         "cspan_id": "623506",
+         "votesmart_id": "11940",
+         "icpsr_id": "21173",
+         "twitter_account": "SenatorTimScott",
+         "facebook_account": "SenatorTimScott",
+         "youtube_account": "SenatorTimScott",
+         "crp_id": "N00031782",
+         "google_entity_id": "/m/0c407g6",
+         "rss_url": "https://www.scott.senate.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4SC00240",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "junior","lis_id": "S365",
+           "ocd_id": "ocd-division/country:us/state:sc",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "717 Hart Senate Office Building",
+           "phone": "202-224-6121",
+           "fax": "202-225-3407",
+           "contact_form": "https://www.scott.senate.gov/contact/email-me",
+           "bills_sponsored": 16,
+           "bills_cosponsored": 88,
+           "missed_votes_pct": 0.38,
+           "votes_with_party_pct": 98.46,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SPAG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSSB.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Financial Institutions and Consumer Protection Subcommittee",
+             "code": "SSBK08",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Housing, Transportation, and Community Development",
+             "code": "SSBK09",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK09.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy, Natural Resources, and Infrastructure Subcommittee",
+             "code": "SSFI12",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Fiscal Responsibility and Economic Growth",
+             "code": "SSFI14",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI14.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Securities, Insurance, and Investment Subcommittee",
+             "code": "SSBK04",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Taxation and IRS Oversight Subcommittee",
+             "code": "SSFI11",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI11.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Primary Health and Retirement Security Subcommittee",
+             "code": "SSHR12",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4SC00240",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S365",
+           "ocd_id": "ocd-division/country:us/state:sc",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 156,
+           "missed_votes_pct": 2.19,
+           "votes_with_party_pct": 89.41,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBK.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSHR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFI.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSSB.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S365",
+           "ocd_id": "ocd-division/country:us/state:sc",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 156,
+           "missed_votes_pct": 2.74,
+           "votes_with_party_pct": 90.61,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSSB.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEG.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:sc/cd:1",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 49,
+           "bills_cosponsored": 216,
+           "missed_votes_pct": 0.62,
+           "votes_with_party_pct": 93.17,
+           "committees": [
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSRU.json",
+             "rank_in_party": 7,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

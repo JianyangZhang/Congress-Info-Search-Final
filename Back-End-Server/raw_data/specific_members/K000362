@@ -1,0 +1,473 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000362",
+         
+         "first_name": "Steve",
+         "middle_name": null,
+         "last_name": "King",
+         "date_of_birth": "1949-05-28",
+         "gender": "M",
+         "url": "https://steveking.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400220",
+         "cspan_id": "1003590",
+         "votesmart_id": "10853",
+         "icpsr_id": "20325",
+         "twitter_account": "SteveKingIA",
+         "facebook_account": "stevekingia",
+         "youtube_account": "stevekingia",
+         "crp_id": "N00025237",
+         "google_entity_id": "/m/025b7g",
+         "rss_url": "https://steveking.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2IA05072",
+           "seniority": "16",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2210 Rayburn House Office Building",
+           "phone": "202-225-4426",
+           "fax": "202-225-3193",
+           "contact_form": null,
+           "bills_sponsored": 33,
+           "bills_cosponsored": 158,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 96.18,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Nutrition",
+             "code": "HSAG03",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Livestock and Foreign Agriculture",
+             "code": "HSAG29",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG29.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Immigration and Border Security",
+             "code": "HSJU01",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Constitution and Civil Justice",
+             "code": "HSJU10",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU10.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Contracting and Workforce",
+             "code": "HSSM23",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM23.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Agriculture, Energy and Trade",
+             "code": "HSSM25",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2IA05072",
+           "seniority": "14",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 30,
+           "bills_cosponsored": 170,
+           "missed_votes_pct": 4.15,
+           "votes_with_party_pct": 95.04,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSM.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:4",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 193,
+           "missed_votes_pct": 3.36,
+           "votes_with_party_pct": 95.23,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSJU.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAG.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSM.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:5",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 255,
+           "missed_votes_pct": 2.99,
+           "votes_with_party_pct": 92.68,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSJU.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSM.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:5",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 275,
+           "missed_votes_pct": 2.30,
+           "votes_with_party_pct": 91.82,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAG.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSJU.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSM.json",
+             "rank_in_party": 4,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSM.json",
+             "rank_in_party": 5,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:5",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 243,
+           "missed_votes_pct": 2.08,
+           "votes_with_party_pct": 89.49,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAG.json",
+             "rank_in_party": 10,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSJU.json",
+             "rank_in_party": 13,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSSM.json",
+             "rank_in_party": 7,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:5",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 255,
+           "missed_votes_pct": 0.58,
+           "votes_with_party_pct": 89.64,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:5",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 217,
+           "missed_votes_pct": 2.29,
+           "votes_with_party_pct": 93.88,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

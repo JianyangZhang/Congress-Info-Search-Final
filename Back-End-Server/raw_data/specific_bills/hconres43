@@ -1,0 +1,116 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hconres43-115",
+         "bill_slug": "hconres43",
+         "congress": "115",
+         "bill": "H.CON.RES.43",
+         "bill_type": "hconres",
+         "number": "H.CON.RES.43",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hconres43.json",
+         "title": "Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.",
+         "short_title": "Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.",
+         "sponsor_title": "Rep.",
+         "sponsor": "David McKinley",
+         "sponsor_id": "M001180",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001180.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WV",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/43",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hconres43",
+         "introduced_date": "2017-04-04",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 17,
+         "cosponsors_by_party": {"D":14,"R":3},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Armed Services Committee",
+         "committee_codes": ["HSAS"],
+         "subcommittee_codes": ["HSAS02"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and referred to the Committee on Armed Services.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "Recognizes the dedicated service and ultimate sacrifice on behalf of the United States of the 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who were massacred in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.  Calls on the Senate Armed Services Committee to correct the omission of such massacre in the 1949 report of its subcommittee and appropriately recognize the Wereth 11.  ",
+         "summary_short": "Recognizes the dedicated service and ultimate sacrifice on behalf of the United States of the 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who were massacred in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.  Calls on the Senate Armed Services Committee to correct the omission of such massacre in the 1949 report of its subcommittee and appropriately recognize the Wereth 11.  ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On agreeing to the resolution Agreed to without objection. (text: CR H8362)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On agreeing to the resolution Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered by unanimous consent. (consideration: CR H8362)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered by unanimous consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-11-01",
+           "description": "Committee on Armed Services discharged."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Scott, Austin asked unanimous consent to discharge from committee and consider."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-12",
+           "description": "Referred to the Subcommittee on Military Personnel."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Referred to the House Committee on Armed Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

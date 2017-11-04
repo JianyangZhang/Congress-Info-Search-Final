@@ -1,0 +1,74 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres316-115",
+         "bill_slug": "sres316",
+         "congress": "115",
+         "bill": "S.RES.316",
+         "bill_type": "sres",
+         "number": "S.RES.316",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres316.json",
+         "title": "A resolution recognizing National Native American Heritage Month and celebrating the heritages and cultures of Native Americans and the contributions of Native Americans to the United States.",
+         "short_title": "A resolution recognizing National Native American Heritage Month and celebrating the heritages and cultures of Native Americans and the contributions of Native Americans to the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Hoeven",
+         "sponsor_id": "H001061",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001061.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ND",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/316",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres316",
+         "introduced_date": "2017-10-31",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-10-31",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 21,
+         "cosponsors_by_party": {"D":12,"R":8,"I":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Native Americans",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-31",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6931; text: CR S6930)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-10-31",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6931; text as passed Senate: CR S6930)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6931; text: CR S6930)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

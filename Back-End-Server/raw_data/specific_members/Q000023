@@ -1,0 +1,304 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "Q000023",
+         
+         "first_name": "Mike",
+         "middle_name": null,
+         "last_name": "Quigley",
+         "date_of_birth": "1958-10-17",
+         "gender": "M",
+         "url": "https://quigley.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412331",
+         "cspan_id": "9263344",
+         "votesmart_id": "83310",
+         "icpsr_id": "20954",
+         "twitter_account": "RepMikeQuigley",
+         "facebook_account": "repmikequigley",
+         "youtube_account": "RepMikeQuigley",
+         "crp_id": "N00030581",
+         "google_entity_id": "/m/0fccwh",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IL05096",
+           "seniority": "10",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:5",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2458 Rayburn House Office Building",
+           "phone": "202-225-4061",
+           "fax": "202-225-5603",
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 258,
+           "missed_votes_pct": 2.96,
+           "votes_with_party_pct": 96.79,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Transportation, and Housing and Urban Development, and Related Agencies",
+             "code": "HSAP20",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP20.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Services and General Government",
+             "code": "HSAP23",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP23.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the National Security Agency and Cybersecurity",
+             "code": "HSIG02",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats",
+             "code": "HSIG03",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IL05096",
+           "seniority": "8",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:5",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 328,
+           "missed_votes_pct": 2.11,
+           "votes_with_party_pct": 95.68,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIG.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:5",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 318,
+           "missed_votes_pct": 2.94,
+           "votes_with_party_pct": 95.85,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 21,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSJU.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2013-01-14"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2013-01-14"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:5",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 249,
+           "missed_votes_pct": 1.18,
+           "votes_with_party_pct": 91.49,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSJU.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSGO.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:5",
+           "start_date": "2009-04-21",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 320,
+           "missed_votes_pct": 2.88,
+           "votes_with_party_pct": 96.61,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSJU.json",
+             "rank_in_party": 15,
+             "begin_date": "2009-04-30",
+             "end_date": "2011-01-04"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSGO.json",
+             "rank_in_party": 12,
+             "begin_date": "2009-04-30",
+             "end_date": "2011-01-04"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

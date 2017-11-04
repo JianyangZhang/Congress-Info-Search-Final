@@ -1,0 +1,103 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "Z000018",
+         
+         "first_name": "Ryan",
+         "middle_name": null,
+         "last_name": "Zinke",
+         "date_of_birth": "1961-11-01",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412640",
+         "cspan_id": "76298",
+         "votesmart_id": null,
+         "icpsr_id": "21532",
+         "twitter_account": "RepRyanZinke",
+         "facebook_account": "CongressmanRyanZinke",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/0gkz1jg",
+         "rss_url": "https://zinke.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2017-01-05",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MT",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MT01041",
+           "seniority": "4",
+           "district": "At-Large", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mt/cd:1",
+           "start_date": "2017-01-03",
+           "end_date": "2017-03-01",
+           "office": null,
+           "phone": "202-225-3211",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 0,
+           "bills_cosponsored": 0,
+           "missed_votes_pct": 82.41,
+           "votes_with_party_pct": 89.47,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MT",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MT01041",
+           "seniority": "2",
+           "district": "At-Large", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mt/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 275,
+           "missed_votes_pct": 2.72,
+           "votes_with_party_pct": 93.79,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 31,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

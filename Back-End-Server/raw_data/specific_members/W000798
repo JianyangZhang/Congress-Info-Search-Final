@@ -1,0 +1,304 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000798",
+         
+         "first_name": "Tim",
+         "middle_name": null,
+         "last_name": "Walberg",
+         "date_of_birth": "1951-04-12",
+         "gender": "M",
+         "url": "https://walberg.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412213",
+         "cspan_id": "1022844",
+         "votesmart_id": "8618",
+         "icpsr_id": "20725",
+         "twitter_account": "RepWalberg",
+         "facebook_account": "RepWalberg",
+         "youtube_account": "RepWalberg",
+         "crp_id": "N00026368",
+         "google_entity_id": "/m/0d7n3m",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MI07103",
+           "seniority": "8",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2436 Rayburn House Office Building",
+           "phone": "202-225-6276",
+           "fax": "202-225-6281",
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 127,
+           "missed_votes_pct": 0.33,
+           "votes_with_party_pct": 94.56,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 27,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health, Employment, Labor, and Pensions",
+             "code": "HSED02",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED02.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSIF02",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy",
+             "code": "HSIF03",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Environment",
+             "code": "HSIF18",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF18.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MI07103",
+           "seniority": "6",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:7",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 205,
+           "missed_votes_pct": 0.68,
+           "votes_with_party_pct": 95.97,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:7",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 284,
+           "missed_votes_pct": 1.59,
+           "votes_with_party_pct": 94.29,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:7",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 276,
+           "missed_votes_pct": 1.25,
+           "votes_with_party_pct": 93.51,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHM.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSGO.json",
+             "rank_in_party": 10,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSED.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:7",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 403,
+           "missed_votes_pct": 1.55,
+           "votes_with_party_pct": 90.90,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAG.json",
+             "rank_in_party": 21,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSED.json",
+             "rank_in_party": 20,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

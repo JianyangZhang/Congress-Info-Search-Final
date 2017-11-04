@@ -1,0 +1,393 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001245",
+         
+         "first_name": "Madeleine",
+         "middle_name": "Z.",
+         "last_name": "Bordallo",
+         "date_of_birth": "1933-05-31",
+         "gender": "F",
+         "url": "https://bordallo.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400041",
+         "cspan_id": "1003568",
+         "votesmart_id": "1751",
+         "icpsr_id": "70701",
+         "twitter_account": null,
+         "facebook_account": "madeleine.bordallo",
+         "youtube_account": null,
+         "crp_id": "N00024866",
+         "google_entity_id": "/m/01s_xp",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2GU00033",
+           "seniority": "16",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2441 Rayburn House Office Building",
+           "phone": "202-225-1188",
+           "fax": "202-226-0341",
+           "contact_form": "https://bordallo.house.gov/contact",
+           "bills_sponsored": 4,
+           "bills_cosponsored": 172,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Readiness",
+             "code": "HSAS03",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS03.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Seapower and Projection Forces",
+             "code": "HSAS28",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS28.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Water, Power and Oceans",
+             "code": "HSII13",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Indian, Insular and Alaska Native Affairs",
+             "code": "HSII24",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII24.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2GU00033",
+           "seniority": "14",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 273,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 340,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAS.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 390,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAS.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSII.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 30,
+           "bills_cosponsored": 721,
+           "missed_votes_pct": 17.59,
+           "votes_with_party_pct": 95.51,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSII.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAS.json",
+             "rank_in_party": 18,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 699,
+           "missed_votes_pct": 25.48,
+           "votes_with_party_pct": 91.45,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSII.json",
+             "rank_in_party": 11,
+             "begin_date": "2007-01-18",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAS.json",
+             "rank_in_party": 18,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 421,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "GU",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:gu/cd:79",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 314,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

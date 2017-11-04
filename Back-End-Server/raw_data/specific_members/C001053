@@ -1,0 +1,400 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001053",
+         
+         "first_name": "Tom",
+         "middle_name": "",
+         "last_name": "Cole",
+         "date_of_birth": "1949-04-28",
+         "gender": "M",
+         "url": "https://cole.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400077",
+         "cspan_id": "1003609",
+         "votesmart_id": "46034",
+         "icpsr_id": "20344",
+         "twitter_account": "TomColeOK04",
+         "facebook_account": "TomColeOK04",
+         "youtube_account": "reptomcole",
+         "crp_id": "N00025726",
+         "google_entity_id": "/m/03tqb0",
+         "rss_url": "https://cole.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2OK04055",
+           "seniority": "16",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2467 Rayburn House Office Building",
+           "phone": "202-225-6165",
+           "fax": "202-225-3512",
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 214,
+           "missed_votes_pct": 2.63,
+           "votes_with_party_pct": 94.60,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Defense",
+             "code": "HSAP02",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Interior, Environment, and Related Agencies",
+             "code": "HSAP06",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP06.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Labor, Health and Human Services, Education, and Related Agencies",
+             "code": "HSAP07",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP07.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2OK04055",
+           "seniority": "14",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 230,
+           "missed_votes_pct": 1.51,
+           "votes_with_party_pct": 93.64,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSRU.json",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 303,
+           "missed_votes_pct": 4.19,
+           "votes_with_party_pct": 93.08,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-02-05",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 13,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSRU.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 256,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 92.24,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 7,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAP.json",
+             "rank_in_party": 20,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 284,
+           "missed_votes_pct": 2.66,
+           "votes_with_party_pct": 92.04,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAP.json",
+             "rank_in_party": 23,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 232,
+           "missed_votes_pct": 3.20,
+           "votes_with_party_pct": 93.22,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAS.json",
+             "rank_in_party": 14,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSII.json",
+             "rank_in_party": 17,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 196,
+           "missed_votes_pct": 2.06,
+           "votes_with_party_pct": 95.46,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OK",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ok/cd:4",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 189,
+           "missed_votes_pct": 2.21,
+           "votes_with_party_pct": 96.73,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

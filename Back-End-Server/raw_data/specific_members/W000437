@@ -1,0 +1,771 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000437",
+         
+         "first_name": "Roger",
+         "middle_name": null,
+         "last_name": "Wicker",
+         "date_of_birth": "1951-07-05",
+         "gender": "M",
+         "url": "https://www.wicker.senate.gov/",
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/w/roger_wicker/index.html",
+         "times_tag": "Wicker, Roger (Per)",
+         "govtrack_id": "400432",
+         "cspan_id": "18203",
+         "votesmart_id": "21926",
+         "icpsr_id": "29534",
+         "twitter_account": "SenatorWicker",
+         "facebook_account": "SenatorWicker",
+         "youtube_account": "SenatorWicker",
+         "crp_id": "N00003280",
+         "google_entity_id": "/m/025xxb",
+         "rss_url": "https://www.wicker.senate.gov/public/?a=rss.feed",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S8MS00196",
+           "seniority": "11",
+           "senate_class": "1","state_rank": "junior","lis_id": "S318",
+           "ocd_id": "ocd-division/country:us/state:ms",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "555 Dirksen Senate Office Building",
+           "phone": "202-224-6253",
+           "fax": "202-228-0378",
+           "contact_form": "https://www.wicker.senate.gov/public/index.cfm/contact",
+           "bills_sponsored": 24,
+           "bills_cosponsored": 146,
+           "missed_votes_pct": 0.38,
+           "votes_with_party_pct": 98.46,
+           "committees": [
+           {
+             "name": "Commission on Security and Cooperation in Europe",
+             "code": "JCSE",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JCSE.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSRA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JSPR.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Clean Air and Nuclear Safety Subcommittee",
+             "code": "SSEV10",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "SeaPower Subcommittee",
+             "code": "SSAS13",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS13.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Fisheries, Water, and Wildlife Subcommittee",
+             "code": "SSEV15",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation and Infrastructure Subcommittee",
+             "code": "SSEV08",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee",
+             "code": "SSCM22",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM22.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats and Capabilities Subcommittee",
+             "code": "SSAS20",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S8MS00196",
+           "seniority": "9",
+           "senate_class": "1","state_rank": "","lis_id": "S318",
+           "ocd_id": "ocd-division/country:us/state:ms",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 199,
+           "missed_votes_pct": 2.19,
+           "votes_with_party_pct": 93.48,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSCM.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEV.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSRA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAS.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Commission on Security and Cooperation in Europe",
+             "code": "JCSE",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JCSE.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "7",
+           "senate_class": "1","state_rank": "","lis_id": "S318",
+           "ocd_id": "ocd-division/country:us/state:ms",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 274,
+           "missed_votes_pct": 2.59,
+           "votes_with_party_pct": 90.16,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/JSEC.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-24",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBU.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee",
+             "code": "SSCM22",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM22.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Space, Science, and Competitiveness Subcommittee",
+             "code": "SSCM24",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM24.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "SeaPower Subcommittee",
+             "code": "SSAS13",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS13.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Strategic Forces Subcommittee",
+             "code": "SSAS16",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS16.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "1","state_rank": "","lis_id": "S318",
+           "ocd_id": "ocd-division/country:us/state:ms",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 283,
+           "missed_votes_pct": 2.87,
+           "votes_with_party_pct": 86.68,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "1","state_rank": "","lis_id": "S318",
+           "ocd_id": "ocd-division/country:us/state:ms",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 190,
+           "missed_votes_pct": 1.33,
+           "votes_with_party_pct": 89.97,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSAS.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSCM.json",
+             "rank_in_party": 6,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSFR.json",
+             "rank_in_party": 8,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSSB.json",
+             "rank_in_party": 8,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSVA.json",
+             "rank_in_party": 3,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "1","state_rank": "","lis_id": "S318",
+           "ocd_id": "ocd-division/country:us/state:ms",
+           "start_date": "2007-12-31",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 113,
+           "missed_votes_pct": 4.65,
+           "votes_with_party_pct": 88.29,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "2007-01-04",
+           "end_date": "2007-12-31",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": null,
+           "bills_cosponsored": null,
+           "missed_votes_pct": 2.61,
+           "votes_with_party_pct": 90.04,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAP.json",
+             "rank_in_party": 11,
+             "begin_date": "2007-01-04",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 210,
+           "missed_votes_pct": 2.88,
+           "votes_with_party_pct": 96.18,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 216,
+           "missed_votes_pct": 2.46,
+           "votes_with_party_pct": 95.89,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 185,
+           "missed_votes_pct": 1.61,
+           "votes_with_party_pct": 94.39,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 180,
+           "missed_votes_pct": 2.31,
+           "votes_with_party_pct": 92.41,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 210,
+           "missed_votes_pct": 2.61,
+           "votes_with_party_pct": 92.13,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "104",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ms/cd:1",
+           "start_date": "1995-01-04",
+           "end_date": "1997-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 185,
+           "missed_votes_pct": 1.49,
+           "votes_with_party_pct": 94.02,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

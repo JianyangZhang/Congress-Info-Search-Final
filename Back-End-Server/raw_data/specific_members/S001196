@@ -1,0 +1,199 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001196",
+         
+         "first_name": "Elise",
+         "middle_name": null,
+         "last_name": "Stefanik",
+         "date_of_birth": "1984-07-02",
+         "gender": "F",
+         "url": "https://stefanik.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412648",
+         "cspan_id": "76364",
+         "votesmart_id": "152539",
+         "icpsr_id": "21541",
+         "twitter_account": "RepStefanik",
+         "facebook_account": "RepEliseStefanik",
+         "youtube_account": null,
+         "crp_id": "N00035523",
+         "google_entity_id": "/m/0110fjsf",
+         "rss_url": "https://stefanik.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NY",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NY21079",
+           "seniority": "4",
+           "district": "21", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:21",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "318 Cannon House Office Building",
+           "phone": "202-225-4611",
+           "fax": "202-226-0621",
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 213,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 89.66,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 23,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Readiness",
+             "code": "HSAS03",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats and Capabilities",
+             "code": "HSAS26",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS26.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Workforce Protections",
+             "code": "HSED10",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the National Security Agency and Cybersecurity",
+             "code": "HSIG02",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Department of Defense Intelligence and Overhead Architecture",
+             "code": "HSIG04",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NY",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NY21079",
+           "seniority": "2",
+           "district": "21", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:21",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 179,
+           "missed_votes_pct": 0.15,
+           "votes_with_party_pct": 88.28,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 32,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 21,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

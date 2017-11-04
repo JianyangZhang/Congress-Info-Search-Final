@@ -1,0 +1,187 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000583",
+         
+         "first_name": "Barry",
+         "middle_name": null,
+         "last_name": "Loudermilk",
+         "date_of_birth": "1963-12-22",
+         "gender": "M",
+         "url": "https://loudermilk.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412624",
+         "cspan_id": "76165",
+         "votesmart_id": "31618",
+         "icpsr_id": "21515",
+         "twitter_account": "RepLoudermilk",
+         "facebook_account": "reploudermilk",
+         "youtube_account": null,
+         "crp_id": "N00035347",
+         "google_entity_id": "/m/0wqdmcm",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4GA11061",
+           "seniority": "4",
+           "district": "11", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:11",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "329 Cannon House Office Building",
+           "phone": "202-225-2931",
+           "fax": "202-225-2944",
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 120,
+           "missed_votes_pct": 10.84,
+           "votes_with_party_pct": 97.24,
+           "committees": [
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/JSLC.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 27,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSBA09",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA09.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Credit",
+             "code": "HSBA15",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Environment",
+             "code": "HSSY18",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY18.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight",
+             "code": "HSSY21",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY21.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4GA11061",
+           "seniority": "2",
+           "district": "11", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:11",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 149,
+           "missed_votes_pct": 2.64,
+           "votes_with_party_pct": 94.73,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

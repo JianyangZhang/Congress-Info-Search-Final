@@ -1,0 +1,67 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres318-115",
+         "bill_slug": "sres318",
+         "congress": "115",
+         "bill": "S.RES.318",
+         "bill_type": "sres",
+         "number": "S.RES.318",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres318.json",
+         "title": "A resolution honoring the Portland Thorns FC as the champion of the National Women's Soccer League in 2017.",
+         "short_title": "A resolution honoring the Portland Thorns FC as the champion of the National Women's Soccer League in 2017.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/318",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres318",
+         "introduced_date": "2017-10-31",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Sports and Recreation",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-31",
+         "latest_major_action": "Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S6930)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-10-31",
+           "description": "Referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-10-31",
+           "description": "Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S6930)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

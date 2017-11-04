@@ -1,0 +1,306 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000610",
+         
+         "first_name": "Ted",
+         "middle_name": null,
+         "last_name": "Deutch",
+         "date_of_birth": "1966-05-07",
+         "gender": "M",
+         "url": "https://teddeutch.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412385",
+         "cspan_id": "9267613",
+         "votesmart_id": "67151",
+         "icpsr_id": "20959",
+         "twitter_account": "RepTedDeutch",
+         "facebook_account": "CongressmanTedDeutch",
+         "youtube_account": "congressmanteddeutch",
+         "crp_id": "N00031317",
+         "google_entity_id": "/m/03cg3qs",
+         "rss_url": "https://teddeutch.house.gov/news/rss.aspx",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0FL19080",
+           "seniority": "10",
+           "district": "22", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:22",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2447 Rayburn House Office Building",
+           "phone": "202-225-3001",
+           "fax": "202-225-5974",
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 259,
+           "missed_votes_pct": 10.51,
+           "votes_with_party_pct": 95.23,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSO.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Asia and the Pacific",
+             "code": "HSFA05",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA05.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Middle East and North Africa",
+             "code": "HSFA13",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA13.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Crime, Terrorism, Homeland Security, and Investigations",
+             "code": "HSJU08",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU08.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0FL19080",
+           "seniority": "8",
+           "district": "21", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:21",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 314,
+           "missed_votes_pct": 5.96,
+           "votes_with_party_pct": 96.63,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSFA.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSO.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "21", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:21",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 340,
+           "missed_votes_pct": 3.27,
+           "votes_with_party_pct": 95.75,
+           "committees": [
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSO.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-23",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSFA.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSJU.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:19",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 273,
+           "missed_votes_pct": 4.67,
+           "votes_with_party_pct": 94.19,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSFA.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSJU.json",
+             "rank_in_party": 14,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:19",
+           "start_date": "2010-04-15",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 131,
+           "missed_votes_pct": 7.73,
+           "votes_with_party_pct": 98.33,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

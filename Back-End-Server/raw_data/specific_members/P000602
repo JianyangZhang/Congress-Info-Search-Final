@@ -1,0 +1,197 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "P000602",
+         
+         "first_name": "Mike",
+         "middle_name": null,
+         "last_name": "Pompeo",
+         "date_of_birth": "1963-12-30",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412431",
+         "cspan_id": "623387",
+         "votesmart_id": null,
+         "icpsr_id": "21136",
+         "twitter_account": "RepMikePompeo",
+         "facebook_account": "CongressmanPompeo",
+         "youtube_account": "congressmanpompeo",
+         "crp_id": null,
+         "google_entity_id": "/m/0cnxjk7",
+         "rss_url": "http://pompeo.house.gov/news/rss.aspx",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2017-01-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "KS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0KS04051",
+           "seniority": "8",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ks/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2017-01-23",
+           "office": null,
+           "phone": "202-225-6216",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 0,
+           "bills_cosponsored": 0,
+           "missed_votes_pct": 96.72,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "KS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0KS04051",
+           "seniority": "6",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ks/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 207,
+           "missed_votes_pct": 3.55,
+           "votes_with_party_pct": 96.01,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIG.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Select Committee on Benghazi",
+             "code": "HSBG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBG.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "KS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ks/cd:4",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 203,
+           "missed_votes_pct": 6.63,
+           "votes_with_party_pct": 95.87,
+           "committees": [
+           {
+             "name": "Select Committee on Benghazi",
+             "code": "HSBG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBG.json",
+             "rank_in_party": 5,
+             "begin_date": "2014-05-09",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIG.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-02-08",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIF.json",
+             "rank_in_party": 24,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "KS",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ks/cd:4",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 205,
+           "missed_votes_pct": 0.37,
+           "votes_with_party_pct": 94.13,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSIF.json",
+             "rank_in_party": 29,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

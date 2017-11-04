@@ -1,0 +1,400 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2936-115",
+         "bill_slug": "hr2936",
+         "congress": "115",
+         "bill": "H.R.2936",
+         "bill_type": "hr",
+         "number": "H.R.2936",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2936.json",
+         "title": "To expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes.",
+         "short_title": "Resilient Federal Forests Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bruce Westerman",
+         "sponsor_id": "W000821",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000821.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AR",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2936",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2936",
+         "introduced_date": "2017-06-20",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 18,
+         "cosponsors_by_party": {"D":2,"R":16},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Agriculture, Nutrition, and Forestry Committee",
+         "committee_codes": ["HSII","HSPW","HSED","HSAG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+         "last_vote_date": "2017-11-01",
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 41,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2936."
+         },
+                  {
+           "id": 40,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 39,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On passage Passed by recorded vote: 232 - 188 (Roll no. 598)."
+         },
+                  {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 189 - 230 (Roll no. 597)."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the O'Halleran motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a new section pertaining to Extension of Secure Rural Schools and Community Self-Determination Act of 2000."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. O'Halleran moved to recommit with instructions to the Committee on Natural Resources."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2936."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 2936 as unfinished business."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion that the committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Westerman moved that the committee rise."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 595, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 7."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 595, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 6."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 595, the Committee of the Whole pro ceeded with 10 minutes of debate on the DeFazio amendment No. 5."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 595, the Committee of the Whole proceeded with 10 minutes of debate on the Cardenas amendment No. 4."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the O'Halleran amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. O'Halleran demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 595, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 3."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Khanna amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Khanna demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 595, the Committee of the Whole proceeded with 10 minutes of debate on the Khanna amendment No. 2."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 595, the Committee of the Whole proceeded with 10 minutes of debate on the Schrader amendment No. 1."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2936."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "The Speaker designated the Honorable David Young to act as Chairman of the Committee."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 595 and Rule XVIII."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Rule provides for consideration of H.R. 2936 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under the provisions of rule H. Res. 595."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Rule H. Res. 595 passed House."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Rules Committee Resolution H. Res. 595 Reported to House. Rule provides for consideration of H.R. 2936 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-25",
+           "description": "Placed on the Union Calendar, Calendar No. 271."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-10-25",
+           "description": "Committee on Transportation discharged."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-10-25",
+           "description": "Committee on Education and the Workforce discharged."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-25",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-370, Part II."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-25",
+           "description": "Reported (Amended) by the Committee on Agriculture. H. Rept. 115-370, Part I."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 12."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-20",
+           "description": "Referred to the Committee on Agriculture, and in addition to the Committees on Natural Resources, Education and the Workforce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "18:18:00",
+             "roll_call": "598",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 232,
+             "total_no": 188,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/598.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "18:11:00",
+             "roll_call": "597",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 230,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/597.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "17:55:00",
+             "roll_call": "596",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 236,
+             "total_no": 184,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/596.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "17:50:00",
+             "roll_call": "595",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 194,
+             "total_no": 226,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/595.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "17:45:00",
+             "roll_call": "594",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 232,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/594.json"
+           }
+         ]
+
+      }
+   ]
+}

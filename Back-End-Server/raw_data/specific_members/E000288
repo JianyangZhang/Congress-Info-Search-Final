@@ -1,0 +1,294 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "E000288",
+         
+         "first_name": "Keith",
+         "middle_name": null,
+         "last_name": "Ellison",
+         "date_of_birth": "1963-08-04",
+         "gender": "M",
+         "url": "https://ellison.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412215",
+         "cspan_id": "1022556",
+         "votesmart_id": "38982",
+         "icpsr_id": "20727",
+         "twitter_account": "KeithEllison",
+         "facebook_account": "Keith.Ellison",
+         "youtube_account": "RepKeithEllison",
+         "crp_id": "N00028257",
+         "google_entity_id": "/m/0dlwms",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6MN05183",
+           "seniority": "12",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mn/cd:5",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2263 Rayburn House Office Building",
+           "phone": "202-225-4755",
+           "fax": "202-225-4886",
+           "contact_form": null,
+           "bills_sponsored": 35,
+           "bills_cosponsored": 405,
+           "missed_votes_pct": 2.79,
+           "votes_with_party_pct": 94.09,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSBA09",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Credit",
+             "code": "HSBA15",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Capital Markets, Securities, and Investment",
+             "code": "HSBA16",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6MN05183",
+           "seniority": "10",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mn/cd:5",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 39,
+           "bills_cosponsored": 428,
+           "missed_votes_pct": 4.53,
+           "votes_with_party_pct": 95.81,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mn/cd:5",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 666,
+           "missed_votes_pct": 4.28,
+           "votes_with_party_pct": 92.90,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 15,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mn/cd:5",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 41,
+           "bills_cosponsored": 487,
+           "missed_votes_pct": 8.53,
+           "votes_with_party_pct": 92.92,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 21,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mn/cd:5",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 660,
+           "missed_votes_pct": 7.08,
+           "votes_with_party_pct": 96.42,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSFA.json",
+             "rank_in_party": 26,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBA.json",
+             "rank_in_party": 25,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mn/cd:5",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 33,
+           "bills_cosponsored": 745,
+           "missed_votes_pct": 4.48,
+           "votes_with_party_pct": 95.87,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSJU.json",
+             "rank_in_party": 22,
+             "begin_date": "2007-01-18",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBA.json",
+             "rank_in_party": 28,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

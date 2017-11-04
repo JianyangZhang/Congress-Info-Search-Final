@@ -1,0 +1,156 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001294",
+         
+         "first_name": "Rod",
+         "middle_name": null,
+         "last_name": "Blum",
+         "date_of_birth": "1955-04-26",
+         "gender": "M",
+         "url": "https://blum.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412627",
+         "cspan_id": "623771",
+         "votesmart_id": "135714",
+         "icpsr_id": "21520",
+         "twitter_account": "RepRodBlum",
+         "facebook_account": "congressmanrodblum",
+         "youtube_account": null,
+         "crp_id": "N00033744",
+         "google_entity_id": "/m/0127p02j",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2IA01055",
+           "seniority": "4",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:1",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1108 Longworth House Office Building",
+           "phone": "202-225-2911",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 92,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 90.53,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Government Operations",
+             "code": "HSGO24",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO24.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Investigations, Oversight and Regulations",
+             "code": "HSSM24",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM24.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Agriculture, Energy and Trade",
+             "code": "HSSM25",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM25.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2IA01055",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ia/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 195,
+           "missed_votes_pct": 1.28,
+           "votes_with_party_pct": 91.97,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

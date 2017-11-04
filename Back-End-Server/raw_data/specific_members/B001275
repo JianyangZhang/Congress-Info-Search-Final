@@ -1,0 +1,248 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001275",
+         
+         "first_name": "Larry",
+         "middle_name": null,
+         "last_name": "Bucshon",
+         "date_of_birth": "1962-05-31",
+         "gender": "M",
+         "url": "https://bucshon.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412427",
+         "cspan_id": "61837",
+         "votesmart_id": "120335",
+         "icpsr_id": "21132",
+         "twitter_account": "RepLarryBucshon",
+         "facebook_account": "RepLarryBucshon",
+         "youtube_account": "RepLarryBucshon",
+         "crp_id": "N00031227",
+         "google_entity_id": "/m/0dd9k_y",
+         "rss_url": "https://bucshon.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IN08114",
+           "seniority": "8",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:8",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1005 Longworth House Office Building",
+           "phone": "202-225-4636",
+           "fax": "202-225-3284",
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 114,
+           "missed_votes_pct": 1.48,
+           "votes_with_party_pct": 93.33,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Energy",
+             "code": "HSIF03",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSIF14",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Digital Commerce and Consumer Protection",
+             "code": "HSIF17",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IN08114",
+           "seniority": "6",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:8",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 165,
+           "missed_votes_pct": 0.75,
+           "votes_with_party_pct": 93.76,
+           "committees": [
+           {
+             "name": "Select Investigative Panel of the Committee on Energy and Commerce",
+             "code": "",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:8",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 216,
+           "missed_votes_pct": 1.34,
+           "votes_with_party_pct": 95.66,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:8",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 188,
+           "missed_votes_pct": 1.00,
+           "votes_with_party_pct": 95.47,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSY.json",
+             "rank_in_party": 21,
+             "begin_date": "2011-02-09",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSED.json",
+             "rank_in_party": 16,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 24,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

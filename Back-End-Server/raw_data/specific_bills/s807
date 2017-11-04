@@ -1,0 +1,81 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s807-115",
+         "bill_slug": "s807",
+         "congress": "115",
+         "bill": "S.807",
+         "bill_type": "s",
+         "number": "S.807",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s807.json",
+         "title": "A bill to provide anti-retaliation protections for antitrust whistleblowers.",
+         "short_title": "Criminal Antitrust Anti-Retaliation Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Charles E. Grassley",
+         "sponsor_id": "G000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/807",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s807",
+         "introduced_date": "2017-04-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "cosponsors_by_party": {"D":5,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Criminal Antitrust Anti-Retaliation Act of 2017 This bill amends the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to prohibit an employer from discharging, demoting, suspending, harassing, or in any other manner discriminating against an employee, contractor, subcontractor, or agent of such employer (covered individual) who: (1) provided information to the federal government or a person with supervisory authority over the covered individual (or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct) concerning a violation of antitrust law or of another criminal law committed in conjunction with a potential violation of antitrust law or in conjunction with an antitrust investigation by the Department of Justice; or (2) filed, testified, participated, or otherwise assisted in an investigation relating to such a violation. This protection does not extend to any covered individual who planned and initiated such a violation or an obstruction to its investigation. A violation with respect to the antitrust laws shall not be construed to include a civil violation of any law that is not also a criminal violation. A covered individual who alleges discharge or other discrimination by an employer in violation of such prohibition is authorized to seek relief: (1) by filing a complaint with the Department of Labor; or (2) if Labor has not issued a final decision within 180 days of such filing, by bringing an action at law or equity in the appropriate U.S. district court. A covered individual who prevails in any such action is entitled to all relief necessary to make such individual whole, including reinstatement with the same status, back pay plus interest, and compensation for special damages sustained.",
+         "summary_short": "Criminal Antitrust Anti-Retaliation Act of 2017 This bill amends the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to prohibit an employer from discharging, demoting, suspending, harassing, or in any other manner discriminating against an employee, contractor, subcontractor, or agent of such employer (covered individual) who: (1) provided information to the federal government or a person with supervisory authority over the covered individual (or such other person working for t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-11-02",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 258."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-11-02",
+           "description": "Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-11-02",
+           "description": "Committee on the Judiciary. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Read twice and referred to the Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

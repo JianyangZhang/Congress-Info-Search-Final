@@ -1,0 +1,221 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001285",
+         
+         "first_name": "Julia",
+         "middle_name": null,
+         "last_name": "Brownley",
+         "date_of_birth": "1952-08-28",
+         "gender": "F",
+         "url": "https://juliabrownley.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412516",
+         "cspan_id": "79783",
+         "votesmart_id": "59904",
+         "icpsr_id": "21308",
+         "twitter_account": "JuliaBrownley26",
+         "facebook_account": "RepJuliaBrownley",
+         "youtube_account": "RepJuliaBrownley",
+         "crp_id": "N00034254",
+         "google_entity_id": "/m/027z42z",
+         "rss_url": "https://juliabrownley.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA00120",
+           "seniority": "6",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:26",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1019 Longworth House Office Building",
+           "phone": "202-225-5811",
+           "fax": "202-225-1100",
+           "contact_form": null,
+           "bills_sponsored": 27,
+           "bills_cosponsored": 324,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 94.58,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 22,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Water Resources and Environment",
+             "code": "HSPW02",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Aviation",
+             "code": "HSPW05",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW05.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Highways and Transit",
+             "code": "HSPW12",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW12.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSVR03",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR03.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Disability Assistance and Memorial Affairs",
+             "code": "HSVR09",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA00120",
+           "seniority": "4",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:26",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 355,
+           "missed_votes_pct": 0.83,
+           "votes_with_party_pct": 92.31,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSVR.json",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "26", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:26",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 422,
+           "missed_votes_pct": 0.34,
+           "votes_with_party_pct": 91.16,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSVR.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

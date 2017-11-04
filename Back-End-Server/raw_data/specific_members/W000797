@@ -1,0 +1,347 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000797",
+         
+         "first_name": "Debbie",
+         "middle_name": null,
+         "last_name": "Wasserman Schultz",
+         "date_of_birth": "1966-09-27",
+         "gender": "F",
+         "url": "https://wassermanschultz.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400623",
+         "cspan_id": "86882",
+         "votesmart_id": "24301",
+         "icpsr_id": "20504",
+         "twitter_account": "RepDWStweets",
+         "facebook_account": "RepDWS",
+         "youtube_account": "RepWassermanSchultz",
+         "crp_id": "N00026106",
+         "google_entity_id": "/m/04cmyw",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4FL20023",
+           "seniority": "14",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:23",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1114 Longworth House Office Building",
+           "phone": "202-225-7931",
+           "fax": "202-226-2052",
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 282,
+           "missed_votes_pct": 10.02,
+           "votes_with_party_pct": 96.35,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Energy and Water Development, and Related Agencies",
+             "code": "HSAP10",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Military Construction, Veterans Affairs, and Related Agencies",
+             "code": "HSAP18",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP18.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Legislative Branch",
+             "code": "HSAP24",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP24.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4FL20023",
+           "seniority": "12",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:23",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 205,
+           "missed_votes_pct": 8.30,
+           "votes_with_party_pct": 96.46,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:23",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 242,
+           "missed_votes_pct": 7.38,
+           "votes_with_party_pct": 93.30,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 18,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2013-02-04"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "20", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:20",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 197,
+           "missed_votes_pct": 6.41,
+           "votes_with_party_pct": 94.28,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-25",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSJU.json",
+             "rank_in_party": 16,
+             "begin_date": "2011-01-19",
+             "end_date": "2011-09-20"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "20", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:20",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 437,
+           "missed_votes_pct": 4.66,
+           "votes_with_party_pct": 98.54,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSJU.json",
+             "rank_in_party": 23,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAP.json",
+             "rank_in_party": 33,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "20", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:20",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 432,
+           "missed_votes_pct": 3.15,
+           "votes_with_party_pct": 97.30,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSJU.json",
+             "rank_in_party": 21,
+             "begin_date": "2007-01-23",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAP.json",
+             "rank_in_party": 36,
+             "begin_date": "2007-01-04",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "20", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:20",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 396,
+           "missed_votes_pct": 3.62,
+           "votes_with_party_pct": 93.33,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

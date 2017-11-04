@@ -1,0 +1,610 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000555",
+         
+         "first_name": "Kirsten",
+         "middle_name": "E.",
+         "last_name": "Gillibrand",
+         "date_of_birth": "1966-12-09",
+         "gender": "F",
+         "url": "https://www.gillibrand.senate.gov/",
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/g/kirsten_gillibrand/index.html",
+         "times_tag": "",
+         "govtrack_id": "412223",
+         "cspan_id": "1022862",
+         "votesmart_id": "65147",
+         "icpsr_id": "20735",
+         "twitter_account": "SenGillibrand",
+         "facebook_account": "KirstenGillibrand",
+         "youtube_account": "KirstenEGillibrand",
+         "crp_id": "N00027658",
+         "google_entity_id": "/m/0gnfc4",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S0NY00410",
+           "seniority": "9",
+           "senate_class": "1","state_rank": "junior","lis_id": "S331",
+           "ocd_id": "ocd-division/country:us/state:ny",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "478 Russell Senate Office Building",
+           "phone": "202-224-4451",
+           "fax": "202-228-0282",
+           "contact_form": "http://www.gillibrand.senate.gov/contact/",
+           "bills_sponsored": 31,
+           "bills_cosponsored": 278,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 80.08,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SPAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Clean Air and Nuclear Safety Subcommittee",
+             "code": "SSEV10",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Fisheries, Water, and Wildlife Subcommittee",
+             "code": "SSEV15",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation and Infrastructure Subcommittee",
+             "code": "SSEV08",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV08.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Cybersecurity Subcommittee",
+             "code": "SSAS21",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS21.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Personnel Subcommittee",
+             "code": "SSAS17",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS17.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S0NY00410",
+           "seniority": "7",
+           "senate_class": "1","state_rank": "","lis_id": "S331",
+           "ocd_id": "ocd-division/country:us/state:ny",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 39,
+           "bills_cosponsored": 343,
+           "missed_votes_pct": 0.40,
+           "votes_with_party_pct": 94.00,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEV.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAS.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAF.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "1","state_rank": "","lis_id": "S331",
+           "ocd_id": "ocd-division/country:us/state:ny",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 65,
+           "bills_cosponsored": 384,
+           "missed_votes_pct": 1.22,
+           "votes_with_party_pct": 98.00,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Fisheries, Water, and Wildlife Subcommittee",
+             "code": "SSEV15",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV15.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Emerging Threats and Capabilities Subcommittee",
+             "code": "SSAS20",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS20.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Strategic Forces Subcommittee",
+             "code": "SSAS16",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS16.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Children's Health and Environmental Responsibility",
+             "code": "SSEV17",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV17.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Superfund, Waste Management, and Regulatory Oversight",
+             "code": "SSEV09",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV09.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "1","state_rank": "","lis_id": "S331",
+           "ocd_id": "ocd-division/country:us/state:ny",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 82,
+           "bills_cosponsored": 402,
+           "missed_votes_pct": 0.62,
+           "votes_with_party_pct": 95.66,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "1","state_rank": "","lis_id": "S331",
+           "ocd_id": "ocd-division/country:us/state:ny",
+           "start_date": "2009-01-27",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 84,
+           "bills_cosponsored": 440,
+           "missed_votes_pct": 1.06,
+           "votes_with_party_pct": 97.25,
+           "committees": [
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSAF.json",
+             "rank_in_party": 10,
+             "begin_date": "2009-01-26",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSFR.json",
+             "rank_in_party": 10,
+             "begin_date": "2009-01-26",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSEV.json",
+             "rank_in_party": 11,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "20", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:20",
+           "start_date": "2009-01-06",
+           "end_date": "2009-01-26",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": null,
+           "bills_cosponsored": null,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 89.66,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAG.json",
+             "rank_in_party": 14,
+             "begin_date": "2009-01-21",
+             "end_date": "2009-01-26"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAS.json",
+             "rank_in_party": 27,
+             "begin_date": "2009-01-07",
+             "end_date": "2009-01-26"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "20", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:20",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 303,
+           "missed_votes_pct": 5.92,
+           "votes_with_party_pct": 93.03,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/SSAS.json",
+             "rank_in_party": 13,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/SPAG.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/SSAF.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/SSEV.json",
+             "rank_in_party": 10,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAG.json",
+             "rank_in_party": 18,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAS.json",
+             "rank_in_party": 28,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

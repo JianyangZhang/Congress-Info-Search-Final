@@ -1,0 +1,67 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres599-115",
+         "bill_slug": "hres599",
+         "congress": "115",
+         "bill": "H.RES.599",
+         "bill_type": "hres",
+         "number": "H.RES.599",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres599.json",
+         "title": "Expressing the sense of the House of Representatives with respect to United States policy towards Yemen, and for other purposes.",
+         "short_title": "Expressing the sense of the House of Representatives with respect to United States policy towards Yemen, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ro Khanna",
+         "sponsor_id": "K000389",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000389.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/599",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres599",
+         "introduced_date": "2017-11-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "ORDER OF BUSINESS - Mr. Newhouse asked unanimous consent that it be in order at any time to consider in the House, H.Res. 599; that the resolution be considered as read; that the previous question be considered as ordered on the resolution and the preamble to adoption without intervening motion or demand for division of the question except for one hour of debate; and that notwithstanding any previous order of the House, the provisions of section 7 of the War Powers Resolution (50 U.S.C. 1546) shall not apply to H.Con.Res. 81. Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "ORDER OF BUSINESS - Mr. Newhouse asked unanimous consent that it be in order at any time to consider in the House, H.Res. 599; that the resolution be considered as read; that the previous question be considered as ordered on the resolution and the preamble to adoption without intervening motion or demand for division of the question except for one hour of debate; and that notwithstanding any previous order of the House, the provisions of section 7 of the War Powers Resolution (50 U.S.C. 1546) shall not apply to H.Con.Res. 81. Agreed to without objection."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

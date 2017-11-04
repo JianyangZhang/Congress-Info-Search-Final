@@ -1,0 +1,224 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "H001056",
+         
+         "first_name": "Jaime",
+         "middle_name": null,
+         "last_name": "Herrera Beutler",
+         "date_of_birth": "1978-11-03",
+         "gender": "F",
+         "url": "https://herrerabeutler.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412486",
+         "cspan_id": "95198",
+         "votesmart_id": "101907",
+         "icpsr_id": "21187",
+         "twitter_account": "HerreraBeutler",
+         "facebook_account": "herrerabeutler",
+         "youtube_account": "RepHerreraBeutler",
+         "crp_id": "N00031559",
+         "google_entity_id": "/m/0cz8yx2",
+         "rss_url": "https://herrerabeutler.house.gov/news/rss.aspx",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0WA03187",
+           "seniority": "8",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:3",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1107 Longworth House Office Building",
+           "phone": "202-225-3536",
+           "fax": "202-225-3478",
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 90,
+           "missed_votes_pct": 0.33,
+           "votes_with_party_pct": 91.43,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Labor, Health and Human Services, Education, and Related Agencies",
+             "code": "HSAP07",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP07.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy and Water Development, and Related Agencies",
+             "code": "HSAP10",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Services and General Government",
+             "code": "HSAP23",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP23.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0WA03187",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:3",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 106,
+           "missed_votes_pct": 22.57,
+           "votes_with_party_pct": 89.96,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:3",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 119,
+           "missed_votes_pct": 26.59,
+           "votes_with_party_pct": 88.34,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 23,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSM.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:3",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 123,
+           "missed_votes_pct": 0.87,
+           "votes_with_party_pct": 88.63,
+           "committees": [
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSM.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 18,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

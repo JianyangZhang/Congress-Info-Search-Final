@@ -1,0 +1,631 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001070",
+         
+         "first_name": "Bob",
+         "middle_name": null,
+         "last_name": "Casey",
+         "date_of_birth": "1960-04-13",
+         "gender": "M",
+         "url": "https://www.casey.senate.gov/",
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/c/robert_p_jr_casey/index.html",
+         "times_tag": "Casey, Robert P Jr (Per)",
+         "govtrack_id": "412246",
+         "cspan_id": "47036",
+         "votesmart_id": "2541",
+         "icpsr_id": "40703",
+         "twitter_account": "SenBobCasey",
+         "facebook_account": "SenatorBobCasey",
+         "youtube_account": "SenatorBobCasey",
+         "crp_id": "N00027503",
+         "google_entity_id": "/m/047ymw",
+         "rss_url": "https://www.casey.senate.gov/rss/feeds/?all",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S6PA00217",
+           "seniority": "11",
+           "senate_class": "1","state_rank": "senior","lis_id": "S309",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "393 Russell Senate Office Building",
+           "phone": "202-224-6324",
+           "fax": "202-228-0604",
+           "contact_form": "https://www.casey.senate.gov/contact/",
+           "bills_sponsored": 42,
+           "bills_cosponsored": 177,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 96.55,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SPAG.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "International Trade, Customs, and Global Competitiveness",
+             "code": "SSFI13",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI13.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Social Security, Pensions, and Family Policy Subcommittee",
+             "code": "SSFI02",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Taxation and IRS Oversight Subcommittee",
+             "code": "SSFI11",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI11.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S6PA00217",
+           "seniority": "9",
+           "senate_class": "1","state_rank": "","lis_id": "S309",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 73,
+           "bills_cosponsored": 228,
+           "missed_votes_pct": 1.00,
+           "votes_with_party_pct": 91.75,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JSEC.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSHR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFI.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAF.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "7",
+           "senate_class": "1","state_rank": "","lis_id": "S309",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 67,
+           "bills_cosponsored": 248,
+           "missed_votes_pct": 3.04,
+           "votes_with_party_pct": 97.65,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/JSEC.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-24",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "East Asia, the Pacific, and International Cybersecurity Policy",
+             "code": "SSFR02",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR02.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Europe and Regional Security Cooperation Subcommittee",
+             "code": "SSFR01",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR01.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",
+             "code": "SSFR13",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR13.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Near Eastern and South and Central Asian Affairs Subcommittee",
+             "code": "SSFR07",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR07.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Primary Health and Retirement Security Subcommittee",
+             "code": "SSHR12",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR12.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "1","state_rank": "","lis_id": "S309",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 232,
+           "bills_cosponsored": 282,
+           "missed_votes_pct": 1.44,
+           "votes_with_party_pct": 93.33,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/JSEC.json",
+             "rank_in_party": 1,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SPAG.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSAF.json",
+             "rank_in_party": 8,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSFR.json",
+             "rank_in_party": 5,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSHR.json",
+             "rank_in_party": 6,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "1","state_rank": "","lis_id": "S309",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 112,
+           "bills_cosponsored": 441,
+           "missed_votes_pct": 0.15,
+           "votes_with_party_pct": 96.15,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SPAG.json",
+             "rank_in_party": 6,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/JSEC.json",
+             "rank_in_party": 4,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSAF.json",
+             "rank_in_party": 8,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSFR.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSHR.json",
+             "rank_in_party": 8,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "1","state_rank": "","lis_id": "S309",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 43,
+           "bills_cosponsored": 391,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 94.37,
+           "committees": [
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSAF.json",
+             "rank_in_party": 10,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSBK.json",
+             "rank_in_party": 10,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSFR.json",
+             "rank_in_party": 10,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SPAG.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/JSEC.json",
+             "rank_in_party": 5,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

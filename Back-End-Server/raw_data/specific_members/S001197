@@ -1,0 +1,266 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001197",
+         
+         "first_name": "Ben",
+         "middle_name": "",
+         "last_name": "Sasse",
+         "date_of_birth": "1972-02-22",
+         "gender": "M",
+         "url": "https://www.sasse.senate.gov/public/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412671",
+         "cspan_id": "77429",
+         "votesmart_id": "150182",
+         "icpsr_id": "41503",
+         "twitter_account": "SenSasse",
+         "facebook_account": "SenatorSasse",
+         "youtube_account": null,
+         "crp_id": "N00035544",
+         "google_entity_id": "/m/0j5wk_6",
+         "rss_url": "https://www.sasse.senate.gov/public/?a=rss.feed",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4NE00090",
+           "seniority": "3",
+           "senate_class": "2","state_rank": "junior","lis_id": "S382",
+           "ocd_id": "ocd-division/country:us/state:ne",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "136 Russell Senate Office Building",
+           "phone": "202-224-4224",
+           "fax": null,
+           "contact_form": "http://www.sasse.senate.gov/public/index.cfm/email-ben",
+           "bills_sponsored": 3,
+           "bills_cosponsored": 48,
+           "missed_votes_pct": 1.53,
+           "votes_with_party_pct": 94.94,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JSEC.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Crime and Terrorism Subcommittee",
+             "code": "SSJU22",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU22.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight, Agency Action, Federal Rights and Federal Courts",
+             "code": "SSJU25",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU25.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Protection Subcommittee",
+             "code": "SSBK08",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Constitution Subcommittee",
+             "code": "SSJU21",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU21.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "National Security and  International Trade and Finance",
+             "code": "SSBK05",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK05.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Securities, Insurance, and Investment Subcommittee",
+             "code": "SSBK04",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Cybersecurity Subcommittee",
+             "code": "SSAS21",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS21.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Personnel Subcommittee",
+             "code": "SSAS17",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "NE",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4NE00090",
+           "seniority": "1",
+           "senate_class": "2","state_rank": "","lis_id": "S382",
+           "ocd_id": "ocd-division/country:us/state:ne",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 68,
+           "missed_votes_pct": 1.00,
+           "votes_with_party_pct": 83.70,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JSEC.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBK.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSGA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAF.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

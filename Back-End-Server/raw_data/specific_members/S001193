@@ -1,0 +1,210 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001193",
+         
+         "first_name": "Eric",
+         "middle_name": null,
+         "last_name": "Swalwell",
+         "date_of_birth": "1980-11-16",
+         "gender": "M",
+         "url": "https://swalwell.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412514",
+         "cspan_id": "79729",
+         "votesmart_id": "129529",
+         "icpsr_id": "21306",
+         "twitter_account": "RepSwalwell",
+         "facebook_account": "CongressmanEricSwalwell",
+         "youtube_account": "ericswalwell",
+         "crp_id": "N00033508",
+         "google_entity_id": "/m/0ncq55g",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA15094",
+           "seniority": "6",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:15",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "129 Cannon House Office Building",
+           "phone": "202-225-5065",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 333,
+           "missed_votes_pct": 3.61,
+           "votes_with_party_pct": 94.55,
+           "committees": [
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Central Intelligence Agency",
+             "code": "HSIG01",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG01.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats",
+             "code": "HSIG03",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Regulatory Reform, Commercial, and Antitrust Law",
+             "code": "HSJU05",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU05.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA15094",
+           "seniority": "4",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:15",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 417,
+           "missed_votes_pct": 3.70,
+           "votes_with_party_pct": 95.45,
+           "committees": [
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIG.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:15",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 367,
+           "missed_votes_pct": 0.50,
+           "votes_with_party_pct": 92.75,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHM.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

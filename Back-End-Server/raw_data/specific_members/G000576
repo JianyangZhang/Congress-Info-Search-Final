@@ -1,0 +1,193 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000576",
+         
+         "first_name": "Glenn",
+         "middle_name": null,
+         "last_name": "Grothman",
+         "date_of_birth": "1955-07-03",
+         "gender": "M",
+         "url": "https://grothman.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412661",
+         "cspan_id": "77282",
+         "votesmart_id": "3493",
+         "icpsr_id": "21559",
+         "twitter_account": "RepGrothman",
+         "facebook_account": "RepGrothman",
+         "youtube_account": null,
+         "crp_id": "N00036409",
+         "google_entity_id": "/m/02pnsk2",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4WI06048",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:6",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1217 Longworth House Office Building",
+           "phone": "202-225-2476",
+           "fax": "202-225-2356",
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 193,
+           "missed_votes_pct": 1.97,
+           "votes_with_party_pct": 94.97,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Workforce Protections",
+             "code": "HSED10",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health Care, Benefits and Administrative Rules",
+             "code": "HSGO27",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO27.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Intergovernmental Affairs",
+             "code": "HSGO29",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO29.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4WI06048",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:6",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 249,
+           "missed_votes_pct": 0.98,
+           "votes_with_party_pct": 93.37,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/JSEC.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 23,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

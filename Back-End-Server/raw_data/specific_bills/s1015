@@ -1,0 +1,81 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1015-115",
+         "bill_slug": "s1015",
+         "congress": "115",
+         "bill": "S.1015",
+         "bill_type": "s",
+         "number": "S.1015",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1015.json",
+         "title": "A bill to require the Federal Communications Commission to study the feasibility of designating a simple, easy-to-remember dialing code to be used for a national suicide prevention and mental health crisis hotline system.",
+         "short_title": "National Suicide Hotline Improvement Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Orrin G. Hatch",
+         "sponsor_id": "H000338",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H000338.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1015",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1015",
+         "introduced_date": "2017-05-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "cosponsors_by_party": {"D":5,"R":2},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-31",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "National Suicide Hotline Improvement Act of 2017 This bill requires the Federal Communications Commission (FCC) to coordinate with the Substance Abuse and Mental Health Services Administration and to consult with the Department of Veterans Affairs to examine: (1) the feasibility of designating a three-digit dialing code for a national suicide prevention and mental health crisis hotline system; and (2) the effectiveness of the current National Suicide Prevention Lifeline (1-800-273-TALK), including how well it addresses the needs of veterans.  The FCC must submit to Congress a recommended dialing code, a cost-benefit analysis comparing the three-digit code to the current lifeline number, and cost estimates for service providers, states, and localities.",
+         "summary_short": "National Suicide Hotline Improvement Act of 2017 This bill requires the Federal Communications Commission (FCC) to coordinate with the Substance Abuse and Mental Health Services Administration and to consult with the Department of Veterans Affairs to examine: (1) the feasibility of designating a three-digit dialing code for a national suicide prevention and mental health crisis hotline system; and (2) the effectiveness of the current National Suicide Prevention Lifeline (1-800-273-TALK), incl...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-10-31",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 256."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-10-31",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2723-2724)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

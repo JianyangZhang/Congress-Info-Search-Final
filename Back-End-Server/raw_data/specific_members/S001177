@@ -1,0 +1,328 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001177",
+         
+         "first_name": "Gregorio",
+         "middle_name": "Kilili Camacho",
+         "last_name": "Sablan",
+         "date_of_birth": "1955-01-19",
+         "gender": "M",
+         "url": "https://sablan.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412312",
+         "cspan_id": "1031366",
+         "votesmart_id": "110903",
+         "icpsr_id": null,
+         "twitter_account": null,
+         "facebook_account": "153423912663",
+         "youtube_account": "CongressmanSablan",
+         "crp_id": "N00030418",
+         "google_entity_id": "/m/04ycmvy",
+         "rss_url": "https://sablan.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "I",
+         "most_recent_vote": "",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "MP",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8MP00041",
+           "seniority": "10",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:mp/cd:79",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2411 Rayburn House Office Building",
+           "phone": "202-225-2646",
+           "fax": "202-226-4249",
+           "contact_form": "https://sablan.house.gov/contact-me/email-me-zip-authenticated",
+           "bills_sponsored": 3,
+           "bills_cosponsored": 102,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health, Employment, Labor, and Pensions",
+             "code": "HSED02",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED02.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Water, Power and Oceans",
+             "code": "HSII13",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Indian, Insular and Alaska Native Affairs",
+             "code": "HSII24",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII24.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSVR08",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR08.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Disability Assistance and Memorial Affairs",
+             "code": "HSVR09",
+             "parent_committee_id": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSVR/subcommittees/HSVR09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "MP",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8MP00041",
+           "seniority": "8",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:mp/cd:79",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 108,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "MP",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:mp/cd:79",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 157,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 15,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "MP",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:mp/cd:79",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 27,
+           "bills_cosponsored": 213,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 17,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSII.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Delegate",
+           "short_title": "Del.",
+           "state": "MP",
+           "party": "I",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:mp/cd:79",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 368,
+           "missed_votes_pct": 50.00,
+           "votes_with_party_pct": 100.00,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSED.json",
+             "rank_in_party": 28,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSII.json",
+             "rank_in_party": 12,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s2058-115",
+         "bill_slug": "s2058",
+         "congress": "115",
+         "bill": "S.2058",
+         "bill_type": "s",
+         "number": "S.2058",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s2058.json",
+         "title": "A bill to amend title 38, United States Code, to increase the thresholds by which medical facility projects and medical facility leases of the Department of Veterans Affairs are considered major medical facility projects and major medical facility leases, respectively, and for other purposes.",
+         "short_title": "A bill to amend title 38, United States Code, to increase the thresholds by which medical facility projects and medical facility leases of the Department of Veterans Affairs are considered major medical facility projects and major medical facility leases,",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2058",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s2058",
+         "introduced_date": "2017-11-01",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Read twice and referred to the Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

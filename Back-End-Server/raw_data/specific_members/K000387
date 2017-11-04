@@ -1,0 +1,218 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000387",
+         
+         "first_name": "Steve",
+         "middle_name": null,
+         "last_name": "Knight",
+         "date_of_birth": "1966-12-17",
+         "gender": "M",
+         "url": "https://knight.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412614",
+         "cspan_id": "76118",
+         "votesmart_id": null,
+         "icpsr_id": "21505",
+         "twitter_account": "SteveKnight25",
+         "facebook_account": "RepresentativeSteveKnight",
+         "youtube_account": null,
+         "crp_id": "N00035820",
+         "google_entity_id": "/m/05zjrvq",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA25123",
+           "seniority": "4",
+           "district": "25", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:25",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1023 Longworth House Office Building",
+           "phone": "202-225-1956",
+           "fax": "202-226-0683",
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 146,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 92.68,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Research and Technology",
+             "code": "HSSY15",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Space",
+             "code": "HSSY16",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy",
+             "code": "HSSY20",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Tactical Air and Land Forces",
+             "code": "HSAS25",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Seapower and Projection Forces",
+             "code": "HSAS28",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS28.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Contracting and Workforce",
+             "code": "HSSM23",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM23.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Economic Growth, Tax and Capital Access",
+             "code": "HSSM27",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM27.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA25123",
+           "seniority": "2",
+           "district": "25", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:25",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 140,
+           "missed_votes_pct": 1.51,
+           "votes_with_party_pct": 95.71,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 34,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSM.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

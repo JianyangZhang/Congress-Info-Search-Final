@@ -1,0 +1,163 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000819",
+         
+         "first_name": "Mark",
+         "middle_name": "",
+         "last_name": "Walker",
+         "date_of_birth": "1969-05-20",
+         "gender": "M",
+         "url": "https://walker.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412670",
+         "cspan_id": "76376",
+         "votesmart_id": "146255",
+         "icpsr_id": "21543",
+         "twitter_account": "RepMarkWalker",
+         "facebook_account": "RepMarkWalker",
+         "youtube_account": null,
+         "crp_id": "N00035311",
+         "google_entity_id": "/m/0115r5gz",
+         "rss_url": "https://walker.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NC06052",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nc/cd:6",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1305 Longworth House Office Building",
+           "phone": "202-225-3065",
+           "fax": "202-225-8611",
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 91,
+           "missed_votes_pct": 2.63,
+           "votes_with_party_pct": 96.46,
+           "committees": [
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/JSPR.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health Care, Benefits and Administrative Rules",
+             "code": "HSGO27",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO27.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Intergovernmental Affairs",
+             "code": "HSGO29",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO29.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NC06052",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nc/cd:6",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 111,
+           "missed_votes_pct": 2.64,
+           "votes_with_party_pct": 95.35,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHA.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

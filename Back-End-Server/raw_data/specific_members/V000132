@@ -1,0 +1,199 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "V000132",
+         
+         "first_name": "Filemon",
+         "middle_name": null,
+         "last_name": "Vela",
+         "date_of_birth": "1963-02-13",
+         "gender": "M",
+         "url": "https://vela.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412580",
+         "cspan_id": "95434",
+         "votesmart_id": "137719",
+         "icpsr_id": "21366",
+         "twitter_account": "RepFilemonVela",
+         "facebook_account": "USCongressmanFilemonVela",
+         "youtube_account": null,
+         "crp_id": "N00034349",
+         "google_entity_id": "/m/0ll43fz",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2TX27190",
+           "seniority": "6",
+           "district": "34", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:34",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "437 Cannon House Office Building",
+           "phone": "202-225-9901",
+           "fax": "202-225-9770",
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 152,
+           "missed_votes_pct": 0.99,
+           "votes_with_party_pct": 90.71,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Conservation and Forestry",
+             "code": "HSAG15",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Livestock and Foreign Agriculture",
+             "code": "HSAG29",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG29.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Border and Maritime Security",
+             "code": "HSHM11",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM11.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2TX27190",
+           "seniority": "4",
+           "district": "34", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:34",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 145,
+           "missed_votes_pct": 2.72,
+           "votes_with_party_pct": 88.67,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "34", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:34",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 3,
+           "bills_cosponsored": 177,
+           "missed_votes_pct": 2.52,
+           "votes_with_party_pct": 85.54,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHM.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAG.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

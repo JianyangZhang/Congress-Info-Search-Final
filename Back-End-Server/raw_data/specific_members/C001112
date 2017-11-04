@@ -1,0 +1,102 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001112",
+         
+         "first_name": "Salud",
+         "middle_name": null,
+         "last_name": "Carbajal",
+         "date_of_birth": "1964-11-18",
+         "gender": "M",
+         "url": "https://carbajal.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412686",
+         "cspan_id": "104728",
+         "votesmart_id": "81569",
+         "icpsr_id": null,
+         "twitter_account": "RepCarbajal",
+         "facebook_account": "repsaludcarbajal",
+         "youtube_account": null,
+         "crp_id": "N00037015",
+         "google_entity_id": "/g/11c2q53dct",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6CA24303",
+           "seniority": "2",
+           "district": "24", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:24",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "212 Cannon House Office Building",
+           "phone": "202-225-3601",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 227,
+           "missed_votes_pct": 0.16,
+           "votes_with_party_pct": 94.08,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 22,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Readiness",
+             "code": "HSAS03",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Tactical Air and Land Forces",
+             "code": "HSAS25",
+             "parent_committee_id": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAS/subcommittees/HSAS25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

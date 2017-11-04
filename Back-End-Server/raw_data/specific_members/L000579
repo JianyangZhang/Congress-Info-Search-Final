@@ -1,0 +1,221 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000579",
+         
+         "first_name": "Alan",
+         "middle_name": null,
+         "last_name": "Lowenthal",
+         "date_of_birth": "1941-03-08",
+         "gender": "M",
+         "url": "https://lowenthal.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412521",
+         "cspan_id": "93815",
+         "votesmart_id": "16469",
+         "icpsr_id": "21313",
+         "twitter_account": "RepLowenthal",
+         "facebook_account": "RepLowenthal",
+         "youtube_account": "RepLowenthal",
+         "crp_id": "N00033274",
+         "google_entity_id": "/m/027jz0m",
+         "rss_url": "https://lowenthal.house.gov/news/rss.aspx",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA00104",
+           "seniority": "6",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "125 Cannon House Office Building",
+           "phone": "202-225-7924",
+           "fax": "202-225-7926",
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 329,
+           "missed_votes_pct": 4.27,
+           "votes_with_party_pct": 96.23,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Energy and Mineral Resources",
+             "code": "HSII06",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII06.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Federal Lands",
+             "code": "HSII10",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Water Resources and Environment",
+             "code": "HSPW02",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Coast Guard and Maritime Transportation",
+             "code": "HSPW07",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW07.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Highways and Transit",
+             "code": "HSPW12",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW12.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA00104",
+           "seniority": "4",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 493,
+           "missed_votes_pct": 0.98,
+           "votes_with_party_pct": 96.42,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSFA.json",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 588,
+           "missed_votes_pct": 1.09,
+           "votes_with_party_pct": 95.00,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 19,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSFA.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

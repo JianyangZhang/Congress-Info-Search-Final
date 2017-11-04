@@ -1,0 +1,53 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4232-115",
+         "bill_slug": "hr4232",
+         "congress": "115",
+         "bill": "H.R.4232",
+         "bill_type": "hr",
+         "number": "H.R.4232",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4232.json",
+         "title": "To amend the Rural Electrification Act of 1936 to provide grants for access to broadband telecommunications services in rural areas, and for other purposes.",
+         "short_title": "To amend the Rural Electrification Act of 1936 to provide grants for access to broadband telecommunications services in rural areas, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mark Pocan",
+         "sponsor_id": "P000607",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000607.json",
+         "sponsor_party": "D",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4232",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4232",
+         "introduced_date": "2017-11-02",
+         "active": null,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+],
+         "votes": [
+         ]
+
+      }
+   ]
+}

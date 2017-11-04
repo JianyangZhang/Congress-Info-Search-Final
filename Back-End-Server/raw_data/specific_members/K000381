@@ -1,0 +1,170 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000381",
+         
+         "first_name": "Derek",
+         "middle_name": null,
+         "last_name": "Kilmer",
+         "date_of_birth": "1974-01-01",
+         "gender": "M",
+         "url": "https://kilmer.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412583",
+         "cspan_id": "68310",
+         "votesmart_id": "51516",
+         "icpsr_id": "21368",
+         "twitter_account": "RepDerekKilmer",
+         "facebook_account": "derek.kilmer",
+         "youtube_account": null,
+         "crp_id": "N00034453",
+         "google_entity_id": "/m/03w9yd6",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2WA06129",
+           "seniority": "6",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:6",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1520 Longworth House Office Building",
+           "phone": "202-225-5916",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 364,
+           "missed_votes_pct": 0.33,
+           "votes_with_party_pct": 95.06,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Interior, Environment, and Related Agencies",
+             "code": "HSAP06",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP06.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Commerce, Justice, Science, and Related Agencies",
+             "code": "HSAP19",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP19.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2WA06129",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:6",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 27,
+           "bills_cosponsored": 386,
+           "missed_votes_pct": 0.23,
+           "votes_with_party_pct": 94.25,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 21,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:6",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 337,
+           "missed_votes_pct": 1.17,
+           "votes_with_party_pct": 90.75,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAS.json",
+             "rank_in_party": 21,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001101",
+         
+         "first_name": "Katherine",
+         "middle_name": "",
+         "last_name": "Clark",
+         "date_of_birth": "1963-07-17",
+         "gender": "F",
+         "url": "https://katherineclark.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412600",
+         "cspan_id": "73178",
+         "votesmart_id": "35858",
+         "icpsr_id": "21375",
+         "twitter_account": "RepKClark",
+         "facebook_account": "CongresswomanClark",
+         "youtube_account": null,
+         "crp_id": "N00035278",
+         "google_entity_id": "/m/0fpjc8b",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MA05084",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ma/cd:5",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1415 Longworth House Office Building",
+           "phone": "202-225-2836",
+           "fax": "202-226-0092",
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 307,
+           "missed_votes_pct": 2.46,
+           "votes_with_party_pct": 96.63,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 21,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Labor, Health and Human Services, Education, and Related Agencies",
+             "code": "HSAP07",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP07.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation, and Housing and Urban Development, and Related Agencies",
+             "code": "HSAP20",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP20.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4MA05084",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ma/cd:5",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 358,
+           "missed_votes_pct": 0.68,
+           "votes_with_party_pct": 95.36,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ma/cd:5",
+           "start_date": "2013-12-12",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 3,
+           "bills_cosponsored": 239,
+           "missed_votes_pct": 5.05,
+           "votes_with_party_pct": 95.26,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 17,
+             "begin_date": "2014-04-01",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

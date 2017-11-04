@@ -1,0 +1,361 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "M001160",
+         
+         "first_name": "Gwen",
+         "middle_name": null,
+         "last_name": "Moore",
+         "date_of_birth": "1951-04-18",
+         "gender": "F",
+         "url": "https://gwenmoore.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400661",
+         "cspan_id": "42548",
+         "votesmart_id": "3457",
+         "icpsr_id": "20537",
+         "twitter_account": "RepGwenMoore",
+         "facebook_account": "GwenSMoore",
+         "youtube_account": "RepGwenMoore",
+         "crp_id": "N00026914",
+         "google_entity_id": "/m/04cvds",
+         "rss_url": "https://gwenmoore.house.gov/common/rss/index.cfm?rss=49",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4WI04183",
+           "seniority": "14",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2252 Rayburn House Office Building",
+           "phone": "202-225-4572",
+           "fax": "202-225-8135",
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 422,
+           "missed_votes_pct": 6.08,
+           "votes_with_party_pct": 95.80,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSBA09",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Credit",
+             "code": "HSBA15",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Monetary Policy and Trade",
+             "code": "HSBA20",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA20.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4WI04183",
+           "seniority": "12",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 445,
+           "missed_votes_pct": 8.30,
+           "votes_with_party_pct": 95.39,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 483,
+           "missed_votes_pct": 3.94,
+           "votes_with_party_pct": 92.93,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 454,
+           "missed_votes_pct": 7.10,
+           "votes_with_party_pct": 91.82,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-25",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 20,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 506,
+           "missed_votes_pct": 5.75,
+           "votes_with_party_pct": 96.02,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBU.json",
+             "rank_in_party": 22,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBA.json",
+             "rank_in_party": 23,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 461,
+           "missed_votes_pct": 2.99,
+           "votes_with_party_pct": 95.88,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBU.json",
+             "rank_in_party": 1,
+             "begin_date": "2007-03-19",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSSM.json",
+             "rank_in_party": 10,
+             "begin_date": "2007-01-23",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSSM.json",
+             "rank_in_party": 12,
+             "begin_date": "2007-01-23",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBA.json",
+             "rank_in_party": 24,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:4",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 325,
+           "missed_votes_pct": 3.05,
+           "votes_with_party_pct": 92.61,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

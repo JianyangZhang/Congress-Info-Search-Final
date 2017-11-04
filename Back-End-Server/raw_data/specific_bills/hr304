@@ -1,0 +1,191 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr304-115",
+         "bill_slug": "hr304",
+         "congress": "115",
+         "bill": "H.R.304",
+         "bill_type": "hr",
+         "number": "H.R.304",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr304.json",
+         "title": "To amend the Controlled Substances Act with regard to the provision of emergency medical services.",
+         "short_title": "Protecting Patient Access to Emergency Medications Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Richard Hudson",
+         "sponsor_id": "H001067",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001067.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/304",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr304",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": "2017-01-09",
+         "senate_passage": "2017-10-24",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 25,
+         "cosponsors_by_party": {"D":13,"R":12},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR","HSJU","HSIF"],
+         "subcommittee_codes": ["HSJU08"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-01-09",
+         "house_passage_vote": "2017-01-09",
+         "senate_passage_vote": "2017-10-24",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Protecting Patient Access to Emergency Medications Act of 2017 (Sec. 2) This bill amends the Controlled Substances Act to direct the Drug Enforcement Administration (DEA) to register an emergency medical services (EMS) agency to administer controlled substances if the agency submits an application demonstrating that it is authorized to conduct such activity in the state in which the agency practices. The DEA may deny an application if it determines that the registration is inconsistent with the public interest. An EMS agency may obtain a single registration in each state instead of a separate registration for each location. A registered EMS agency may deliver, store, and receive controlled substances, subject to specified conditions. An EMS professional of a registered EMS agency may administer controlled substances in schedules II, III, IV, or V outside the physical presence of a medical director if such administration is authorized under state law and pursuant to a standing or verbal order, subject to specified conditions. The bill specifies that a hospital-based EMS agency (i.e., an EMS agency owned or operated by a hospital) may continue to administer controlled substances under the hospital's DEA registration. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Protecting Patient Access to Emergency Medications Act of 2017 (Sec. 2) This bill amends the Controlled Substances Act to direct the Drug Enforcement Administration (DEA) to register an emergency medical services (EMS) agency to administer controlled substances if the agency submits an application demonstrating that it is authorized to conduct such activity in the...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-11-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-11-02",
+           "description": "On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate Amendment: CR H8421-8422)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Mr. Hudson asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H8421-8422)"
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-25",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-24",
+           "description": "Passed Senate with an amendment by Unanimous Consent."
+         },
+                  {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-24",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S6773)"
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-10-24",
+           "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-12",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 25). (text: CR H206-207)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Considered as unfinished business. (consideration: CR H218)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 304."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Considered under suspension of the rules. (consideration: CR H206-208)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Mr. Burgess moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Energy and Commerce"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-09",
+             "time": "19:03:00",
+             "roll_call": "25",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 404,
+             "total_no": 0,
+             "total_not_voting": 29,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/25.json"
+           }
+         ]
+
+      }
+   ]
+}

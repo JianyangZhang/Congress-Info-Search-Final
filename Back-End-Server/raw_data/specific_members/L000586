@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000586",
+         
+         "first_name": "Al",
+         "middle_name": null,
+         "last_name": "Lawson",
+         "date_of_birth": "1948-09-21",
+         "gender": "M",
+         "url": "https://lawson.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412693",
+         "cspan_id": "90480",
+         "votesmart_id": "24263",
+         "icpsr_id": null,
+         "twitter_account": "RepAlLawsonJr",
+         "facebook_account": "RepAlLawsonJr",
+         "youtube_account": null,
+         "crp_id": "N00030642",
+         "google_entity_id": "/m/03cg0sv",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0FL02086",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:5",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1337 Longworth House Office Building",
+           "phone": "202-225-0123",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 159,
+           "missed_votes_pct": 11.33,
+           "votes_with_party_pct": 92.59,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Nutrition",
+             "code": "HSAG03",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Biotechnology, Horticulture, and Research",
+             "code": "HSAG14",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG14.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "General Farm Commodities and Risk Management",
+             "code": "HSAG16",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Contracting and Workforce",
+             "code": "HSSM23",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM23.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Agriculture, Energy and Trade",
+             "code": "HSSM25",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health and Technology",
+             "code": "HSSM26",
+             "parent_committee_id": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSM/subcommittees/HSSM26.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

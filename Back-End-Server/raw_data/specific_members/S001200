@@ -1,0 +1,135 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001200",
+         
+         "first_name": "Darren",
+         "middle_name": null,
+         "last_name": "Soto",
+         "date_of_birth": "1978-02-25",
+         "gender": "M",
+         "url": "https://soto.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412695",
+         "cspan_id": "104534",
+         "votesmart_id": "67618",
+         "icpsr_id": null,
+         "twitter_account": "RepDarrenSoto",
+         "facebook_account": null,
+         "youtube_account": null,
+         "crp_id": "N00037422",
+         "google_entity_id": "/m/05b_1xw",
+         "rss_url": "https://soto.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6FL09179",
+           "seniority": "2",
+           "district": "9", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:9",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1429 Longworth House Office Building",
+           "phone": "202-225-9889",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 381,
+           "missed_votes_pct": 0.82,
+           "votes_with_party_pct": 96.03,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Nutrition",
+             "code": "HSAG03",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Commodity Exchanges, Energy, and Credit",
+             "code": "HSAG22",
+             "parent_committee_id": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAG/subcommittees/HSAG22.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy and Mineral Resources",
+             "code": "HSII06",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII06.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSII15",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Indian, Insular and Alaska Native Affairs",
+             "code": "HSII24",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII24.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

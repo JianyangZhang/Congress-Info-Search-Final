@@ -1,0 +1,145 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001199",
+         
+         "first_name": "Lloyd",
+         "middle_name": null,
+         "last_name": "Smucker",
+         "date_of_birth": "1964-01-23",
+         "gender": "M",
+         "url": "https://smucker.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412722",
+         "cspan_id": "103540",
+         "votesmart_id": "102454",
+         "icpsr_id": null,
+         "twitter_account": null,
+         "facebook_account": null,
+         "youtube_account": null,
+         "crp_id": "N00038781",
+         "google_entity_id": "/m/05t08cn",
+         "rss_url": "https://smucker.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6PA16320",
+           "seniority": "2",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:16",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "516 Cannon House Office Building",
+           "phone": "202-225-2411",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 120,
+           "missed_votes_pct": 1.48,
+           "votes_with_party_pct": 95.83,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 29,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health, Employment, Labor, and Pensions",
+             "code": "HSED02",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Higher Education and Workforce Development",
+             "code": "HSED13",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Highways and Transit",
+             "code": "HSPW12",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Economic Development, Public Buildings, and Emergency Management",
+             "code": "HSPW13",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Railroads, Pipelines, and Hazardous Materials",
+             "code": "HSPW14",
+             "parent_committee_id": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSPW/subcommittees/HSPW14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

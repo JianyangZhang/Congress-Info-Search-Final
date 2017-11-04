@@ -1,0 +1,81 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1586-115",
+         "bill_slug": "s1586",
+         "congress": "115",
+         "bill": "S.1586",
+         "bill_type": "s",
+         "number": "S.1586",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1586.json",
+         "title": "A bill to require the Under Secretary for Oceans and Atmosphere to update periodically the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes, and for other purposes.",
+         "short_title": "Great Lakes Environmental Sensitivity Index Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Gary Peters",
+         "sponsor_id": "P000595",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000595.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MI",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1586",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1586",
+         "introduced_date": "2017-07-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "cosponsors_by_party": {"R":1,"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-31",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-10-31",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 255."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-10-31",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-180."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-19",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

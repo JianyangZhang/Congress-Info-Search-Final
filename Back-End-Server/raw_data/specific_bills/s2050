@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s2050-115",
+         "bill_slug": "s2050",
+         "congress": "115",
+         "bill": "S.2050",
+         "bill_type": "s",
+         "number": "S.2050",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s2050.json",
+         "title": "A bill to amend the Agricultural Act of 2014 to provide to producers partial payments under the livestock indemnity program for livestock sold for salvage.",
+         "short_title": "A bill to amend the Agricultural Act of 2014 to provide to producers partial payments under the livestock indemnity program for livestock sold for salvage.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jerry Moran",
+         "sponsor_id": "M000934",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000934.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KS",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2050",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s2050",
+         "introduced_date": "2017-11-01",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Agriculture, Nutrition, and Forestry Committee",
+         "committee_codes": ["SSAF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

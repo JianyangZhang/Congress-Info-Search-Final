@@ -1,0 +1,130 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000626",
+         
+         "first_name": "Warren",
+         "middle_name": null,
+         "last_name": "Davidson",
+         "date_of_birth": "1970-03-01",
+         "gender": "M",
+         "url": "https://davidson.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412675",
+         "cspan_id": "102555",
+         "votesmart_id": "166760",
+         "icpsr_id": "21564",
+         "twitter_account": "WarrenDavidson",
+         "facebook_account": "CongressmanWarrenDavidson",
+         "youtube_account": null,
+         "crp_id": "N00038767",
+         "google_entity_id": "/g/11cmmch3q8",
+         "rss_url": "",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6OH08315",
+           "seniority": "4",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:8",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1004 Longworth House Office Building",
+           "phone": "202-225-6205",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 68,
+           "missed_votes_pct": 0.66,
+           "votes_with_party_pct": 96.03,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 30,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Terrorism and Illicit Finance",
+             "code": "HSBA01",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Capital Markets, Securities, and Investment",
+             "code": "HSBA16",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Monetary Policy and Trade",
+             "code": "HSBA20",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6OH08315",
+           "seniority": "2",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:8",
+           "start_date": "2016-06-09",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 0,
+           "missed_votes_pct": 0.59,
+           "votes_with_party_pct": 93.45,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

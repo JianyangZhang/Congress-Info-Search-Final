@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s2052-115",
+         "bill_slug": "s2052",
+         "congress": "115",
+         "bill": "S.2052",
+         "bill_type": "s",
+         "number": "S.2052",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s2052.json",
+         "title": "A bill to provide for temporary funding for health insurance cost-sharing reduction payments and provide targeted tax relief, and for other purposes.",
+         "short_title": "A bill to provide for temporary funding for health insurance cost-sharing reduction payments and provide targeted tax relief, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Orrin G. Hatch",
+         "sponsor_id": "H000338",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H000338.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2052",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s2052",
+         "introduced_date": "2017-11-01",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Read twice and referred to the Committee on Finance.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-01",
+           "description": "Read twice and referred to the Committee on Finance."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

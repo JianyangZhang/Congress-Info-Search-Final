@@ -1,0 +1,53 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4224-115",
+         "bill_slug": "hr4224",
+         "congress": "115",
+         "bill": "H.R.4224",
+         "bill_type": "hr",
+         "number": "H.R.4224",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4224.json",
+         "title": "To authorize the temporary entry into the United States of alien crewmen employed on longline fishing vessels originating in Hawaii, to ensure that such aliens receive reasonable wages and working conditions, and to provide for appropriate enforcement and oversight of fishing companies employing such aliens.",
+         "short_title": "To authorize the temporary entry into the United States of alien crewmen employed on longline fishing vessels originating in Hawaii, to ensure that such aliens receive reasonable wages and working conditions, and to provide for appropriate enforcement and",
+         "sponsor_title": "Rep.",
+         "sponsor": "Colleen Hanabusa",
+         "sponsor_id": "H001050",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001050.json",
+         "sponsor_party": "D",
+         "sponsor_state": "HI",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4224",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4224",
+         "introduced_date": "2017-11-02",
+         "active": null,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+],
+         "votes": [
+         ]
+
+      }
+   ]
+}

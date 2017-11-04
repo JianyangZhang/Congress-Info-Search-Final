@@ -1,0 +1,401 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "T000461",
+         
+         "first_name": "Patrick",
+         "middle_name": "J.",
+         "last_name": "Toomey",
+         "date_of_birth": "1961-11-17",
+         "gender": "M",
+         "url": "https://www.toomey.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400408",
+         "cspan_id": "7958",
+         "votesmart_id": "24096",
+         "icpsr_id": "29935",
+         "twitter_account": "SenToomey",
+         "facebook_account": "senatortoomey",
+         "youtube_account": "sentoomey",
+         "crp_id": "N00001489",
+         "google_entity_id": "/m/02_kk7",
+         "rss_url": "https://www.toomey.senate.gov/rss/",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4PA00121",
+           "seniority": "7",
+           "senate_class": "3","state_rank": "junior","lis_id": "S351",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "248 Russell Senate Office Building",
+           "phone": "202-224-4254",
+           "fax": "202-228-0284",
+           "contact_form": "https://www.toomey.senate.gov/?p=contact",
+           "bills_sponsored": 12,
+           "bills_cosponsored": 57,
+           "missed_votes_pct": 3.07,
+           "votes_with_party_pct": 95.65,
+           "committees": [
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Economic Policy Subcommittee",
+             "code": "SSBK12",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Protection Subcommittee",
+             "code": "SSBK08",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK08.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health Care Subcommittee",
+             "code": "SSFI10",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI10.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Securities, Insurance, and Investment Subcommittee",
+             "code": "SSBK04",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Social Security, Pensions, and Family Policy Subcommittee",
+             "code": "SSFI02",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Taxation and IRS Oversight Subcommittee",
+             "code": "SSFI11",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI11.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8PA15096",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "","lis_id": "S351",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 38,
+           "bills_cosponsored": 156,
+           "missed_votes_pct": 7.97,
+           "votes_with_party_pct": 90.26,
+           "committees": [
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBK.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFI.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S351",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 46,
+           "bills_cosponsored": 159,
+           "missed_votes_pct": 3.35,
+           "votes_with_party_pct": 90.24,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/JSEC.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-24",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFI.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBU.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Housing, Transportation, and Community Development",
+             "code": "SSBK09",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK/subcommittees/SSBK09.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Securities, Insurance, and Investment Subcommittee",
+             "code": "SSBK04",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK/subcommittees/SSBK04.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Protection Subcommittee",
+             "code": "SSBK08",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK/subcommittees/SSBK08.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S351",
+           "ocd_id": "ocd-division/country:us/state:pa",
+           "start_date": "2011-01-05",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 170,
+           "missed_votes_pct": 1.85,
+           "votes_with_party_pct": 86.40,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:15",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 160,
+           "missed_votes_pct": 11.47,
+           "votes_with_party_pct": 89.92,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:15",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 155,
+           "missed_votes_pct": 3.31,
+           "votes_with_party_pct": 90.76,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:15",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 142,
+           "missed_votes_pct": 2.14,
+           "votes_with_party_pct": 88.22,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

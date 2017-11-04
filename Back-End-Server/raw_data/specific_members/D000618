@@ -1,0 +1,374 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000618",
+         
+         "first_name": "Steve",
+         "middle_name": null,
+         "last_name": "Daines",
+         "date_of_birth": "1962-08-20",
+         "gender": "M",
+         "url": "https://www.daines.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412549",
+         "cspan_id": "1034037",
+         "votesmart_id": "135720",
+         "icpsr_id": "21338",
+         "twitter_account": "SteveDaines",
+         "facebook_account": "SteveDainesMT",
+         "youtube_account": "SteveDainesMT",
+         "crp_id": "N00033054",
+         "google_entity_id": "/m/03qlc5t",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MT",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S2MT00096",
+           "seniority": "3",
+           "senate_class": "2","state_rank": "junior","lis_id": "S375",
+           "ocd_id": "ocd-division/country:us/state:mt",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "320 Hart Senate Office Building",
+           "phone": "202-224-2651",
+           "fax": "202-228-1236",
+           "contact_form": "https://www.daines.senate.gov/connect/email-steve",
+           "bills_sponsored": 38,
+           "bills_cosponsored": 137,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 96.55,
+           "committees": [
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SLIA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSGA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Department of Defense Subcommittee",
+             "code": "SSAP02",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Department of the Interior, Environment, and Related Agencies",
+             "code": "SSAP17",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP17.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Services and General Government Subcommittee",
+             "code": "SSAP23",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP23.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "State, Foreign Operations, and Related Programs Subcommittee",
+             "code": "SSAP20",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy Subcommittee",
+             "code": "SSEG01",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation, Housing and Urban Development, and Related Agencies",
+             "code": "SSAP24",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP24.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "National Parks Subcommittee",
+             "code": "SSEG04",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG04.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Public Lands, Forests, and Mining Subcommittee",
+             "code": "SSEG03",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Investigations Subcommittee",
+             "code": "SSGA01",
+             "parent_committee_id": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSGA/subcommittees/SSGA01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Regulatory Affairs and Federal Management Subcommittee",
+             "code": "SSGA19",
+             "parent_committee_id": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSGA/subcommittees/SSGA19.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MT",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S2MT00096",
+           "seniority": "1",
+           "senate_class": "2","state_rank": "","lis_id": "S375",
+           "ocd_id": "ocd-division/country:us/state:mt",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 38,
+           "bills_cosponsored": 179,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 89.24,
+           "committees": [
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SLIA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAP.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSCM.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MT",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "At-Large", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mt/cd:1",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 196,
+           "missed_votes_pct": 0.84,
+           "votes_with_party_pct": 94.25,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 25,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHM.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 23,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

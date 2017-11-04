@@ -1,0 +1,175 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000822",
+         
+         "first_name": "Bonnie",
+         "middle_name": null,
+         "last_name": "Watson Coleman",
+         "date_of_birth": "1945-02-06",
+         "gender": "F",
+         "url": "https://watsoncoleman.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412644",
+         "cspan_id": "79091",
+         "votesmart_id": "24799",
+         "icpsr_id": "21538",
+         "twitter_account": "RepBonnie",
+         "facebook_account": "RepBonnie",
+         "youtube_account": null,
+         "crp_id": "N00036158",
+         "google_entity_id": "/m/08kj70",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NJ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NJ12149",
+           "seniority": "4",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:12",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1535 Longworth House Office Building",
+           "phone": "202-225-5801",
+           "fax": "202-225-6025",
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 294,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 94.34,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Government Operations",
+             "code": "HSGO24",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO24.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health Care, Benefits and Administrative Rules",
+             "code": "HSGO27",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO27.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation and Protective Security",
+             "code": "HSHM07",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM07.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emergency Preparedness, Response and Communications",
+             "code": "HSHM12",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM12.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "NJ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NJ12149",
+           "seniority": "2",
+           "district": "12", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:12",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 327,
+           "missed_votes_pct": 1.13,
+           "votes_with_party_pct": 95.04,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Select Investigative Panel of the Committee on Energy and Commerce",
+             "code": "",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

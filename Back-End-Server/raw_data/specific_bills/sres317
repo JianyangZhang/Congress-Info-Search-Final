@@ -1,0 +1,74 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres317-115",
+         "bill_slug": "sres317",
+         "congress": "115",
+         "bill": "S.RES.317",
+         "bill_type": "sres",
+         "number": "S.RES.317",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres317.json",
+         "title": "A resolution celebrating the 40th anniversary of the Senate Black Legislative Staff Caucus and its achievements in the Senate.",
+         "short_title": "A resolution celebrating the 40th anniversary of the Senate Black Legislative Staff Caucus and its achievements in the Senate.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Kamala Harris",
+         "sponsor_id": "H001075",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001075.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/317",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres317",
+         "introduced_date": "2017-10-31",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-10-31",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "cosponsors_by_party": {"D":1,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-31",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6931; text: CR S6930)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-10-31",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6931; text as passed Senate: CR S6930)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6931; text: CR S6930)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

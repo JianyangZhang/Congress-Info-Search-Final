@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres604-115",
+         "bill_slug": "hres604",
+         "congress": "115",
+         "bill": "H.RES.604",
+         "bill_type": "hres",
+         "number": "H.RES.604",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres604.json",
+         "title": "Amending the Rules of the House of Representatives to require each Member, officer, and employee of the House to complete the program of sexual harassment prevention and response training in employment which is offered by the Office of Compliance, and for other purposes.",
+         "short_title": "Amending the Rules of the House of Representatives to require each Member, officer, and employee of the House to complete the program of sexual harassment prevention and response training in employment which is offered by the Office of Compliance, and for",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jackie Speier",
+         "sponsor_id": "S001175",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001175.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/604",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres604",
+         "introduced_date": "2017-11-02",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "cosponsors_by_party": {"R":2,"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House House Administration Committee",
+         "committee_codes": ["HSSO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Referred to the Committee on Ethics, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-02",
+           "description": "Referred to the Committee on Ethics, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

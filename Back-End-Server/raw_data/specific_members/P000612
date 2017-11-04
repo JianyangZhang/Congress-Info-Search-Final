@@ -1,0 +1,266 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "P000612",
+         
+         "first_name": "David",
+         "middle_name": null,
+         "last_name": "Perdue",
+         "date_of_birth": "1949-12-10",
+         "gender": "M",
+         "url": "https://www.perdue.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412666",
+         "cspan_id": "75920",
+         "votesmart_id": "151330",
+         "icpsr_id": "41501",
+         "twitter_account": "sendavidperdue",
+         "facebook_account": "SenatorDavidPerdue",
+         "youtube_account": null,
+         "crp_id": "N00035516",
+         "google_entity_id": "/m/03wp8v4",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4GA11285",
+           "seniority": "3",
+           "senate_class": "2","state_rank": "junior","lis_id": "S379",
+           "ocd_id": "ocd-division/country:us/state:ga",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "383 Russell Senate Office Building",
+           "phone": "202-224-3521",
+           "fax": null,
+           "contact_form": "https://www.perdue.senate.gov/connect/email",
+           "bills_sponsored": 10,
+           "bills_cosponsored": 136,
+           "missed_votes_pct": 0.38,
+           "votes_with_party_pct": 96.92,
+           "committees": [
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Readiness and Management Support Subcommittee",
+             "code": "SSAS15",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Economic Policy Subcommittee",
+             "code": "SSBK12",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Institutions and Consumer Protection Subcommittee",
+             "code": "SSBK08",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "National Security and  International Trade and Finance",
+             "code": "SSBK05",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBK/subcommittees/SSBK05.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Cybersecurity Subcommittee",
+             "code": "SSAS21",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS21.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats and Capabilities Subcommittee",
+             "code": "SSAS20",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S4GA11285",
+           "seniority": "1",
+           "senate_class": "2","state_rank": "","lis_id": "S379",
+           "ocd_id": "ocd-division/country:us/state:ga",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 170,
+           "missed_votes_pct": 1.59,
+           "votes_with_party_pct": 88.87,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSJU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAF.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

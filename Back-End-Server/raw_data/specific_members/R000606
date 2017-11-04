@@ -1,0 +1,144 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "R000606",
+         
+         "first_name": "Jamie",
+         "middle_name": null,
+         "last_name": "Raskin",
+         "date_of_birth": "1962-12-13",
+         "gender": "M",
+         "url": "https://raskin.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412708",
+         "cspan_id": "12924",
+         "votesmart_id": "65904",
+         "icpsr_id": null,
+         "twitter_account": "repraskin",
+         "facebook_account": "repraskin",
+         "youtube_account": null,
+         "crp_id": "N00037036",
+         "google_entity_id": "/m/0c13wm",
+         "rss_url": "https://raskin.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6MD08457",
+           "seniority": "2",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:8",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "431 Cannon House Office Building",
+           "phone": "202-225-5341",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 474,
+           "missed_votes_pct": 0.99,
+           "votes_with_party_pct": 96.19,
+           "committees": [
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/JSPR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Information Technology",
+             "code": "HSGO25",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "The Interior, Energy, and Environment",
+             "code": "HSGO28",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO28.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Crime, Terrorism, Homeland Security, and Investigations",
+             "code": "HSJU08",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU08.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Constitution and Civil Justice",
+             "code": "HSJU10",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

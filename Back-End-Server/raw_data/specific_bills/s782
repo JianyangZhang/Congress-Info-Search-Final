@@ -1,0 +1,191 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s782-115",
+         "bill_slug": "s782",
+         "congress": "115",
+         "bill": "S.782",
+         "bill_type": "s",
+         "number": "S.782",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s782.json",
+         "title": "A bill to reauthorize the National Internet Crimes Against Children Task Force Program, and for other purposes.",
+         "short_title": "PROTECT Our Children Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Cornyn",
+         "sponsor_id": "C001056",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001056.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/782",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s782",
+         "introduced_date": "2017-03-30",
+         "active": true,
+         "house_passage": "2017-10-03",
+         "senate_passage": "2017-06-15",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 14,
+         "cosponsors_by_party": {"D":7,"R":7},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU","SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Became Public Law No: 115-82.",
+         "last_vote_date": "2017-10-03",
+         "house_passage_vote": "2017-10-03",
+         "senate_passage_vote": "2017-06-15",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017 or the PROTECT Our Children Act of 2017 (Sec. 2) This bill amends the PROTECT our Children Act of 2008 to reauthorize through FY2022 the National Internet Crimes Against Children Data System and the National Strategy for Child Exploitation Prevention and Interdiction.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017 or the PROTECT Our Children Act of 2017 (Sec. 2) This bill amends the PROTECT our Children Act of 2008 to reauthorize through FY2022 the National Internet Crimes Against Children Data System and the National Strategy for Child Exploitation Prevention and Interdiction.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-27",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-10-26",
+           "description": "Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S6859)"
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-04",
+           "description": "Message on House action received in Senate and at desk: House amendment to Senate bill."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 550). (text: CR H7706)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "Considered as unfinished business. (consideration: CR H7728)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on S. 782."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "Considered under suspension of the rules. (consideration: CR H7706-7709)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-03",
+           "description": "Mr. Goodlatte moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-20",
+           "description": "Referred to the House Committee on the Judiciary."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-19",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S3547-3548; text: CR S3548)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-08",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 122."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on the Judiciary. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S2154)"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-10-03",
+             "time": "18:10:00",
+             "roll_call": "550",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 417,
+             "total_no": 3,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/550.json"
+           }
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,811 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C000141",
+         
+         "first_name": "Benjamin",
+         "middle_name": "L.",
+         "last_name": "Cardin",
+         "date_of_birth": "1943-10-05",
+         "gender": "M",
+         "url": "https://www.cardin.senate.gov/",
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/c/benjamin_l_cardin/index.html",
+         "times_tag": "Cardin, Benjamin L (Per)",
+         "govtrack_id": "400064",
+         "cspan_id": "4004",
+         "votesmart_id": "26888",
+         "icpsr_id": "15408",
+         "twitter_account": "SenatorCardin",
+         "facebook_account": "senatorbencardin",
+         "youtube_account": "senatorcardin",
+         "crp_id": "N00001955",
+         "google_entity_id": "/m/025k3k",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S6MD03177",
+           "seniority": "11",
+           "senate_class": "1","state_rank": "senior","lis_id": "S308",
+           "ocd_id": "ocd-division/country:us/state:md",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "509 Hart Senate Office Building",
+           "phone": "202-224-4524",
+           "fax": "202-224-1651",
+           "contact_form": "http://www.cardin.senate.gov/contact/",
+           "bills_sponsored": 54,
+           "bills_cosponsored": 179,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 96.17,
+           "committees": [
+           {
+             "name": "Commission on Security and Cooperation in Europe",
+             "code": "JCSE",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JCSE.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFR.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSSB.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Clean Air and Nuclear Safety Subcommittee",
+             "code": "SSEV10",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Fisheries, Water, and Wildlife Subcommittee",
+             "code": "SSEV15",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation and Infrastructure Subcommittee",
+             "code": "SSEV08",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV08.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health Care Subcommittee",
+             "code": "SSFI10",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI10.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Taxation and IRS Oversight Subcommittee",
+             "code": "SSFI11",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFI/subcommittees/SSFI11.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S6MD03177",
+           "seniority": "9",
+           "senate_class": "1","state_rank": "","lis_id": "S308",
+           "ocd_id": "ocd-division/country:us/state:md",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 80,
+           "bills_cosponsored": 225,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 95.82,
+           "committees": [
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEV.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFR.json",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFI.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSSB.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Commission on Security and Cooperation in Europe",
+             "code": "JCSE",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JCSE.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "7",
+           "senate_class": "1","state_rank": "","lis_id": "S308",
+           "ocd_id": "ocd-division/country:us/state:md",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 59,
+           "bills_cosponsored": 299,
+           "missed_votes_pct": 0.46,
+           "votes_with_party_pct": 99.24,
+           "committees": [
+           {
+             "name": "Committee on Finance",
+             "code": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFI.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSSB.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Transportation and Infrastructure Subcommittee",
+             "code": "SSEV08",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV08.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Fisheries, Water, and Wildlife Subcommittee",
+             "code": "SSEV15",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV15.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Health Care Subcommittee",
+             "code": "SSFI10",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFI/subcommittees/SSFI10.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Social Security, Pensions, and Family Policy Subcommittee",
+             "code": "SSFI02",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFI/subcommittees/SSFI02.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Taxation and IRS Oversight Subcommittee",
+             "code": "SSFI11",
+             "parent_committee_id": "SSFI",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFI/subcommittees/SSFI11.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Africa and Global Health Policy Subcommittee",
+             "code": "SSFR09",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR09.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Europe and Regional Security Cooperation Subcommittee",
+             "code": "SSFR01",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR01.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",
+             "code": "SSFR12",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR12.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Near Eastern and South and Central Asian Affairs Subcommittee",
+             "code": "SSFR07",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR07.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Clean Air and Nuclear Safety Subcommittee",
+             "code": "SSEV10",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV10.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Oversight Subcommittee",
+             "code": "SSEV18",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV18.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "1","state_rank": "","lis_id": "S308",
+           "ocd_id": "ocd-division/country:us/state:md",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 60,
+           "bills_cosponsored": 316,
+           "missed_votes_pct": 0.21,
+           "votes_with_party_pct": 96.50,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "1","state_rank": "","lis_id": "S308",
+           "ocd_id": "ocd-division/country:us/state:md",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 50,
+           "bills_cosponsored": 344,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 97.34,
+           "committees": [
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSSB.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSBU.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSEV.json",
+             "rank_in_party": 5,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSFR.json",
+             "rank_in_party": 6,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "1","state_rank": "","lis_id": "S308",
+           "ocd_id": "ocd-division/country:us/state:md",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 36,
+           "bills_cosponsored": 368,
+           "missed_votes_pct": 0.76,
+           "votes_with_party_pct": 96.78,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSBU.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSEV.json",
+             "rank_in_party": 7,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSFR.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSJU.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSSB.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "20",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 283,
+           "missed_votes_pct": 3.95,
+           "votes_with_party_pct": 95.80,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "18",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 198,
+           "missed_votes_pct": 2.78,
+           "votes_with_party_pct": 94.95,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "16",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 209,
+           "missed_votes_pct": 1.00,
+           "votes_with_party_pct": 93.10,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 219,
+           "missed_votes_pct": 1.40,
+           "votes_with_party_pct": 93.99,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 162,
+           "missed_votes_pct": 2.61,
+           "votes_with_party_pct": 86.59,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "104",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1995-01-04",
+           "end_date": "1997-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 121,
+           "missed_votes_pct": 1.79,
+           "votes_with_party_pct": 84.57,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "103",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1993-01-05",
+           "end_date": "1995-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 192,
+           "missed_votes_pct": 2.41,
+           "votes_with_party_pct": 89.13,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "102",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1991-01-03",
+           "end_date": "1993-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "missed_votes_pct": 1.61,
+           "votes_with_party_pct": 88.33,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "101",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1989-01-03",
+           "end_date": "1991-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "100",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:3",
+           "start_date": "1987-01-06",
+           "end_date": "1989-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

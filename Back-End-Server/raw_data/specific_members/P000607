@@ -1,0 +1,186 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "P000607",
+         
+         "first_name": "Mark",
+         "middle_name": null,
+         "last_name": "Pocan",
+         "date_of_birth": "1964-08-14",
+         "gender": "M",
+         "url": "https://pocan.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412585",
+         "cspan_id": "79688",
+         "votesmart_id": "26238",
+         "icpsr_id": "21370",
+         "twitter_account": "RepMarkPocan",
+         "facebook_account": "repmarkpocan",
+         "youtube_account": "repmarkpocan",
+         "crp_id": "N00033549",
+         "google_entity_id": "/m/0gyhpz",
+         "rss_url": "https://pocan.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-10-26",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2WI02124",
+           "seniority": "6",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:2",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1421 Longworth House Office Building",
+           "phone": "202-225-2906",
+           "fax": "202-225-6942",
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 447,
+           "missed_votes_pct": 3.61,
+           "votes_with_party_pct": 95.23,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+             "code": "HSAP01",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Labor, Health and Human Services, Education, and Related Agencies",
+             "code": "HSAP07",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP07.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2WI02124",
+           "seniority": "4",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:2",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 562,
+           "missed_votes_pct": 2.34,
+           "votes_with_party_pct": 96.60,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:2",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 527,
+           "missed_votes_pct": 0.59,
+           "votes_with_party_pct": 94.60,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 18,
+             "begin_date": "2013-10-29",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-03",
+             "end_date": "2013-10-29"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

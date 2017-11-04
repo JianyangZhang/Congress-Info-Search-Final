@@ -1,0 +1,102 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "J000298",
+         
+         "first_name": "Pramila",
+         "middle_name": null,
+         "last_name": "Jayapal",
+         "date_of_birth": "1965-09-21",
+         "gender": "F",
+         "url": "https://jayapal.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412730",
+         "cspan_id": "9267128",
+         "votesmart_id": "153141",
+         "icpsr_id": null,
+         "twitter_account": "RepJayapal",
+         "facebook_account": "RepJayapal",
+         "youtube_account": null,
+         "crp_id": "N00038858",
+         "google_entity_id": "/m/0c3dxcq",
+         "rss_url": "https://jayapal.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6WA07458",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "319 Cannon House Office Building",
+           "phone": "202-225-3106",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 325,
+           "missed_votes_pct": 0.33,
+           "votes_with_party_pct": 95.22,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Immigration and Border Security",
+             "code": "HSJU01",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Regulatory Reform, Commercial, and Antitrust Law",
+             "code": "HSJU05",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU05.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

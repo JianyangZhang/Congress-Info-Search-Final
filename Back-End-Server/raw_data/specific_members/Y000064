@@ -1,0 +1,334 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "Y000064",
+         
+         "first_name": "Todd",
+         "middle_name": null,
+         "last_name": "Young",
+         "date_of_birth": "1972-08-24",
+         "gender": "M",
+         "url": "https://www.young.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412428",
+         "cspan_id": "1033743",
+         "votesmart_id": "120345",
+         "icpsr_id": "21133",
+         "twitter_account": "RepToddYoung",
+         "facebook_account": "SenatorToddYoung",
+         "youtube_account": "RepToddYoung",
+         "crp_id": "N00030670",
+         "google_entity_id": "/m/0ds030m",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S6IN00191",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "junior","lis_id": "S391",
+           "ocd_id": "ocd-division/country:us/state:in",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "B33 Russell Senate Office Building",
+           "phone": "202-224-5623",
+           "fax": "202-226-6866",
+           "contact_form": "https://www.young.senate.gov/content/contact-senator",
+           "bills_sponsored": 11,
+           "bills_cosponsored": 97,
+           "missed_votes_pct": 0.77,
+           "votes_with_party_pct": 98.46,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFR.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSSB.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Africa and Global Health Policy Subcommittee",
+             "code": "SSFR09",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFR/subcommittees/SSFR09.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",
+             "code": "SSFR15",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFR/subcommittees/SSFR15.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee",
+             "code": "SSCM22",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM22.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Near Eastern and South and Central Asian Affairs Subcommittee",
+             "code": "SSFR07",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSFR/subcommittees/SSFR07.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Primary Health and Retirement Security Subcommittee",
+             "code": "SSHR12",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR12.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0IN09070",
+           "seniority": "6",
+           "district": "9", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:9",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 131,
+           "missed_votes_pct": 3.85,
+           "votes_with_party_pct": 95.45,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSWM.json",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "9", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:9",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 209,
+           "missed_votes_pct": 1.09,
+           "votes_with_party_pct": 95.17,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSWM.json",
+             "rank_in_party": 20,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "9", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:9",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 165,
+           "missed_votes_pct": 0.62,
+           "votes_with_party_pct": 94.42,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 18,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAS.json",
+             "rank_in_party": 35,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

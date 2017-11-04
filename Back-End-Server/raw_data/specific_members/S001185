@@ -1,0 +1,245 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001185",
+         
+         "first_name": "Terri",
+         "middle_name": null,
+         "last_name": "Sewell",
+         "date_of_birth": "1965-01-01",
+         "gender": "F",
+         "url": "https://sewell.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412396",
+         "cspan_id": "623257",
+         "votesmart_id": "121621",
+         "icpsr_id": "21102",
+         "twitter_account": "RepTerriSewell",
+         "facebook_account": "RepSewell",
+         "youtube_account": "RepSewell",
+         "crp_id": "N00030622",
+         "google_entity_id": "/m/05pbszt",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0AL07086",
+           "seniority": "8",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:al/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2201 Rayburn House Office Building",
+           "phone": "202-225-2665",
+           "fax": "202-226-9567",
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 199,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 95.85,
+           "committees": [
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "the National Security Agency and Cybersecurity",
+             "code": "HSIG02",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Department of Defense Intelligence and Overhead Architecture",
+             "code": "HSIG04",
+             "parent_committee_id": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIG/subcommittees/HSIG04.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Health",
+             "code": "HSWM02",
+             "parent_committee_id": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM/subcommittees/HSWM02.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Human Resources",
+             "code": "HSWM03",
+             "parent_committee_id": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM/subcommittees/HSWM03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0AL07086",
+           "seniority": "6",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:al/cd:7",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 152,
+           "missed_votes_pct": 6.57,
+           "votes_with_party_pct": 91.11,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIG.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:al/cd:7",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 214,
+           "missed_votes_pct": 2.52,
+           "votes_with_party_pct": 90.10,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 20,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:al/cd:7",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 154,
+           "missed_votes_pct": 3.05,
+           "votes_with_party_pct": 90.69,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 18,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSY.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

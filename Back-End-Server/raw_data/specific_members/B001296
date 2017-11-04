@@ -1,0 +1,155 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001296",
+         
+         "first_name": "Brendan",
+         "middle_name": null,
+         "last_name": "Boyle",
+         "date_of_birth": "1977-02-06",
+         "gender": "M",
+         "url": "https://boyle.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412652",
+         "cspan_id": "76428",
+         "votesmart_id": "47357",
+         "icpsr_id": "21548",
+         "twitter_account": "RepBrendanBoyle",
+         "facebook_account": "CongressmanBoyle",
+         "youtube_account": null,
+         "crp_id": "N00035307",
+         "google_entity_id": "/m/04f4fjk",
+         "rss_url": "https://boyle.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4PA13199",
+           "seniority": "4",
+           "district": "13", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:13",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1133 Longworth House Office Building",
+           "phone": "202-225-6111",
+           "fax": "202-226-0611",
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 264,
+           "missed_votes_pct": 2.30,
+           "votes_with_party_pct": 95.29,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-06",
+             "end_date": "2017-01-13"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "the Middle East and North Africa",
+             "code": "HSFA13",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Terrorism, Nonproliferation, and Trade",
+             "code": "HSFA18",
+             "parent_committee_id": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA18.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "PA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4PA13199",
+           "seniority": "2",
+           "district": "13", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:13",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 240,
+           "missed_votes_pct": 4.38,
+           "votes_with_party_pct": 94.24,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSFA.json",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

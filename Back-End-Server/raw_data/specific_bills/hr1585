@@ -1,0 +1,144 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1585-115",
+         "bill_slug": "hr1585",
+         "congress": "115",
+         "bill": "H.R.1585",
+         "bill_type": "hr",
+         "number": "H.R.1585",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1585.json",
+         "title": "To amend the Securities Act of 1933 to codify certain qualifications of individuals as accredited investors for purposes of the securities laws.",
+         "short_title": "Fair Investment Opportunities for Professional Experts Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "David Schweikert",
+         "sponsor_id": "S001183",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001183.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1585",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1585",
+         "introduced_date": "2017-03-16",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "cosponsors_by_party": {"D":4,"R":7},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "This bill amends the Securities Act of 1933 to modify the definition of \"accredited investor\" for purposes of participating in private offerings to include:  an individual whose net worth, or joint net worth with their spouse, exceeds $1 million, excluding their primary residence; an individual whose income over the last two years exceeded $200,000, or joint spousal income exceeded $300,000; an individual who holds a state-issued financial services license; and an individual determined by the Securities and Exchange Commission to have qualifying education or experience. ",
+         "summary_short": "This bill amends the Securities Act of 1933 to modify the definition of \"accredited investor\" for purposes of participating in private offerings to include:  an individual whose net worth, or joint net worth with their spouse, exceeds $1 million, excluding their primary residence; an individual whose income over the last two years exceeded $200,000, or joint spousal income exceeded $300,000; an individual who holds a state-issued financial services license; and an individual determined by the...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8320-8321)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H8320-8323)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1585."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Huizenga moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-31",
+           "description": "Placed on the Union Calendar, Calendar No. 275."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-31",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-375."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-12",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 2."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-12",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-11",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-16",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,156 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001297",
+         
+         "first_name": "Ken",
+         "middle_name": null,
+         "last_name": "Buck",
+         "date_of_birth": "1959-02-16",
+         "gender": "M",
+         "url": "https://buck.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412619",
+         "cspan_id": "78285",
+         "votesmart_id": "125319",
+         "icpsr_id": "21510",
+         "twitter_account": "RepKenBuck",
+         "facebook_account": "repkenbuck",
+         "youtube_account": null,
+         "crp_id": "N00030829",
+         "google_entity_id": "/m/05zzjd2",
+         "rss_url": "https://buck.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CO",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S0CO00237",
+           "seniority": "4",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:co/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1130 Longworth House Office Building",
+           "phone": "202-225-4676",
+           "fax": "202-225-5870",
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 68,
+           "missed_votes_pct": 0.49,
+           "votes_with_party_pct": 93.07,
+           "committees": [
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Immigration and Border Security",
+             "code": "HSJU01",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Regulatory Reform, Commercial, and Antitrust Law",
+             "code": "HSJU05",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU05.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Legislative and Budget Process Subcommittee",
+             "code": "HSRU02",
+             "parent_committee_id": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU/subcommittees/HSRU02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CO",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CO04090",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:co/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 126,
+           "missed_votes_pct": 4.91,
+           "votes_with_party_pct": 90.32,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 17,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

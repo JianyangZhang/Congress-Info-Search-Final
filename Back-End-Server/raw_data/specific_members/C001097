@@ -1,0 +1,189 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001097",
+         
+         "first_name": "Tony",
+         "middle_name": null,
+         "last_name": "Cardenas",
+         "date_of_birth": "1963-03-31",
+         "gender": "M",
+         "url": "https://cardenas.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412517",
+         "cspan_id": "63934",
+         "votesmart_id": "9754",
+         "icpsr_id": "21309",
+         "twitter_account": "RepCardenas",
+         "facebook_account": "repcardenas",
+         "youtube_account": "repcardenas",
+         "crp_id": "N00033373",
+         "google_entity_id": "/m/0cgzsw",
+         "rss_url": "https://cardenas.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA28113",
+           "seniority": "6",
+           "district": "29", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:29",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1510 Longworth House Office Building",
+           "phone": "202-225-6131",
+           "fax": "202-225-0819",
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 260,
+           "missed_votes_pct": 1.48,
+           "votes_with_party_pct": 95.33,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 21,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Health",
+             "code": "HSIF14",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF14.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Digital Commerce and Consumer Protection",
+             "code": "HSIF17",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF17.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Environment",
+             "code": "HSIF18",
+             "parent_committee_id": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF/subcommittees/HSIF18.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2CA28113",
+           "seniority": "4",
+           "district": "29", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:29",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 352,
+           "missed_votes_pct": 8.45,
+           "votes_with_party_pct": 95.71,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 23,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "29", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:29",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 23,
+           "bills_cosponsored": 382,
+           "missed_votes_pct": 5.29,
+           "votes_with_party_pct": 93.27,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-23",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 13,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

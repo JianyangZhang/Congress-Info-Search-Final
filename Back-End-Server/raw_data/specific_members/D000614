@@ -1,0 +1,237 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000614",
+         
+         "first_name": "Sean",
+         "middle_name": null,
+         "last_name": "Duffy",
+         "date_of_birth": "1971-10-03",
+         "gender": "M",
+         "url": "https://duffy.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412488",
+         "cspan_id": "623570",
+         "votesmart_id": "126238",
+         "icpsr_id": "21189",
+         "twitter_account": "RepSeanDuffy",
+         "facebook_account": "RepSeanDuffy",
+         "youtube_account": "RepSeanDuffy",
+         "crp_id": "N00030967",
+         "google_entity_id": "/m/026m6hd",
+         "rss_url": "https://duffy.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0WI07051",
+           "seniority": "8",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "2330 Rayburn House Office Building",
+           "phone": "202-225-3365",
+           "fax": "202-225-3240",
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 92,
+           "missed_votes_pct": 3.94,
+           "votes_with_party_pct": 94.02,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Housing and Insurance",
+             "code": "HSBA04",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA04.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Capital Markets, Securities, and Investment",
+             "code": "HSBA16",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0WI07051",
+           "seniority": "6",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:7",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 33,
+           "bills_cosponsored": 127,
+           "missed_votes_pct": 5.28,
+           "votes_with_party_pct": 94.26,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Select Investigative Panel of the Committee on Energy and Commerce",
+             "code": "",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:7",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 172,
+           "missed_votes_pct": 5.20,
+           "votes_with_party_pct": 92.74,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSFA.json",
+             "rank_in_party": 25,
+             "begin_date": "2014-05-29",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 22,
+             "begin_date": "2013-02-26",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/JSEC.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-02-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 20,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wi/cd:7",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 135,
+           "missed_votes_pct": 1.74,
+           "votes_with_party_pct": 91.32,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/JSEC.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-26",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 26,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

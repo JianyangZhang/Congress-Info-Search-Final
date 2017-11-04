@@ -1,0 +1,124 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000627",
+         
+         "first_name": "Val",
+         "middle_name": null,
+         "last_name": "Demings",
+         "date_of_birth": "1957-03-12",
+         "gender": "F",
+         "url": "https://demings.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412696",
+         "cspan_id": "623713",
+         "votesmart_id": "137637",
+         "icpsr_id": null,
+         "twitter_account": "RepValDemings",
+         "facebook_account": "RepresentativeValDemings",
+         "youtube_account": null,
+         "crp_id": "N00033449",
+         "google_entity_id": "/m/0n52xwn",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2FL08063",
+           "seniority": "2",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:10",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "238 Cannon House Office Building",
+           "phone": "202-225-2176",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 3,
+           "bills_cosponsored": 157,
+           "missed_votes_pct": 1.81,
+           "votes_with_party_pct": 96.15,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "National Security",
+             "code": "HSGO06",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO06.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Intergovernmental Affairs",
+             "code": "HSGO29",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO29.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Cybersecurity, Infrastructure Protection, and Security Technologies",
+             "code": "HSHM08",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM08.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Border and Maritime Security",
+             "code": "HSHM11",
+             "parent_committee_id": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM11.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

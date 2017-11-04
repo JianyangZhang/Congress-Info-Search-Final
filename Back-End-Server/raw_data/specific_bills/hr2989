@@ -1,0 +1,165 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2989-115",
+         "bill_slug": "hr2989",
+         "congress": "115",
+         "bill": "H.R.2989",
+         "bill_type": "hr",
+         "number": "H.R.2989",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2989.json",
+         "title": "To establish the Frederick Douglass Bicentennial Commission.",
+         "short_title": "Frederick Douglass Bicentennial Commission Act",
+         "sponsor_title": "Del.",
+         "sponsor": "Eleanor Holmes Norton",
+         "sponsor_id": "N000147",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000147.json",
+         "sponsor_party": "D",
+         "sponsor_state": "DC",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2989",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2989",
+         "introduced_date": "2017-06-21",
+         "active": true,
+         "house_passage": "2017-10-11",
+         "senate_passage": "2017-10-18",
+         "enacted": "2017-10-24",
+         "vetoed": null,
+         "cosponsors": 18,
+         "cosponsors_by_party": {"R":11,"D":7},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Civil Rights and Liberties, Minority Issues",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Became Public Law No: 115-77.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-10-11",
+         "senate_passage_vote": "2017-10-18",
+         "summary": "(This measure has not been amended since it was passed by the House on October 11, 2017. The summary of that version is repeated here.) Frederick Douglass Bicentennial Commission Act  (Sec. 3) This bill establishes the Frederick Douglass Bicentennial Commission to: (1) plan, develop, and carry out programs and activities to honor Frederick Douglass for the bicentennial anniversary of his birth; and (2) recommend the federal government entities appropriate to carry out such programs and activities. (Sec. 8) Not later than August 1, 2018, the commission must recommend appropriate activities to Congress. A final report detailing commission activities and expenditures must be submitted not later than June 1, 2019.",
+         "summary_short": "(This measure has not been amended since it was passed by the House on October 11, 2017. The summary of that version is repeated here.) Frederick Douglass Bicentennial Commission Act  (Sec. 3) This bill establishes the Frederick Douglass Bicentennial Commission to: (1) plan, develop, and carry out programs and activities to honor Frederick Douglass for the bicentennial anniversary of his birth; and (2) recommend the federal government entities appropriate to carry out such programs and activi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-11-02",
+           "description": "Became Public Law No: 115-77."
+         },
+                  {
+           "id": 15,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-11-02",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-24",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-19",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-18",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S6590-6591)"
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-10-16",
+           "description": "Received in the Senate, read twice."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-11",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-11",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7952-7953)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-11",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2989."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-11",
+           "description": "Considered under suspension of the rules. (consideration: CR H7952-7954)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-11",
+           "description": "Mr. Russell moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-05",
+           "description": "Placed on the Union Calendar, Calendar No. 245."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-05",
+           "description": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-340."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-21",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

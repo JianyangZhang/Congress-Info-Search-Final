@@ -1,0 +1,705 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000367",
+         
+         "first_name": "Amy",
+         "middle_name": null,
+         "last_name": "Klobuchar",
+         "date_of_birth": "1960-05-25",
+         "gender": "F",
+         "url": "https://www.klobuchar.senate.gov/",
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/k/amy_klobuchar/index.html",
+         "times_tag": "Klobuchar, Amy (Per)",
+         "govtrack_id": "412242",
+         "cspan_id": "83701",
+         "votesmart_id": "65092",
+         "icpsr_id": "40700",
+         "twitter_account": null,
+         "facebook_account": null,
+         "youtube_account": "senatorklobuchar",
+         "crp_id": "N00027500",
+         "google_entity_id": "/m/05fbpt",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S6MN00267",
+           "seniority": "11",
+           "senate_class": "1","state_rank": "senior","lis_id": "S311",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "302 Hart Senate Office Building",
+           "phone": "202-224-3244",
+           "fax": "202-228-2186",
+           "contact_form": "http://www.klobuchar.senate.gov/public/index.cfm/contact",
+           "bills_sponsored": 48,
+           "bills_cosponsored": 291,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 96.55,
+           "committees": [
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JSPR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JSLC.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JSEC.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSRA.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Antitrust, Competition Policy and Consumer Rights Subcommittee",
+             "code": "SSJU01",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU01.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Border Security and Immigration Subcommittee",
+             "code": "SSJU04",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU04.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Crime and Terrorism Subcommittee",
+             "code": "SSJU22",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU22.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight, Agency Action, Federal Rights and Federal Courts",
+             "code": "SSJU25",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S6MN00267",
+           "seniority": "9",
+           "senate_class": "1","state_rank": "","lis_id": "S311",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 68,
+           "bills_cosponsored": 303,
+           "missed_votes_pct": 1.59,
+           "votes_with_party_pct": 94.13,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JSEC.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSCM.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSRA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSJU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAF.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "7",
+           "senate_class": "1","state_rank": "","lis_id": "S311",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 78,
+           "bills_cosponsored": 375,
+           "missed_votes_pct": 0.76,
+           "votes_with_party_pct": 98.62,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/JSEC.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-24",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSRA.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Tourism, Competitiveness, and Innovation Subcommittee",
+             "code": "SSCM27",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM27.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee",
+             "code": "SSCM22",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM22.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Administrative Oversight and the Courts",
+             "code": "SSJU02",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU02.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Antitrust, Competition Policy and Consumer Rights Subcommittee",
+             "code": "SSJU01",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU01.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Crime and Terrorism Subcommittee",
+             "code": "SSJU22",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU22.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "1","state_rank": "","lis_id": "S311",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 96,
+           "bills_cosponsored": 330,
+           "missed_votes_pct": 0.41,
+           "votes_with_party_pct": 93.20,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/JSEC.json",
+             "rank_in_party": 3,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSAF.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSCM.json",
+             "rank_in_party": 10,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "1","state_rank": "","lis_id": "S311",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 76,
+           "bills_cosponsored": 328,
+           "missed_votes_pct": 0.89,
+           "votes_with_party_pct": 90.91,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/JSEC.json",
+             "rank_in_party": 3,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSAF.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSCM.json",
+             "rank_in_party": 11,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSEV.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSJU.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "1","state_rank": "","lis_id": "S311",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 295,
+           "missed_votes_pct": 1.07,
+           "votes_with_party_pct": 93.85,
+           "committees": [
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSAF.json",
+             "rank_in_party": 11,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSCM.json",
+             "rank_in_party": 12,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSEV.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/JSEC.json",
+             "rank_in_party": 4,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

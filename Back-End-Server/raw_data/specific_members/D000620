@@ -1,0 +1,188 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "D000620",
+         
+         "first_name": "John",
+         "middle_name": null,
+         "last_name": "Delaney",
+         "date_of_birth": "1963-04-16",
+         "gender": "M",
+         "url": "https://delaney.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412544",
+         "cspan_id": "68432",
+         "votesmart_id": "135143",
+         "icpsr_id": "21334",
+         "twitter_account": "RepJohnDelaney",
+         "facebook_account": "congressmanjohndelaney",
+         "youtube_account": "repjohndelaney",
+         "crp_id": "N00033897",
+         "google_entity_id": "/m/09g8h5d",
+         "rss_url": "https://delaney.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2MD06195",
+           "seniority": "6",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:6",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1632 Longworth House Office Building",
+           "phone": "202-225-2721",
+           "fax": "202-225-2193",
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 230,
+           "missed_votes_pct": 1.48,
+           "votes_with_party_pct": 94.50,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/JSEC.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Terrorism and Illicit Finance",
+             "code": "HSBA01",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Housing and Insurance",
+             "code": "HSBA04",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA04.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H2MD06195",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:6",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 242,
+           "missed_votes_pct": 5.43,
+           "votes_with_party_pct": 91.46,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 22,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/JSEC.json",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:6",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 279,
+           "missed_votes_pct": 2.18,
+           "votes_with_party_pct": 91.94,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/JSEC.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-02-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 24,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

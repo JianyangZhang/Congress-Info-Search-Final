@@ -1,0 +1,601 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000397",
+         
+         "first_name": "Zoe",
+         "middle_name": null,
+         "last_name": "Lofgren",
+         "date_of_birth": "1947-12-21",
+         "gender": "F",
+         "url": "https://lofgren.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400245",
+         "cspan_id": "36520",
+         "votesmart_id": "21899",
+         "icpsr_id": "29504",
+         "twitter_account": "RepZoeLofgren",
+         "facebook_account": "zoelofgren",
+         "youtube_account": "RepZoeLofgren",
+         "crp_id": "N00007479",
+         "google_entity_id": "/m/024t94",
+         "rss_url": "https://lofgren.house.gov/news/rss.aspx",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA16049",
+           "seniority": "24",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:19",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1401 Longworth House Office Building",
+           "phone": "202-225-3072",
+           "fax": "202-225-3336",
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 412,
+           "missed_votes_pct": 2.30,
+           "votes_with_party_pct": 94.79,
+           "committees": [
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/JSLC.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Immigration and Border Security",
+             "code": "HSJU01",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU01.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Space",
+             "code": "HSSY16",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy",
+             "code": "HSSY20",
+             "parent_committee_id": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSSY/subcommittees/HSSY20.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4CA16049",
+           "seniority": "22",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:19",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 466,
+           "missed_votes_pct": 6.42,
+           "votes_with_party_pct": 94.92,
+           "committees": [
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHA.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/JSLC.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "20",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:19",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 486,
+           "missed_votes_pct": 1.17,
+           "votes_with_party_pct": 92.19,
+           "committees": [
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHA.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-02-05",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSJU.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "18",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 335,
+           "missed_votes_pct": 3.74,
+           "votes_with_party_pct": 90.36,
+           "committees": [
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHA.json",
+             "rank_in_party": 2,
+             "begin_date": "2011-01-25",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSJU.json",
+             "rank_in_party": 6,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSY.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSO.json",
+             "rank_in_party": 1,
+             "begin_date": "2011-01-11",
+             "end_date": "2011-01-26"
+           },
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/JSLC.json",
+             "rank_in_party": 2,
+             "begin_date": "2011-01-07",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "16",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 489,
+           "missed_votes_pct": 7.38,
+           "votes_with_party_pct": 95.56,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSHM.json",
+             "rank_in_party": 6,
+             "begin_date": "2009-01-28",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSO.json",
+             "rank_in_party": 1,
+             "begin_date": "2009-01-22",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSHA.json",
+             "rank_in_party": 2,
+             "begin_date": "2009-01-13",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 41,
+           "bills_cosponsored": 667,
+           "missed_votes_pct": 2.45,
+           "votes_with_party_pct": 97.32,
+           "committees": [
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/JSLC.json",
+             "rank_in_party": 2,
+             "begin_date": "2007-03-14",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSHA.json",
+             "rank_in_party": 2,
+             "begin_date": "2007-02-08",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "2007-01-18",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSHM.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 454,
+           "missed_votes_pct": 0.82,
+           "votes_with_party_pct": 93.36,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 499,
+           "missed_votes_pct": 4.59,
+           "votes_with_party_pct": 91.93,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 410,
+           "missed_votes_pct": 2.71,
+           "votes_with_party_pct": 91.12,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 440,
+           "missed_votes_pct": 7.50,
+           "votes_with_party_pct": 88.42,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 551,
+           "missed_votes_pct": 1.68,
+           "votes_with_party_pct": 86.46,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "104",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "16", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:16",
+           "start_date": "1995-01-04",
+           "end_date": "1997-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 411,
+           "missed_votes_pct": 2.76,
+           "votes_with_party_pct": 86.19,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4234-115",
+         "bill_slug": "hr4234",
+         "congress": "115",
+         "bill": "H.R.4234",
+         "bill_type": "hr",
+         "number": "H.R.4234",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4234.json",
+         "title": "To amend the McKinney-Vento Homeless Assistance Act to authorize college and career counseling for homeless children and youths.",
+         "short_title": "To amend the McKinney-Vento Homeless Assistance Act to authorize college and career counseling for homeless children and youths.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jim Renacci",
+         "sponsor_id": "R000586",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000586.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4234",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4234",
+         "introduced_date": "2017-11-02",
+         "active": null,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Financial Services Committee",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Referred to the Committee on Education and the Workforce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+],
+         "votes": [
+         ]
+
+      }
+   ]
+}

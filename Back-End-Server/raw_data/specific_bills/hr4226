@@ -1,0 +1,53 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4226-115",
+         "bill_slug": "hr4226",
+         "congress": "115",
+         "bill": "H.R.4226",
+         "bill_type": "hr",
+         "number": "H.R.4226",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4226.json",
+         "title": "To amend the Public Health Service Act to designate certain medical facilities of the Department of Veterans Affairs as health professional shortage areas, and for other purposes.",
+         "short_title": "To amend the Public Health Service Act to designate certain medical facilities of the Department of Veterans Affairs as health professional shortage areas, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ron Kind",
+         "sponsor_id": "K000188",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000188.json",
+         "sponsor_party": "D",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4226",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4226",
+         "introduced_date": "2017-11-02",
+         "active": null,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Referred to the House Committee on Energy and Commerce.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+],
+         "votes": [
+         ]
+
+      }
+   ]
+}

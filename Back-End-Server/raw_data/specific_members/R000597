@@ -1,0 +1,178 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "R000597",
+         
+         "first_name": "Tom",
+         "middle_name": null,
+         "last_name": "Rice",
+         "date_of_birth": "1957-08-04",
+         "gender": "M",
+         "url": "https://rice.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412572",
+         "cspan_id": "79473",
+         "votesmart_id": "132382",
+         "icpsr_id": "21359",
+         "twitter_account": "RepTomRice",
+         "facebook_account": "reptomrice",
+         "youtube_account": "RepTomRice",
+         "crp_id": "N00033832",
+         "google_entity_id": "/m/03wg1mb",
+         "rss_url": "https://rice.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2SC07066",
+           "seniority": "6",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:sc/cd:7",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "223 Cannon House Office Building",
+           "phone": "202-225-9895",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 76,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 95.01,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Social Security",
+             "code": "HSWM01",
+             "parent_committee_id": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM/subcommittees/HSWM01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Trade",
+             "code": "HSWM04",
+             "parent_committee_id": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSWM/subcommittees/HSWM04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2SC07066",
+           "seniority": "4",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:sc/cd:7",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 126,
+           "missed_votes_pct": 0.53,
+           "votes_with_party_pct": 92.56,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSWM.json",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "SC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "7", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:sc/cd:7",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 138,
+           "missed_votes_pct": 2.18,
+           "votes_with_party_pct": 94.08,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 20,
+             "begin_date": "2013-02-05",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 26,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSM.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

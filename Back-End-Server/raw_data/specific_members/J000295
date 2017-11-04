@@ -1,0 +1,173 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "J000295",
+         
+         "first_name": "Dave",
+         "middle_name": null,
+         "last_name": "Joyce",
+         "date_of_birth": "1957-03-17",
+         "gender": "M",
+         "url": "https://joyce.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412566",
+         "cspan_id": "68561",
+         "votesmart_id": "143052",
+         "icpsr_id": "21353",
+         "twitter_account": "RepDaveJoyce",
+         "facebook_account": "RepDaveJoyce",
+         "youtube_account": "repdavejoyce",
+         "crp_id": "N00035007",
+         "google_entity_id": "/m/0ktwnp_",
+         "rss_url": "https://joyce.house.gov/rss/press-releases.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2OH14064",
+           "seniority": "6",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:14",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1124 Longworth House Office Building",
+           "phone": "202-225-5731",
+           "fax": "202-225-3307",
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 160,
+           "missed_votes_pct": 1.64,
+           "votes_with_party_pct": 90.48,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Interior, Environment, and Related Agencies",
+             "code": "HSAP06",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP06.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy and Water Development, and Related Agencies",
+             "code": "HSAP10",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation, and Housing and Urban Development, and Related Agencies",
+             "code": "HSAP20",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H2OH14064",
+           "seniority": "4",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:14",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 268,
+           "missed_votes_pct": 3.09,
+           "votes_with_party_pct": 90.73,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "OH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "14", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:oh/cd:14",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 310,
+           "missed_votes_pct": 1.68,
+           "votes_with_party_pct": 89.33,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 24,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

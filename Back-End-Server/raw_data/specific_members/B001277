@@ -1,0 +1,516 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001277",
+         
+         "first_name": "Richard",
+         "middle_name": null,
+         "last_name": "Blumenthal",
+         "date_of_birth": "1946-02-13",
+         "gender": "M",
+         "url": "https://www.blumenthal.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412490",
+         "cspan_id": "21799",
+         "votesmart_id": "1568",
+         "icpsr_id": "41101",
+         "twitter_account": "SenBlumenthal",
+         "facebook_account": "SenBlumenthal",
+         "youtube_account": "SenatorBlumenthal",
+         "crp_id": "N00031685",
+         "google_entity_id": "/m/03tg8m",
+         "rss_url": "https://www.blumenthal.senate.gov/rss/feeds/?type=press",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "CT",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S0CT00177",
+           "seniority": "7",
+           "senate_class": "3","state_rank": "senior","lis_id": "S341",
+           "ocd_id": "ocd-division/country:us/state:ct",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "706 Hart Senate Office Building",
+           "phone": "202-224-2823",
+           "fax": "202-224-9673",
+           "contact_form": "https://www.blumenthal.senate.gov/contact/",
+           "bills_sponsored": 38,
+           "bills_cosponsored": 335,
+           "missed_votes_pct": 0.38,
+           "votes_with_party_pct": 90.77,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SPAG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSVA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Antitrust, Competition Policy and Consumer Rights Subcommittee",
+             "code": "SSJU01",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "SeaPower Subcommittee",
+             "code": "SSAS13",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS13.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Border Security and Immigration Subcommittee",
+             "code": "SSJU04",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU04.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight, Agency Action, Federal Rights and Federal Courts",
+             "code": "SSJU25",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Constitution Subcommittee",
+             "code": "SSJU21",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU21.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee",
+             "code": "SSCM22",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM22.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Cybersecurity Subcommittee",
+             "code": "SSAS21",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS21.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "CT",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S0CT00177",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "","lis_id": "S341",
+           "ocd_id": "ocd-division/country:us/state:ct",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 77,
+           "bills_cosponsored": 355,
+           "missed_votes_pct": 0.40,
+           "votes_with_party_pct": 96.20,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSCM.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSVA.json",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAS.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSJU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "CT",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S341",
+           "ocd_id": "ocd-division/country:us/state:ct",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 63,
+           "bills_cosponsored": 396,
+           "missed_votes_pct": 0.30,
+           "votes_with_party_pct": 98.63,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSVA.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Antitrust, Competition Policy and Consumer Rights Subcommittee",
+             "code": "SSJU01",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU01.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Border Security and Immigration Subcommittee",
+             "code": "SSJU04",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU04.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Privacy, Technology and the Law Subcommittee",
+             "code": "SSJU23",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU23.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Constitution Subcommittee",
+             "code": "SSJU21",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU21.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Personnel Subcommittee",
+             "code": "SSAS17",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS17.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "SeaPower Subcommittee",
+             "code": "SSAS13",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS13.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "CT",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S341",
+           "ocd_id": "ocd-division/country:us/state:ct",
+           "start_date": "2011-01-05",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 53,
+           "bills_cosponsored": 433,
+           "missed_votes_pct": 2.87,
+           "votes_with_party_pct": 95.14,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SPAG.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSAS.json",
+             "rank_in_party": 14,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSHR.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSJU.json",
+             "rank_in_party": 10,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,705 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001236",
+         
+         "first_name": "John",
+         "middle_name": "",
+         "last_name": "Boozman",
+         "date_of_birth": "1950-12-10",
+         "gender": "M",
+         "url": "https://www.boozman.senate.gov/public/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400040",
+         "cspan_id": "92069",
+         "votesmart_id": "27958",
+         "icpsr_id": "20101",
+         "twitter_account": "JohnBoozman",
+         "facebook_account": "JohnBoozman",
+         "youtube_account": "BoozmanPressOffice",
+         "crp_id": "N00013873",
+         "google_entity_id": "/m/024s3v",
+         "rss_url": "https://www.boozman.senate.gov/public/index.cfm/rss/feed",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S0AR00150",
+           "seniority": "7",
+           "senate_class": "3","state_rank": "senior","lis_id": "S343",
+           "ocd_id": "ocd-division/country:us/state:ar",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "141 Hart Senate Office Building",
+           "phone": "202-224-4843",
+           "fax": "202-228-1371",
+           "contact_form": "https://www.boozman.senate.gov/public/index.cfm/contact",
+           "bills_sponsored": 14,
+           "bills_cosponsored": 172,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 98.85,
+           "committees": [
+           {
+             "name": "Commission on Security and Cooperation in Europe",
+             "code": "JCSE",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JCSE.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 2,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSVA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Clean Air and Nuclear Safety Subcommittee",
+             "code": "SSEV10",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Fisheries, Water, and Wildlife Subcommittee",
+             "code": "SSEV15",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV15.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation and Infrastructure Subcommittee",
+             "code": "SSEV08",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEV/subcommittees/SSEV08.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Commerce, Justice, Science, and Related Agencies Subcommittee",
+             "code": "SSAP16",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Department of Homeland Security Subcommittee",
+             "code": "SSAP14",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP14.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Financial Services and General Government Subcommittee",
+             "code": "SSAP23",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP23.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Military Construction and Veterans Affairs, and Related Agencies",
+             "code": "SSAP19",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP19.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "State, Foreign Operations, and Related Programs Subcommittee",
+             "code": "SSAP20",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Transportation, Housing and Urban Development, and Related Agencies",
+             "code": "SSAP24",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAP/subcommittees/SSAP24.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S0AR00150",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "","lis_id": "S343",
+           "ocd_id": "ocd-division/country:us/state:ar",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 214,
+           "missed_votes_pct": 0.80,
+           "votes_with_party_pct": 93.57,
+           "committees": [
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JSPR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAP.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEV.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSRA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSVA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Commission on Security and Cooperation in Europe",
+             "code": "JCSE",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JCSE.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAF.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S343",
+           "ocd_id": "ocd-division/country:us/state:ar",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 282,
+           "missed_votes_pct": 10.35,
+           "votes_with_party_pct": 92.53,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSVA.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Transportation and Infrastructure Subcommittee",
+             "code": "SSEV08",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV08.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Commodities, Markets, Trade and Risk Management",
+             "code": "SSAF13",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF13.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security",
+             "code": "SSAF17",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAF/subcommittees/SSAF17.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Green Jobs and the New Economy Subcommittee",
+             "code": "SSEV16",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV16.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Oversight Subcommittee",
+             "code": "SSEV18",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV18.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Superfund, Waste Management, and Regulatory Oversight",
+             "code": "SSEV09",
+             "parent_committee_id": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV/subcommittees/SSEV09.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "short_title": "Sen.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S343",
+           "ocd_id": "ocd-division/country:us/state:ar",
+           "start_date": "2011-01-05",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 293,
+           "missed_votes_pct": 2.26,
+           "votes_with_party_pct": 89.71,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:3",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 473,
+           "missed_votes_pct": 2.30,
+           "votes_with_party_pct": 96.41,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSPW.json",
+             "rank_in_party": 15,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSVR.json",
+             "rank_in_party": 6,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSFA.json",
+             "rank_in_party": 12,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:3",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 478,
+           "missed_votes_pct": 1.07,
+           "votes_with_party_pct": 93.53,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSFA.json",
+             "rank_in_party": 16,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSPW.json",
+             "rank_in_party": 19,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Veterans' Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSVR.json",
+             "rank_in_party": 8,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:3",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 286,
+           "missed_votes_pct": 2.97,
+           "votes_with_party_pct": 95.33,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:3",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 192,
+           "missed_votes_pct": 0.74,
+           "votes_with_party_pct": 96.62,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "AR",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ar/cd:3",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 78,
+           "missed_votes_pct": 0.56,
+           "votes_with_party_pct": 96.82,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001098",
+         
+         "first_name": "Ted",
+         "middle_name": null,
+         "last_name": "Cruz",
+         "date_of_birth": "1970-12-22",
+         "gender": "M",
+         "url": "https://www.cruz.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412573",
+         "cspan_id": "1019953",
+         "votesmart_id": "135705",
+         "icpsr_id": "41304",
+         "twitter_account": "SenTedCruz",
+         "facebook_account": "SenatorTedCruz",
+         "youtube_account": "sentedcruz",
+         "crp_id": "N00033085",
+         "google_entity_id": "/m/07j6ty",
+         "rss_url": "https://www.cruz.senate.gov/rss/",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S2TX00312",
+           "seniority": "5",
+           "senate_class": "1","state_rank": "junior","lis_id": "S355",
+           "ocd_id": "ocd-division/country:us/state:tx",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "404 Russell Senate Office Building",
+           "phone": "202-224-5922",
+           "fax": "202-228-3398",
+           "contact_form": "http://www.cruz.senate.gov/?p=email_senator",
+           "bills_sponsored": 33,
+           "bills_cosponsored": 118,
+           "missed_votes_pct": 1.53,
+           "votes_with_party_pct": 97.28,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/JSEC.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": null,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSRA.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Border Security and Immigration Subcommittee",
+             "code": "SSJU04",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Strategic Forces Subcommittee",
+             "code": "SSAS16",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS16.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Crime and Terrorism Subcommittee",
+             "code": "SSJU22",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU22.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Constitution Subcommittee",
+             "code": "SSJU21",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU21.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Space, Science, and Competitiveness Subcommittee",
+             "code": "SSCM24",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSCM/subcommittees/SSCM24.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Airland Subcommittee",
+             "code": "SSAS14",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Emerging Threats and Capabilities Subcommittee",
+             "code": "SSAS20",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS20.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S2TX00312",
+           "seniority": "3",
+           "senate_class": "1","state_rank": "","lis_id": "S355",
+           "ocd_id": "ocd-division/country:us/state:tx",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 40,
+           "bills_cosponsored": 146,
+           "missed_votes_pct": 32.27,
+           "votes_with_party_pct": 79.71,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/JSEC.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSCM.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSRA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSJU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAS.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "short_title": "Sen.",
+           "state": "TX",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "1","state_rank": "","lis_id": "S355",
+           "ocd_id": "ocd-division/country:us/state:tx",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 32,
+           "bills_cosponsored": 139,
+           "missed_votes_pct": 6.70,
+           "votes_with_party_pct": 87.60,
+           "committees": [
+           {
+             "name": "Committee on Rules and Administration",
+             "code": "SSRA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSRA.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

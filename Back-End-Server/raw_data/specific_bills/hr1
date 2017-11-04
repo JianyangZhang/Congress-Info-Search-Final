@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1-115",
+         "bill_slug": "hr1",
+         "congress": "115",
+         "bill": "H.R.1",
+         "bill_type": "hr",
+         "number": "H.R.1",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1.json",
+         "title": "To provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2018.",
+         "short_title": "Tax Cuts and Jobs Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Kevin Brady",
+         "sponsor_id": "B000755",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B000755.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1",
+         "introduced_date": "2017-11-02",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 24,
+         "cosponsors_by_party": {"R":24},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Taxation",
+         "committees": "House Ways and Means Committee",
+         "committee_codes": ["HSWM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Referred to the House Committee on Ways and Means.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-02",
+           "description": "Referred to the House Committee on Ways and Means."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

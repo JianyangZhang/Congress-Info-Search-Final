@@ -1,0 +1,103 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000581",
+         
+         "first_name": "Vicente",
+         "middle_name": null,
+         "last_name": "Gonzalez",
+         "date_of_birth": "1967-09-04",
+         "gender": "M",
+         "url": "https://gonzalez.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412725",
+         "cspan_id": "103568",
+         "votesmart_id": "166483",
+         "icpsr_id": null,
+         "twitter_account": "RepGonzalez",
+         "facebook_account": "USCongressmanVicenteGonzalez",
+         "youtube_account": null,
+         "crp_id": "N00038809",
+         "google_entity_id": "/g/11c266m1z7",
+         "rss_url": "https://gonzalez.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6TX15162",
+           "seniority": "2",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "113 Cannon House Office Building",
+           "phone": "202-225-2531",
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 172,
+           "missed_votes_pct": 2.46,
+           "votes_with_party_pct": 90.91,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Housing and Insurance",
+             "code": "HSBA04",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA04.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight and Investigations",
+             "code": "HSBA09",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Capital Markets, Securities, and Investment",
+             "code": "HSBA16",
+             "parent_committee_id": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSBA/subcommittees/HSBA16.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

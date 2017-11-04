@@ -1,0 +1,81 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres279-115",
+         "bill_slug": "sres279",
+         "congress": "115",
+         "bill": "S.RES.279",
+         "bill_type": "sres",
+         "number": "S.RES.279",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres279.json",
+         "title": "A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.",
+         "short_title": "A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.",
+         "sponsor_title": "Sen.",
+         "sponsor": "John McCain",
+         "sponsor_id": "M000303",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000303.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/279",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres279",
+         "introduced_date": "2017-10-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "cosponsors_by_party": {"D":1,"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-11-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 257."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-11-01",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-10-26",
+           "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-10-03",
+           "description": "Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6290-6291)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

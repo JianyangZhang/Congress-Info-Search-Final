@@ -1,0 +1,124 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000584",
+         
+         "first_name": "Greg",
+         "middle_name": "",
+         "last_name": "Gianforte",
+         "date_of_birth": "1961-04-17",
+         "gender": "M",
+         "url": "https://gianforte.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412736",
+         "cspan_id": "104895",
+         "votesmart_id": "168594",
+         "icpsr_id": null,
+         "twitter_account": null,
+         "facebook_account": "RepGianforte",
+         "youtube_account": null,
+         "crp_id": "N00040733",
+         "google_entity_id": "/m/030pb5p",
+         "rss_url": "https://gianforte.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "MT",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8MT01182",
+           "seniority": "2",
+           "district": "At-Large", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mt/cd:1",
+           "start_date": "2017-06-21",
+           "end_date": "2019-01-03",
+           "office": "1419 Longworth House Office Building",
+           "phone": "202-225-3211",
+           "fax": "202-225-5687",
+           "contact_form": "https://gianforte.house.gov/contact",
+           "bills_sponsored": 6,
+           "bills_cosponsored": 32,
+           "missed_votes_pct": 1.02,
+           "votes_with_party_pct": 93.15,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 24,
+             "begin_date": "2017-06-27",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 25,
+             "begin_date": "2017-06-27",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Information Technology",
+             "code": "HSGO25",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO25.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "The Interior, Energy, and Environment",
+             "code": "HSGO28",
+             "parent_committee_id": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSGO/subcommittees/HSGO28.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Federal Lands",
+             "code": "HSII10",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Water, Power and Oceans",
+             "code": "HSII13",
+             "parent_committee_id": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSII/subcommittees/HSII13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

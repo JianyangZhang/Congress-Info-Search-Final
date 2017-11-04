@@ -1,0 +1,144 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3279-115",
+         "bill_slug": "hr3279",
+         "congress": "115",
+         "bill": "H.R.3279",
+         "bill_type": "hr",
+         "number": "H.R.3279",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3279.json",
+         "title": "To amend the Mineral Leasing Act to provide that extraction of helium from gas produced under a Federal mineral lease shall maintain the lease as if the helium were oil and gas.",
+         "short_title": "Helium Extraction Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Paul Cook",
+         "sponsor_id": "C001094",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001094.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3279",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3279",
+         "introduced_date": "2017-07-18",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)  Helium Extraction Act of 2017 (Sec.2)This bill amends the Mineral Leasing Act to require that land leased by the Department of the Interior for the extraction of helium shall fall under the same lease terms as a federal oil and gas lease.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)  Helium Extraction Act of 2017 (Sec.2)This bill amends the Mineral Leasing Act to require that land leased by the Department of the Interior for the extraction of helium shall fall under the same lease terms as a federal oil and gas lease.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-02",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8323)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H8323)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3279."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Cook moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-23",
+           "description": "Placed on the Union Calendar, Calendar No. 267."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-23",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-365."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-18",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

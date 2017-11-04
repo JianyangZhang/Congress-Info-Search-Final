@@ -1,0 +1,109 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sconres28-115",
+         "bill_slug": "sconres28",
+         "congress": "115",
+         "bill": "S.CON.RES.28",
+         "bill_type": "sconres",
+         "number": "S.CON.RES.28",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres28.json",
+         "title": "A concurrent resolution providing for a correction in the enrollment of S. 782.",
+         "short_title": "A concurrent resolution providing for a correction in the enrollment of S. 782.",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Cornyn",
+         "sponsor_id": "C001056",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001056.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/28",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sconres28",
+         "introduced_date": "2017-10-26",
+         "active": true,
+         "house_passage": "2017-11-02",
+         "senate_passage": "2017-10-26",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-02",
+         "senate_passage_vote": "2017-10-26",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "On agreeing to the resolution Agreed to without objection. (text: CR H8393)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Mr. Poe (TX) asked unanimous consent to take from the Speaker's table and consider."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Considered by unanimous consent. (consideration: CR H8393)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-27",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-26",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6859-6860; text as passed Senate: CR S6858)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

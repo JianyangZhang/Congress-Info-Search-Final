@@ -1,0 +1,147 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres600-115",
+         "bill_slug": "hres600",
+         "congress": "115",
+         "bill": "H.RES.600",
+         "bill_type": "hres",
+         "number": "H.RES.600",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres600.json",
+         "title": "Providing for consideration of the bill (H.R. 849) to repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.",
+         "short_title": "Providing for consideration of the bill (H.R. 849) to repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Michael C. Burgess",
+         "sponsor_id": "B001248",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001248.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/600",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres600",
+         "introduced_date": "2017-11-01",
+         "active": true,
+         "house_passage": "2017-11-02",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-11-02",
+         "house_passage_vote": "2017-11-02",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 849) to repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 849) to repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 240 - 178 (Roll no. 601). (text: CR H8395)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "On ordering the previous question Agreed to by the Yeas and Nays: 230 - 193 (Roll no. 600). (consideration: CR H8402, H8411)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Considered as unfinished business. (consideration: CR H8411-8412)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 600, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes prevailed. Ms. Slaughter demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 600."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Considered as privileged matter. (consideration: CR H8395-8402)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-11-01",
+           "description": "Placed on the House Calendar, Calendar No. 96."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Rule provides for consideration of H.R. 849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-11-01",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-381, by Mr. Burgess."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-11-02",
+             "time": "15:24:00",
+             "roll_call": "601",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 240,
+             "total_no": 178,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/601.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-11-02",
+             "time": "15:16:00",
+             "roll_call": "600",
+             "question": "On Ordering the Previous Question",
+             "result": "Passed",
+             "total_yes": 230,
+             "total_no": 193,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/600.json"
+           }
+         ]
+
+      }
+   ]
+}

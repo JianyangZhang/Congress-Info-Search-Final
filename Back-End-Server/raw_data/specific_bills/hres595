@@ -1,0 +1,133 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres595-115",
+         "bill_slug": "hres595",
+         "congress": "115",
+         "bill": "H.RES.595",
+         "bill_type": "hres",
+         "number": "H.RES.595",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres595.json",
+         "title": "Providing for consideration of the bill (H.R. 2936) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes.",
+         "short_title": "Providing for consideration of the bill (H.R. 2936) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Mana",
+         "sponsor_title": "Rep.",
+         "sponsor": "Dan Newhouse",
+         "sponsor_id": "N000189",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000189.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/595",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres595",
+         "introduced_date": "2017-10-31",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-01",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-11-01",
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 2936) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 2936) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On agreeing to the resolution Agreed to by recorded vote: 232 - 184 (Roll no. 593)."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On ordering the previous question Agreed to by the Yeas and Nays: 232 - 184 (Roll no. 592)."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 595."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered as privileged matter."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-31",
+           "description": "Placed on the House Calendar, Calendar No. 95."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-10-31",
+           "description": "Rule provides for consideration of H.R. 2936 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-31",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-378, by Mr. Newhouse."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "13:53:00",
+             "roll_call": "593",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 232,
+             "total_no": 184,
+             "total_not_voting": 16,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/593.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-11-01",
+             "time": "13:45:00",
+             "roll_call": "592",
+             "question": "On Ordering the Previous Question",
+             "result": "Passed",
+             "total_yes": 232,
+             "total_no": 184,
+             "total_not_voting": 16,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/592.json"
+           }
+         ]
+
+      }
+   ]
+}

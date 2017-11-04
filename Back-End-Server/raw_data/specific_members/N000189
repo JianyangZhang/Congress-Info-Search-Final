@@ -1,0 +1,186 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "N000189",
+         
+         "first_name": "Dan",
+         "middle_name": null,
+         "last_name": "Newhouse",
+         "date_of_birth": "1955-07-10",
+         "gender": "M",
+         "url": "https://newhouse.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412660",
+         "cspan_id": "78315",
+         "votesmart_id": "51522",
+         "icpsr_id": "21556",
+         "twitter_account": "RepNewhouse",
+         "facebook_account": "RepNewhouse",
+         "youtube_account": null,
+         "crp_id": "N00036403",
+         "google_entity_id": "/m/0_s0bn3",
+         "rss_url": "https://newhouse.house.gov/rss.xml",
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4WA04104",
+           "seniority": "4",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:4",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "1318 Longworth House Office Building",
+           "phone": "202-225-5816",
+           "fax": "202-225-3251",
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 120,
+           "missed_votes_pct": 9.69,
+           "votes_with_party_pct": 95.64,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 28,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Energy and Water Development, and Related Agencies",
+             "code": "HSAP10",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Homeland Security",
+             "code": "HSAP15",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Legislative Branch",
+             "code": "HSAP24",
+             "parent_committee_id": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSAP/subcommittees/HSAP24.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Legislative and Budget Process Subcommittee",
+             "code": "HSRU02",
+             "parent_committee_id": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU/subcommittees/HSRU02.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Rules and Organization of the House Subcommittee",
+             "code": "HSRU04",
+             "parent_committee_id": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSRU/subcommittees/HSRU04.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "WA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4WA04104",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:wa/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 20,
+           "bills_cosponsored": 209,
+           "missed_votes_pct": 0.68,
+           "votes_with_party_pct": 93.92,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 19,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSRU.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

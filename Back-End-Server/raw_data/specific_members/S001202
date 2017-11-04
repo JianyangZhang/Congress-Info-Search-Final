@@ -1,0 +1,188 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001202",
+         
+         "first_name": "Luther",
+         "middle_name": null,
+         "last_name": "Strange",
+         "date_of_birth": "1953-03-01",
+         "gender": "M",
+         "url": "https://www.strange.senate.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412734",
+         "cspan_id": "9278255",
+         "votesmart_id": "121424",
+         "icpsr_id": null,
+         "twitter_account": "SenatorStrange",
+         "facebook_account": "SenatorLutherStrange",
+         "youtube_account": null,
+         "crp_id": "N00040607",
+         "google_entity_id": "/m/06w5pjw",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "AL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S8AL00308",
+           "seniority": "1",
+           "senate_class": "2","state_rank": "junior","lis_id": "S392",
+           "ocd_id": "ocd-division/country:us/state:al",
+           "start_date": "2017-02-09",
+           "end_date": "2019-01-03",
+           "office": "326 Russell Senate Office Building",
+           "phone": "202-224-4124",
+           "fax": "202-224-3149",
+           "contact_form": "https://www.strange.senate.gov/content/contact-senator",
+           "bills_sponsored": 4,
+           "bills_cosponsored": 84,
+           "missed_votes_pct": 4.48,
+           "votes_with_party_pct": 95.83,
+           "committees": [
+           {
+             "name": "Committee on Agriculture, Nutrition, and Forestry",
+             "code": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSBU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Conservation, Forestry and Natural Resources Subcommittee",
+             "code": "SSAF14",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Readiness and Management Support Subcommittee",
+             "code": "SSAS15",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "SeaPower Subcommittee",
+             "code": "SSAS13",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAS/subcommittees/SSAS13.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research",
+             "code": "SSAF16",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF16.json",
+             "side": "majority",
+             "title": "Chair",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Jobs, Rural Economic Growth and Energy Innovation Subcommittee",
+             "code": "SSAF15",
+             "parent_committee_id": "SSAF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSAF/subcommittees/SSAF15.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy Subcommittee",
+             "code": "SSEG01",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG01.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Public Lands, Forests, and Mining Subcommittee",
+             "code": "SSEG03",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Water and Power Subcommittee",
+             "code": "SSEG07",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG07.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}

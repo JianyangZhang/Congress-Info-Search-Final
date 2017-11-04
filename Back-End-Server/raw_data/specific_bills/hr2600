@@ -1,0 +1,144 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2600-115",
+         "bill_slug": "hr2600",
+         "congress": "115",
+         "bill": "H.R.2600",
+         "bill_type": "hr",
+         "number": "H.R.2600",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2600.json",
+         "title": "To provide for the conveyance to the State of Iowa of the reversionary interest held by the United States in certain land in Pottawattamie County, Iowa, and for other purposes.",
+         "short_title": "To provide for the conveyance to the State of Iowa of the reversionary interest held by the United States in certain land in Pottawattamie County, Iowa, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "David Young",
+         "sponsor_id": "Y000066",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/Y000066.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2600",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2600",
+         "introduced_date": "2017-05-23",
+         "active": true,
+         "house_passage": "2017-11-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "cosponsors_by_party": {},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-11-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-11-01",
+         "senate_passage_vote": null,
+         "summary": "This bill directs the Department of the Interior to convey to the state of Iowa, without consideration, the reversionary interest held by the United States in certain land in Pottawattamie County described in the quit claim deed dated April 13, 1998. ",
+         "summary_short": "This bill directs the Department of the Interior to convey to the state of Iowa, without consideration, the reversionary interest held by the United States in certain land in Pottawattamie County described in the quit claim deed dated April 13, 1998. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8324)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H8324-8325)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2600."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-01",
+           "description": "Mr. Cook moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-10-24",
+           "description": "Placed on the Union Calendar, Calendar No. 270."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-24",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-368."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-04",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-23",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

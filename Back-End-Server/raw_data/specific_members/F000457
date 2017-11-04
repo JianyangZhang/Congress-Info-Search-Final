@@ -1,0 +1,527 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "F000457",
+         
+         "first_name": "Al",
+         "middle_name": null,
+         "last_name": "Franken",
+         "date_of_birth": "1951-05-21",
+         "gender": "M",
+         "url": "https://www.franken.senate.gov/",
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/f/al_franken/index.html",
+         "times_tag": "Franken, Al (Per)",
+         "govtrack_id": "412378",
+         "cspan_id": "23334",
+         "votesmart_id": "108924",
+         "icpsr_id": "40904",
+         "twitter_account": "SenFranken",
+         "facebook_account": "senatoralfranken",
+         "youtube_account": "SenatorFranken",
+         "crp_id": "N00029016",
+         "google_entity_id": "/m/01lct6",
+         "rss_url": "https://www.franken.senate.gov/rss/",
+         "in_office": true,
+         "current_party": "D",
+         "most_recent_vote": "2017-11-02",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S8MN00438",
+           "seniority": "9",
+           "senate_class": "2","state_rank": "junior","lis_id": "S332",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2017-01-03",
+           "end_date": "2019-01-03",
+           "office": "309 Hart Senate Office Building",
+           "phone": "202-224-5641",
+           "fax": "202-224-0044",
+           "contact_form": "https://www.franken.senate.gov/?p=contact",
+           "bills_sponsored": 21,
+           "bills_cosponsored": 303,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 97.67,
+           "committees": [
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SLIA.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 6,
+             "begin_date": "2017-01-03",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Water and Power Subcommittee",
+             "code": "SSEG07",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG07.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Antitrust, Competition Policy and Consumer Rights Subcommittee",
+             "code": "SSJU01",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Border Security and Immigration Subcommittee",
+             "code": "SSJU04",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU04.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Oversight, Agency Action, Federal Rights and Federal Courts",
+             "code": "SSJU25",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU25.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Privacy, Technology and the Law Subcommittee",
+             "code": "SSJU23",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU23.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Constitution Subcommittee",
+             "code": "SSJU21",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSJU/subcommittees/SSJU21.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "side": "minority",
+             "title": "Ranking Member",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Energy Subcommittee",
+             "code": "SSEG01",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG01.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Public Lands, Forests, and Mining Subcommittee",
+             "code": "SSEG03",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/115/senate/committees/SSEG/subcommittees/SSEG03.json",
+             "side": "minority",
+             "title": "Member",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "S8MN00438",
+           "seniority": "7",
+           "senate_class": "2","state_rank": "","lis_id": "S332",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 44,
+           "bills_cosponsored": 355,
+           "missed_votes_pct": 2.79,
+           "votes_with_party_pct": 94.88,
+           "committees": [
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SLIA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSHR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSJU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "2","state_rank": "","lis_id": "S332",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 43,
+           "bills_cosponsored": 358,
+           "missed_votes_pct": 0.46,
+           "votes_with_party_pct": 99.24,
+           "committees": [
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SLIA.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEG.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Antitrust, Competition Policy and Consumer Rights Subcommittee",
+             "code": "SSJU01",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU01.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Border Security and Immigration Subcommittee",
+             "code": "SSJU04",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU04.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Privacy, Technology and the Law Subcommittee",
+             "code": "SSJU23",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU23.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Constitution Subcommittee",
+             "code": "SSJU21",
+             "parent_committee_id": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSJU/subcommittees/SSJU21.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Energy Subcommittee",
+             "code": "SSEG01",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEG/subcommittees/SSEG01.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "National Parks Subcommittee",
+             "code": "SSEG04",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEG/subcommittees/SSEG04.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Public Lands, Forests, and Mining Subcommittee",
+             "code": "SSEG03",
+             "parent_committee_id": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEG/subcommittees/SSEG03.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "2","state_rank": "","lis_id": "S332",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2011-01-05",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 34,
+           "bills_cosponsored": 328,
+           "missed_votes_pct": 0.41,
+           "votes_with_party_pct": 95.26,
+           "committees": [
+           {
+             "name": "Committee on Energy and Natural Resources",
+             "code": "SSEG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSEG.json",
+             "rank_in_party": 10,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SLIA.json",
+             "rank_in_party": 8,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSJU.json",
+             "rank_in_party": 8,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSHR.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 2nd Class",
+           "short_title": "Sen.",
+           "state": "MN",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "2","state_rank": "","lis_id": "S332",
+           "ocd_id": "ocd-division/country:us/state:mn",
+           "start_date": "2009-07-07",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 233,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 96.52,
+           "committees": [
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSHR.json",
+             "rank_in_party": 11,
+             "begin_date": "2009-09-29",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Indian Affairs",
+             "code": "SLIA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SLIA.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-07-07",
+             "end_date": "2011-01-04"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SPAG.json",
+             "rank_in_party": 11,
+             "begin_date": "2009-07-07",
+             "end_date": "2011-01-04"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "SSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSJU.json",
+             "rank_in_party": 11,
+             "begin_date": "2009-07-07",
+             "end_date": "2011-01-04"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

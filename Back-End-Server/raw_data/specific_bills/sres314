@@ -1,0 +1,67 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres314-115",
+         "bill_slug": "sres314",
+         "congress": "115",
+         "bill": "S.RES.314",
+         "bill_type": "sres",
+         "number": "S.RES.314",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres314.json",
+         "title": "A resolution designating October 30, 2017, as a national day of remembrance for nuclear weapons program workers.",
+         "short_title": "A resolution designating October 30, 2017, as a national day of remembrance for nuclear weapons program workers.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lamar Alexander",
+         "sponsor_id": "A000360",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/A000360.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/314",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres314",
+         "introduced_date": "2017-10-30",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-10-30",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 16,
+         "cosponsors_by_party": {"D":7,"R":9},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-10-30",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6879; text: CR S6877-6878)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-10-30",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-30",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6879; text as passed Senate: CR S6877-6878)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-10-30",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6879; text: CR S6877-6878)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

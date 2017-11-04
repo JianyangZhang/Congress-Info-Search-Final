@@ -1,0 +1,124 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "H001078",
+         
+         "first_name": "Karen",
+         "middle_name": null,
+         "last_name": "Handel",
+         "date_of_birth": "1962-04-18",
+         "gender": "F",
+         "url": "https://handel.house.gov/",
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412737",
+         "cspan_id": "1026745",
+         "votesmart_id": "69553",
+         "icpsr_id": null,
+         "twitter_account": null,
+         "facebook_account": null,
+         "youtube_account": null,
+         "crp_id": "N00035477",
+         "google_entity_id": "/m/0f9kbx",
+         "rss_url": null,
+         "in_office": true,
+         "current_party": "R",
+         "most_recent_vote": "2017-11-03",
+         "roles": [
+ {
+           "congress": "115",
+           "chamber": "House",
+           "title": "Representative",
+           "short_title": "Rep.",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8GA06286",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:6",
+           "start_date": "2017-06-26",
+           "end_date": "2019-01-03",
+           "office": "1211 Longworth House Office Building",
+           "phone": "202-225-4501",
+           "fax": null,
+           "contact_form": "https://handel.house.gov/contact",
+           "bills_sponsored": 0,
+           "bills_cosponsored": 18,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 97.88,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 23,
+             "begin_date": "2017-06-27",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 24,
+             "begin_date": "2017-06-27",
+             "end_date": "2019-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Regulatory Reform, Commercial, and Antitrust Law",
+             "code": "HSJU05",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU05.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "the Constitution and Civil Justice",
+             "code": "HSJU10",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Workforce Protections",
+             "code": "HSED10",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED10.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
+             "name": "Early Childhood, Elementary, and Secondary Education",
+             "code": "HSED14",
+             "parent_committee_id": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSED/subcommittees/HSED14.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 8,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           }
+           ]
+         }
+       ]
+        }
+    ]
+}
