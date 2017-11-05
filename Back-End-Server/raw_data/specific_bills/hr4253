@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4253-115",
+         "bill_slug": "hr4253",
+         "congress": "115",
+         "bill": "H.R.4253",
+         "bill_type": "hr",
+         "number": "H.R.4253",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4253.json",
+         "title": "To amend the Immigration and Nationality Act to provide for certain protections for aliens granted temporary protected status or deferred enforced departure, and for other purposes.",
+         "short_title": "To amend the Immigration and Nationality Act to provide for certain protections for aliens granted temporary protected status or deferred enforced departure, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Nydia M. Velázquez",
+         "sponsor_id": "V000081",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/V000081.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4253",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4253",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 17,
+         "cosponsors_by_party": {"D":17},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on the Judiciary.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

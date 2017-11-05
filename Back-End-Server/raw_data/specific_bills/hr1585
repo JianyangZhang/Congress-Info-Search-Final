@@ -32,7 +32,7 @@
          "withdrawn_cosponsors": 0,
          "primary_subject": "Finance and Financial Sector",
          "committees": "Senate Banking, Housing, and Urban Affairs Committee",
-         "committee_codes": ["HSBA"],
+         "committee_codes": ["SSBK","HSBA"],
          "subcommittee_codes": [],
          "latest_major_action_date": "2017-11-02",
          "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
@@ -45,6 +45,13 @@
 ],
          "actions":[
          {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-02",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
            "id": 13,
            "chamber": "House",
            "action_type": "Floor",

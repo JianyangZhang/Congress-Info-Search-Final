@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4242-115",
+         "bill_slug": "hr4242",
+         "congress": "115",
+         "bill": "H.R.4242",
+         "bill_type": "hr",
+         "number": "H.R.4242",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4242.json",
+         "title": "To amend title 38, United States Code, to establish a permanent VA Care in the Community Program, and for other purposes.",
+         "short_title": "To amend title 38, United States Code, to establish a permanent VA Care in the Community Program, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Phil Roe",
+         "sponsor_id": "R000582",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000582.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4242",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4242",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 23,
+         "cosponsors_by_party": {"R":13,"D":10},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Veterans' Affairs Committee",
+         "committee_codes": ["HSVR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

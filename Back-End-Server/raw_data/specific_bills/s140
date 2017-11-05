@@ -45,6 +45,13 @@
 ],
          "actions":[
          {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-11-02",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
            "id": 9,
            "chamber": "House",
            "action_type": "Committee",

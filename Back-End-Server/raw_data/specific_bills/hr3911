@@ -1,0 +1,95 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3911-115",
+         "bill_slug": "hr3911",
+         "congress": "115",
+         "bill": "H.R.3911",
+         "bill_type": "hr",
+         "number": "H.R.3911",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3911.json",
+         "title": "To amend the Securities Exchange Act of 1934 with respect to risk-based examinations of Nationally Recognized Statistical Rating Organizations.",
+         "short_title": "Risk-Based Credit Examination Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ann Wagner",
+         "sponsor_id": "W000812",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000812.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3911",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3911",
+         "introduced_date": "2017-10-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 281.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-11-03",
+           "description": "Placed on the Union Calendar, Calendar No. 281."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-11-03",
+           "description": "Reported by the Committee on Financial Services. H. Rept. 115-384."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-12",
+           "description": "Ordered to be Reported by the Yeas and Nays: 60 - 0."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-12",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-10-11",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-10-02",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

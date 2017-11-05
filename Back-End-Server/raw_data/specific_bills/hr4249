@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4249-115",
+         "bill_slug": "hr4249",
+         "congress": "115",
+         "bill": "H.R.4249",
+         "bill_type": "hr",
+         "number": "H.R.4249",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4249.json",
+         "title": "To provide housing and Medicaid assistance to families affected by a major disaster, and for other purposes.",
+         "short_title": "To provide housing and Medicaid assistance to families affected by a major disaster, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Stephanie Murphy",
+         "sponsor_id": "M001202",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001202.json",
+         "sponsor_party": "D",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4249",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4249",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

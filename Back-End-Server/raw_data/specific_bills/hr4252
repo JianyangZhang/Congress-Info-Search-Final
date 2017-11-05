@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4252-115",
+         "bill_slug": "hr4252",
+         "congress": "115",
+         "bill": "H.R.4252",
+         "bill_type": "hr",
+         "number": "H.R.4252",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4252.json",
+         "title": "To expand geothermal production, and for other purposes.",
+         "short_title": "To expand geothermal production, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Simpson",
+         "sponsor_id": "S001148",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001148.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ID",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4252",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4252",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"D":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

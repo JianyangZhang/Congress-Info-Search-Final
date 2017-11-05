@@ -1,5 +1,6 @@
 // -------- start to fetch congress data --------
 console.log('---start to fetch congress data---');
+var theKey = 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ';
 var request = require('request');
 var fs = require('fs');
 var all_members_with_chamber_senate;
@@ -14,7 +15,7 @@ var all_committees_of_joint;
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/senate/members.json'
     },
@@ -37,7 +38,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/house/members.json'
     },
@@ -60,7 +61,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/house/bills/active.json'
     },
@@ -83,7 +84,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/senate/bills/active.json'
     },
@@ -106,7 +107,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/house/bills/introduced.json'
     },
@@ -129,7 +130,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/senate/bills/introduced.json'
     },
@@ -152,7 +153,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/senate/committees.json'
     },
@@ -174,7 +175,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/house/committees.json'
     },
@@ -196,7 +197,7 @@ request({
 request({
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+            'X-API-Key': theKey
         },
         url: 'https://api.propublica.org/congress/v1/115/joint/committees.json'
     },
@@ -238,7 +239,7 @@ function fetchSpecificMemberHelper(oMembers, i) {
     request({
             headers: {
                 'Content-Type': 'application/json',
-                'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+                'X-API-Key': theKey
             },
             url: 'https://api.propublica.org/congress/v1/members/' + id + '.json'
         },
@@ -268,7 +269,7 @@ function fetchSpecificBillHelper(oBills, i) {
     request({
             headers: {
                 'Content-Type': 'application/json',
-                'X-API-Key': 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ'
+                'X-API-Key': theKey
             },
             url: 'https://api.propublica.org/congress/v1/115/bills/' + id + '.json'
         },

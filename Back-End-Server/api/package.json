@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "congress api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongodb": "^2.2.33"
+  },
+  "keywords": [
+    "congress",
+    "tracker",
+    "legislators",
+    "committees",
+    "bills"
+  ],
+  "author": "Jianyang Zhang",
+  "license": "ISC"
+}

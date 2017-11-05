@@ -1,5 +1,5 @@
 // manipulate data
-
+var theKey = 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ';
 var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination','ngAnimate', 'ngSanitize', 'ui.bootstrap']);
 
 function MainController($scope) {
@@ -150,21 +150,18 @@ function MainController($scope) {
 		$('#btn_b').click();
 	}
 
-	var send_data = {"dataBase": "legislators"};
-	$.get("http://localhost/myhw8/loadInfo.php", send_data, function (receive_data) {
-		$scope.oJson = eval("(" + receive_data + ")");
+	$.get("http://localhost:3000/legislators", {}, function (receive_data) {
+		$scope.oJson = receive_data;
 	});
-	var send_data_2 = {"dataBase": "committees"};
-	$.get("http://localhost/myhw8/loadInfo.php", send_data_2, function (receive_data) {
-		$scope.oJson_2 = eval("(" + receive_data + ")");
+	$.get("http://localhost:3000/committees", {}, function (receive_data) {
+		$scope.oJson_2 = receive_data;
 	});
-	var send_data_5 = {"dataBase": "bills", "flag_5": "true"};
-	$.get("http://localhost/myhw8/loadInfo.php", send_data_5, function (receive_data) {
-		$scope.oJson_5 = eval("(" + receive_data + ")");
+
+	$.get("http://localhost:3000/activeBills", {}, function (receive_data) {
+		$scope.oJson_5 = receive_data;
 	});
-	var send_data_6 = {"dataBase": "bills", "flag_6": "false"};
-	$.get("http://localhost/myhw8/loadInfo.php", send_data_6, function (receive_data) {
-		$scope.oJson_6 = eval("(" + receive_data + ")");
+	$.get("http://localhost:3000/newBills", {}, function (receive_data) {
+		$scope.oJson_6 = receive_data;
 	});
 
 
@@ -174,10 +171,10 @@ function MainController($scope) {
 	for (var i = 0; i < $scope.oJson_2.count; i++) {
 		$scope.committeesInfo.push($scope.oJson_2.results[i]);
 	}
-	for (var i = 0; i < 50; i++) {
+	for (var i = 0; i < $scope.oJson_5.count; i++) {
 		$scope.activeBillsInfo.push($scope.oJson_5.results[i]);
 	}
-	for (var i = 0; i < 50; i++) {
+	for (var i = 0; i < $scope.oJson_6.count; i++) {
 		$scope.newBillsInfo.push($scope.oJson_6.results[i]);
 	}
 
@@ -269,7 +266,6 @@ function MainController($scope) {
 		}
 	}
 
-
 	$scope.isCommitteeInFav = function () {
 		for (var i = 0; i < localStorage.length; i++) {
 			if(this.info.committee_id == localStorage.key(i)) {
@@ -278,27 +274,6 @@ function MainController($scope) {
 		}
 		return false;
 	}
-
-	for (var i = 0; i < $scope.oJson.count; i++) {
-		if ($scope.congressInfo[i].district == null) {
-			$scope.congressInfo[i].district = "N.A";
-		}
-		if ($scope.congressInfo[i].chamber == "senate") {
-			$scope.congressInfo[i].chamber = "Senate";
-		} else {
-			$scope.congressInfo[i].chamber = "House";
-		}
-	}
-	for (var i = 0; i < $scope.oJson_2.count; i++) {
-		if ($scope.committeesInfo[i].chamber == "senate") {
-			$scope.committeesInfo[i].chamber = "Senate";
-		} else if ($scope.committeesInfo[i].chamber == "house") {
-			$scope.committeesInfo[i].chamber = "House";
-		} else {
-			$scope.committeesInfo[i].chamber = "Joint";
-		}
-	}
-
 
 	function formatDate(iso8601) {
 		var MM = ["Jan.", "Feb.","Mar.","Apr.","May","Jun.","Jul.","Aug.","Sept.","Oct.","Nov.", "Dec."]

@@ -32,10 +32,10 @@
          "withdrawn_cosponsors": 0,
          "primary_subject": "Health",
          "committees": "House Ways and Means Committee",
-         "committee_codes": ["HSWM","HSIF"],
+         "committee_codes": ["HSIF","HSWM"],
          "subcommittee_codes": [],
-         "latest_major_action_date": "2017-11-02",
-         "latest_major_action": "Rule H. Res. 601 passed House.",
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
          "last_vote_date": "2017-11-03",
          "house_passage_vote": "2017-11-03",
          "senate_passage_vote": null,
@@ -45,6 +45,83 @@
 ],
          "actions":[
          {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "On passage Passed by the Yeas and Nays: 242 - 174 (Roll no. 606)."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 231 (Roll no. 605)."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the Clyburn motion to recommit with instructions pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike all after the enacting clause and insert a complete new text entitled 'Continuing Community Health and Medical Professional Programs to Improve Our Nation and Keep Insurance Delivery Stable Act of 2017'. Subsequently, the reservation was removed."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "Mr. Clyburn moved to recommit with instructions to the Committee on Energy and Commerce."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3922."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "Rule provides for consideration of H.R. 3922 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-03",
+           "description": "Considered under the provisions of rule H. Res. 601."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-11-02",
+           "description": "Rule H. Res. 601 passed House."
+         },
+                  {
            "id": 7,
            "chamber": "House",
            "action_type": "Floor",

@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4237-115",
+         "bill_slug": "hr4237",
+         "congress": "115",
+         "bill": "H.R.4237",
+         "bill_type": "hr",
+         "number": "H.R.4237",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4237.json",
+         "title": "To prohibit United States assistance to foreign countries that oppose the position of the United States in the United Nations.",
+         "short_title": "To prohibit United States assistance to foreign countries that oppose the position of the United States in the United Nations.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Louie Gohmert",
+         "sponsor_id": "G000552",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000552.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4237",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4237",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on Foreign Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

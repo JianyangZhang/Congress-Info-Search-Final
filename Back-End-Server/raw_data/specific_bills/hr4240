@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4240-115",
+         "bill_slug": "hr4240",
+         "congress": "115",
+         "bill": "H.R.4240",
+         "bill_type": "hr",
+         "number": "H.R.4240",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4240.json",
+         "title": "To protect Second Amendment rights, ensure that all individuals who should be prohibited from buying a firearm are listed in the National Instant Criminal Background Check System, and provide a responsible and consistent background check process.",
+         "short_title": "To protect Second Amendment rights, ensure that all individuals who should be prohibited from buying a firearm are listed in the National Instant Criminal Background Check System, and provide a responsible and consistent background check process.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Thompson",
+         "sponsor_id": "T000460",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000460.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4240",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4240",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "cosponsors_by_party": {"R":1},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on the Judiciary.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

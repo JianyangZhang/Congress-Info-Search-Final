@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4241-115",
+         "bill_slug": "hr4241",
+         "congress": "115",
+         "bill": "H.R.4241",
+         "bill_type": "hr",
+         "number": "H.R.4241",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4241.json",
+         "title": "To direct the Secretary of Transportation to carry out a pilot program to improve transportation planning, and for other purposes.",
+         "short_title": "To direct the Secretary of Transportation to carry out a pilot program to improve transportation planning, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Elizabeth Esty",
+         "sponsor_id": "E000293",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/E000293.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CT",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4241",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4241",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "cosponsors_by_party": {"D":1,"R":2},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on Transportation and Infrastructure.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

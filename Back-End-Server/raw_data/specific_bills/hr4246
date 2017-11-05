@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4246-115",
+         "bill_slug": "hr4246",
+         "congress": "115",
+         "bill": "H.R.4246",
+         "bill_type": "hr",
+         "number": "H.R.4246",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4246.json",
+         "title": "To amend the Mineral Leasing Act to create a buffer in between oil and gas drilling operations and homes, businesses, schools, and other buildings that require special protection, and for other purposes.",
+         "short_title": "To amend the Mineral Leasing Act to create a buffer in between oil and gas drilling operations and homes, businesses, schools, and other buildings that require special protection, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Nanette Barragán",
+         "sponsor_id": "B001300",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001300.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4246",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4246",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "cosponsors_by_party": {"D":8},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the House Committee on Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

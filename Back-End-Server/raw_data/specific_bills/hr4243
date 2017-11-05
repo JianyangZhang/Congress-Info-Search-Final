@@ -1,0 +1,60 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr4243-115",
+         "bill_slug": "hr4243",
+         "congress": "115",
+         "bill": "H.R.4243",
+         "bill_type": "hr",
+         "number": "H.R.4243",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4243.json",
+         "title": "To establish a commission for the purpose of making recommendations regarding the modernization or realignment of facilities of the Veterans Health Administration, to improve construction and management leases of the Department of Veterans Affairs, to amend and appropriate funds for the Veterans Choice Program, and for other purposes.",
+         "short_title": "To establish a commission for the purpose of making recommendations regarding the modernization or realignment of facilities of the Veterans Health Administration, to improve construction and management leases of the Department of Veterans Affairs, to ame",
+         "sponsor_title": "Rep.",
+         "sponsor": "Phil Roe",
+         "sponsor_id": "R000582",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000582.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4243",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4243",
+         "introduced_date": "2017-11-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 12,
+         "cosponsors_by_party": {"R":12},
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "House Appropriations Committee",
+         "committee_codes": ["HSVR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-11-03",
+         "latest_major_action": "Referred to the Committee on Veterans&#39; Affairs, and in addition to the Committees on Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-11-03",
+           "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}
