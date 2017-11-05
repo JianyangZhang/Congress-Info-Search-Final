@@ -1,5 +1,6 @@
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
-*The old API has been officially shut down*
+
+***The old API has been officially shut down***
 
 `Video Demo:`https://youtu.be/CiRaqp1XqjM<br/>
 `Android Version:`https://github.com/JianyangZhang/Congress-Info-Search-Android-Version<br/>
