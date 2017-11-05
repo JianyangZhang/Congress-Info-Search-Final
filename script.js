@@ -234,7 +234,6 @@ function MainController($scope) {
 		pushFavLegislators();
 		pushFavBills();
 		pushFavCommittees();
-		// console.log($scope.favCommitteesInfo);
 		$scope.$apply();
 	});
 
