@@ -1,3 +1,5 @@
+Working on hosting my own Node.js Server...
+
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
 
 ***The old API has been officially shut down***
