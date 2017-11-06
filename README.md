@@ -1,4 +1,14 @@
-Working on hosting my own Node.js Server...
+Working on hosting my own Node.js Server...<br/>
+**Current APIs:**
+```
+/legislators
+/newBills
+/activeBills
+/committees
+/committees/{member_id}/{num}
+/bills/{member_id}/{num}
+/bills/{bill_id}
+```
 
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
 
