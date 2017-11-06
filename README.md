@@ -1,13 +1,13 @@
 Working on hosting my own Node.js Server...<br/>
 **Current APIs:**
 ```
-/legislators
-/newBills
-/activeBills
-/committees
-/committees/{member_id}/{num}
-/bills/{member_id}/{num}
-/bills/{bill_id}
+congress-tracker/legislators
+congress-tracker/newBills
+congress-tracker/activeBills
+congress-tracker/committees
+congress-tracker/committees/{member_id}/{num}
+congress-tracker/bills/{member_id}/{num}
+congress-tracker/bills/{bill_id}
 ```
 
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
