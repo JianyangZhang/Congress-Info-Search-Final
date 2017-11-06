@@ -1,0 +1,15 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "id": "H001078",
+         "member_uri": "https://api.propublica.org/congress/v1/members/H001078.json",
+         "name": "Karen Handel",
+         "num_results": 0,
+         "offset": 0,
+         "bills": [
+]
+      }
+   ]
+}

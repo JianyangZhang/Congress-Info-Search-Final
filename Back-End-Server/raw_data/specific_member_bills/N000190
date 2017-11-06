@@ -1,0 +1,15 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "id": "N000190",
+         "member_uri": "https://api.propublica.org/congress/v1/members/N000190.json",
+         "name": "Ralph Norman",
+         "num_results": 0,
+         "offset": 0,
+         "bills": [
+]
+      }
+   ]
+}

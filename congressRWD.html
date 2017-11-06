@@ -15,8 +15,8 @@
 					<i class="fa fa-bars fa-lg black" aria-hidden="true"></i>
 				</a>
 				<div id="titleCenter">
-					<a href="http://sunlightfoundation.com/" target="_blank">
-						<img id="logoImg" src="http://cs-server.usc.edu:45678/hw/hw8/images/logo.png" onerror="this.src='./img/logo.png';" alt="logo" />
+					<a href="https://github.com/JianyangZhang" target="_blank">
+						<img id="logoImg" src="./img/titlelogo.png" alt="logo" />
 					</a>
 					<span id="text1">Congress API</span>
 				</div>
@@ -78,7 +78,7 @@
 																<td style="width:18%">Name</td>
 																<td style="width:18%">Chamber</td>
 																<td style="width:15%">State</td>
-																<td style="width:13%">Votes</td>
+																<td style="width:13%">Birthday</td>
 																<td style="width:12%; padding-left:3vw"></td>
 															</tr>
 															<tr dir-paginate="info in congressInfo | orderBy:col:desc | filter:b:true | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust1">
@@ -90,7 +90,7 @@
 																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
 																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
 																<td>{{info.state_name}}</td>
-																<td>{{info.total_votes}}</td>
+																<td>{{info.date_of_birth}}</td>
 																<td><button ng-click="generateDetails_l()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
 															</tr>
 														</tbody>
@@ -131,7 +131,7 @@
 																<td style="width:18%">Name</td>
 																<td style="width:18%">Chamber</td>
 																<td style="width:15%">State</td>
-																<td style="width:13%">Votes</td>
+																<td style="width:13%">Birthday</td>
 																<td style="width:12%; padding-left:3vw"></td>
 															</tr>
 															<tr dir-paginate="info in congressInfo | orderBy:col:desc | filter:h:true | filter:q | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust2">
@@ -143,7 +143,7 @@
 																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
 																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
 																<td>{{info.state_name}}</td>
-																<td>{{info.total_votes}}</td>
+																<td>{{info.date_of_birth}}</td>
 																<td><button ng-click="generateDetails_l()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
 															</tr>
 														</tbody>
@@ -181,7 +181,7 @@
 																<td style="width:18%">Name</td>
 																<td style="width:18%">Chamber</td>
 																<td style="width:15%">State</td>
-																<td style="width:13%">Votes</td>
+																<td style="width:13%">Birthday</td>
 																<td style="width:12%; padding-left:3vw"></td>
 															</tr>
 															<tr dir-paginate="info in congressInfo | orderBy:col:desc | filter:s:true | filter:p | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust3">
@@ -193,7 +193,7 @@
 																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
 																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
 																<td>{{info.state_name}}</td>
-																<td>{{info.total_votes}}</td>
+																<td>{{info.date_of_birth}}</td>
 																<td><button ng-click="generateDetails_l()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
 															</tr>
 														</tbody>
@@ -225,9 +225,9 @@
 																	<table class="table table-hover subTable">
 																		<tbody>
 																			<tr><td>{{targetName}}</td></tr>
-																			<tr><td ng-if="targetEmail!='N.A'"><a href="mailto:{{targetEmail}}">{{targetEmail}}</a></td><td ng-if="targetEmail=='N.A'">N.A</td></tr>
+																			<tr><td><a target="_blank" href={{targetContactForm}}>Offical Contact Form</a></td></tr>
 																			<tr><td>Chamber: {{targetChamber}}</td></tr>
-																			<tr><td>Contact: <a href="tel:{{targetContact}}">{{targetContact}}</a></td></tr>
+																			<tr><td>Phone: <a href="tel:{{targetContact}}">{{targetContact}}</a></td></tr>
 																			<tr>
 																				<td ng-if="targetParty=='R'" style="padding-top:0.8vw"><img class="imgR" src="http://cs-server.usc.edu:45678/hw/hw8/images/r.png" onerror="this.src='./img/r.png';" alt="r" />  Democrat</td>
 																				<td ng-if="targetParty=='D'" style="padding-top:0.8vw"><img class="imgD" src="http://cs-server.usc.edu:45678/hw/hw8/images/d.png" onerror="this.src='./img/d.png';" alt="d" />  Republican</td>
@@ -237,22 +237,22 @@
 																	</table>
 																</td>
 															</tr>
-															<tr><td class="tdStyle">Start Term</td><td>{{targetStartTerm}}</td></tr>
-															<tr><td class="tdStyle">End Term</td><td>{{targetEndTerm}}</td></tr>
+															<tr><td class="tdStyle">Total Votes</td><td>{{targetVotes}}</td></tr>
+															<tr><td class="tdStyle">Term End</td><td>{{targetEndTerm}}</td></tr>
 															<tr>
-																<td class="tdStyle">Term</td>
+																<td class="tdStyle">Term Percent</td>
 																<td><uib-progressbar animate="false" value="termPercent" type="success"><b>{{termPercent}}%</b></uib-progressbar></td>
 															</tr>
 															<tr><td class="tdStyle">Office</td><td>{{targetOffice}}</td></tr>
 															<tr><td class="tdStyle">State</td><td>{{targetState}}</td></tr>
+															<tr><td class="tdStyle">State Rank</td><td>{{targetStateRank}}</td></tr>
 															<tr><td class="tdStyle">Fax</td><td ng-if="targetFax!='N.A'"><a href="tel:{{targetFax}}">{{targetFax}}</a></td><td ng-if="targetFax=='N.A'">N.A</td></tr>
-															<tr><td class="tdStyle">Birthday</td><td>{{targetBirthday}}</td></tr>
 															<tr class="socialImg">
 																<td class="tdStyle">Social Links</td>
 																<td>
-																	<a target="_blank" href={{targetTwitter}} ng-if="targetTwitter!='N.A'"><img src="http://cs-server.usc.edu:45678/hw/hw8/images/t.png" onerror="this.src='./img/t.png';" alt="twitter" /></a>
-																	<a target="_blank" href={{targetFacebook}} ng-if="targetFacebook!='N.A'"><img src="http://cs-server.usc.edu:45678/hw/hw8/images/f.png" onerror="this.src='./img/f.png';" alt="facebook" /></a>
-																	<a target="_blank" href={{targetWebsite}} ng-if="targetWebsite!='N.A'"><img src="http://cs-server.usc.edu:45678/hw/hw8/images/w.png" onerror="this.src='./img/w.png';" alt="website" /></a>
+																	<a target="_blank" href={{targetTwitter}} ng-if="targetTwitter!='N.A'"><img src="./img/t.png" alt="twitter" /></a>
+																	<a target="_blank" href={{targetFacebook}} ng-if="targetFacebook!='N.A'"><img src="./img/f.png" alt="facebook" /></a>
+																	<a target="_blank" href={{targetYoutube}} ng-if="targetYoutube!='N.A'"><img src="./img/yub.svg" alt="youtube" /></a>
 																</td>
 															</tr>
 														</tbody>
@@ -265,8 +265,8 @@
 															<tr><th class="tdStyle_2">Chamber</th><th class="tdStyle_2">Committee ID</th><th>Name</th></tr>
 														</thead>
 														<tbody>
-															<tr ng-repeat="info in targetCommittees | limitTo:5">
-																<td>{{info.chamber}}</td><td>{{info.committee_id}}</td><td>{{info.name}}</td>
+															<tr ng-repeat="info in targetCommittees">
+																<td>{{info.chamber}}</td><td>{{info.committeeID}}</td><td>{{info.committeeName}}</td>
 															</tr>
 														</tbody>
 													</table>

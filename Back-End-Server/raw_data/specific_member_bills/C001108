@@ -1,0 +1,83 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "id": "C001108",
+         "member_uri": "https://api.propublica.org/congress/v1/members/C001108.json",
+         "name": "James Comer",
+         "num_results": 2,
+         "offset": 0,
+         "bills": [
+              {
+                "congress": "115",
+                "bill_id": "hr4182-115",
+                "bill_type": "hr",
+                "number": "H.R.4182",
+                "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr4182.json",
+                "title": "To amend title 5, United States Code, to modify probationary periods with respect to positions within the competitive service and the Senior Executive Service, and for other purposes.",
+                "short_title": "EQUALS Act of 2017",
+                
+                
+                "sponsor_title": "Rep.",
+                "sponsor_id": "C001108",
+                "sponsor_name": "James Comer",
+                "sponsor_state": "KY",
+                "sponsor_party": "R",
+                "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001108.json",
+                "gpo_pdf_uri": null,
+                "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4182",
+                "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr4182",
+                "introduced_date": "2017-10-31",
+                "active": false,
+                "house_passage": null,
+                "senate_passage": null,
+                "enacted": null,
+                "vetoed": null,
+                "cosponsors": 3,
+                "cosponsors_by_party": {"R":3},
+                "committees": "House Oversight and Government Reform Committee",
+                "primary_subject": "",
+                "summary": "",
+                "summary_short": "",
+                "latest_major_action_date": "2017-11-02",
+                "latest_major_action": "Ordered to be Reported by the Yeas and Nays: 19 - 17."
+              },
+                           {
+                "congress": "115",
+                "bill_id": "hr3530-115",
+                "bill_type": "hr",
+                "number": "H.R.3530",
+                "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3530.json",
+                "title": "To amend the Controlled Substances Act to exclude industrial hemp from the definition of marihuana, and for other purposes.",
+                "short_title": "Industrial Hemp Farming Act of 2017",
+                
+                
+                "sponsor_title": "Rep.",
+                "sponsor_id": "C001108",
+                "sponsor_name": "James Comer",
+                "sponsor_state": "KY",
+                "sponsor_party": "R",
+                "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001108.json",
+                "gpo_pdf_uri": null,
+                "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3530",
+                "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3530",
+                "introduced_date": "2017-07-28",
+                "active": false,
+                "house_passage": null,
+                "senate_passage": null,
+                "enacted": null,
+                "vetoed": null,
+                "cosponsors": 33,
+                "cosponsors_by_party": {"R":14,"D":19},
+                "committees": "House Judiciary Committee",
+                "primary_subject": "Crime and Law Enforcement",
+                "summary": "",
+                "summary_short": "",
+                "latest_major_action_date": "2017-09-06",
+                "latest_major_action": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+              }
+             ]
+      }
+   ]
+}

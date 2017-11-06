@@ -1,0 +1,49 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "id": "G000585",
+         "member_uri": "https://api.propublica.org/congress/v1/members/G000585.json",
+         "name": "Jimmy Gomez",
+         "num_results": 1,
+         "offset": 0,
+         "bills": [
+              {
+                "congress": "115",
+                "bill_id": "hr3587-115",
+                "bill_type": "hr",
+                "number": "H.R.3587",
+                "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3587.json",
+                "title": "To provide for the collection and assessment of intelligence regarding the efforts of foreign powers to gain influence through the financial interests of the President and close family members and associates of the President.",
+                "short_title": "BRIBE Act of 2017",
+                
+                
+                "sponsor_title": "Rep.",
+                "sponsor_id": "G000585",
+                "sponsor_name": "Jimmy Gomez",
+                "sponsor_state": "CA",
+                "sponsor_party": "D",
+                "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000585.json",
+                "gpo_pdf_uri": null,
+                "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3587",
+                "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3587",
+                "introduced_date": "2017-07-28",
+                "active": false,
+                "house_passage": null,
+                "senate_passage": null,
+                "enacted": null,
+                "vetoed": null,
+                "cosponsors": 0,
+                "cosponsors_by_party": {},
+                "committees": "House Intelligence (Permanent) Committee",
+                "primary_subject": "Armed Forces and National Security",
+                "summary": "",
+                "summary_short": "",
+                "latest_major_action_date": "2017-07-28",
+                "latest_major_action": "Referred to the House Committee on Intelligence (Permanent Select)."
+              }
+             ]
+      }
+   ]
+}

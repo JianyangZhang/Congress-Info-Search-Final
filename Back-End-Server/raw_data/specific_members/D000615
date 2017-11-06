@@ -51,14 +51,24 @@
            "votes_with_party_pct": 96.59,
            "committees": [
            {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSIF.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 31,
+             "begin_date": "",
+             "end_date": "2019-01-03"
+           },
+           {
              "name": "Committee on Foreign Affairs",
              "code": "HSFA",
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 11,
+             "rank_in_party": null,
              "begin_date": "",
-             "end_date": "2019-01-03"
+             "end_date": "2017-11-06"
            },
            {
              "name": "Committee on Homeland Security",
@@ -66,9 +76,9 @@
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 5,
+             "rank_in_party": null,
              "begin_date": "",
-             "end_date": "2019-01-03"
+             "end_date": "2017-11-06"
            }
            ],
            "subcommittees": [
@@ -78,10 +88,10 @@
              "parent_committee_id": "HSFA",
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA07.json",
              "side": "majority",
-             "title": "Chair",
-             "rank_in_party": 1,
+             "title": "Member",
+             "rank_in_party": null,
              "begin_date": "",
-             "end_date": "2019-01-03"
+             "end_date": "2017-11-06"
            },
            {
              "name": "Europe, Eurasia, and Emerging Threats",
@@ -90,9 +100,9 @@
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA/subcommittees/HSFA14.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 5,
+             "rank_in_party": null,
              "begin_date": "",
-             "end_date": "2019-01-03"
+             "end_date": "2017-11-06"
            },
            {
              "name": "Oversight and Management Efficiency",
@@ -101,9 +111,9 @@
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM09.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 2,
+             "rank_in_party": null,
              "begin_date": "",
-             "end_date": "2019-01-03"
+             "end_date": "2017-11-06"
            },
            {
              "name": "Border and Maritime Security",
@@ -112,9 +122,9 @@
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM/subcommittees/HSHM11.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 4,
+             "rank_in_party": null,
              "begin_date": "",
-             "end_date": "2019-01-03"
+             "end_date": "2017-11-06"
            }
            ]
          },

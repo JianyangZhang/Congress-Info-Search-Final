@@ -76,7 +76,7 @@
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSFA.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 24,
+             "rank_in_party": 23,
              "begin_date": "",
              "end_date": "2019-01-03"
            }

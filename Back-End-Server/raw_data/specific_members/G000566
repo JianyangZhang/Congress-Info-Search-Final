@@ -124,6 +124,17 @@
              "rank_in_party": 5,
              "begin_date": "",
              "end_date": "2019-01-03"
+           },
+           {
+             "name": "Courts, Intellectual Property, and the Internet",
+             "code": "HSJU03",
+             "parent_committee_id": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSJU/subcommittees/HSJU03.json",
+             "side": "majority",
+             "title": "Member",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2019-01-03"
            }
            ]
          },

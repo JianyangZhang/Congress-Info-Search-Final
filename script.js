@@ -3,6 +3,10 @@ var theKey = 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ';
 var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination','ngAnimate', 'ngSanitize', 'ui.bootstrap']);
 
 function MainController($scope) {
+	/*
+	var dt = new Date()
+	alert(dt.getFullYear()+"_"+(dt.getMonth() + 1)+"_"+dt.getDate());
+	*/
 	$scope.oJson = ""; //legislators
 	$scope.oJson_2 = ""; // committees
 	$scope.oJson_3 = ""; // targetCommittees
@@ -22,19 +26,20 @@ function MainController($scope) {
 	$scope.targetID = "-------";
 	$scope.targetPhoto = "-------";
 	$scope.targetName = "-------";
-	$scope.targetEmail = "-------";
+	$scope.targetContactForm = "-------";
 	$scope.targetChamber = "-------";
 	$scope.targetContact = "-------";
 	$scope.targetParty = "-------";
-	$scope.targetStartTerm = "-------";
+	$scope.targetVotes = "-------";
 	$scope.targetEndTerm = "-------";
 	$scope.termPercent = "-------";
 	$scope.targetOffice = "-------";
 	$scope.targetState = "-------";
+	$scope.targetStateRank = "-------";
 	$scope.targetFax = "-------";
-	$scope.targetBirthday = "-------";
 	$scope.targetTwitter = "-------";
 	$scope.targetFacebook = "-------";
+	$scope.targetYoutube = "------"
 
 	$scope.selectedBillID = "-------";
 	$scope.selectedTitle = "-------";
@@ -53,11 +58,7 @@ function MainController($scope) {
 		$scope.targetID = this.info.bioguide_id;
 		$scope.targetPhoto = "http://theunitedstates.io/images/congress/225x275/" + this.info.bioguide_id + ".jpg";
 		$scope.targetName = this.info.title + ". " + this.info.last_name + ", " + this.info.first_name;
-		if (this.info.oc_email && this.info.oc_email != null) {
-			$scope.targetEmail = this.info.oc_email;
-		} else {
-			$scope.targetEmail = "N.A";
-		}
+		$scope.targetContactForm = this.info.contact_form;
 		$scope.targetChamber = this.info.chamber;
 		if ($scope.targetChamber == "house") {
 			$scope.targetChamber == "House";
@@ -66,37 +67,44 @@ function MainController($scope) {
 		}
 		$scope.targetContact = this.info.phone;
 		$scope.targetParty = this.info.party;
-		$scope.targetStartTerm = formatDate(this.info.term_start);
-		$scope.targetEndTerm = formatDate(this.info.term_end);
+		$scope.targetVotes = this.info.total_votes;
+		$scope.targetEndTerm = this.info.next_election;
 		var oDate = new Date();
-		$scope.termPercent = (oDate.getTime() - Date.parse(this.info.term_start)) / (Date.parse(this.info.term_end) - Date.parse(this.info.term_start)) * 100;
-		$scope.termPercent = parseInt($scope.termPercent);
+		if ($scope.targetChamber == "Senate") {
+			$scope.termPercent = parseInt((($scope.targetEndTerm - oDate.getFullYear()) / 6) * 100);
+		} else {
+			$scope.termPercent = parseInt((($scope.targetEndTerm - oDate.getFullYear()) / 2) * 100);
+		}
 		$scope.targetOffice = this.info.office;
 		$scope.targetState = this.info.state_name;
+		if (this.info.state_rank && this.info.state_rank != null) {
+			$scope.targetStateRank = this.info.state_rank;
+		} else {
+			$scope.targetStateRank = "N.A";
+		}
 		if (this.info.fax && this.info.fax != null) {
 			$scope.targetFax = this.info.fax;
 		} else {
 			$scope.targetFax = "N.A";
 		}
-		$scope.targetBirthday = formatDate(this.info.birthday);
-		if (this.info.twitter_id && this.info.twitter_id != null) {
-			$scope.targetTwitter = "http://twitter.com/" + this.info.twitter_id;
+		if (this.info.twitter_account && this.info.twitter_account != null) {
+			$scope.targetTwitter = "http://twitter.com/" + this.info.twitter_account;
 		} else {
 			$scope.targetTwitter = "N.A";
 		}
-		if (this.info.facebook_id && this.info.facebook_id != null) {
-			$scope.targetFacebook = "http://facebook.com/" + this.info.facebook_id;
+		if (this.info.facebook_account && this.info.facebook_account != null) {
+			$scope.targetFacebook = "http://facebook.com/" + this.info.facebook_account;
 		} else {
 			$scope.targetFacebook = "N.A";
 		}
-		if (this.info.website && this.info.website != null) {
-			$scope.targetWebsite = this.info.website;
+		if (this.info.youtube_account && this.info.youtube_account != null) {
+			$scope.targetYoutube = "http://youtube.com/" + this.info.youtube_account;
 		} else {
-			$scope.targetWebsite = "N.A";
+			$scope.targetYoutube = "N.A";
 		}
-		var send_data_3 = {"dataBase": "committees", "flag_3": $scope.targetID};
-		$.get("http://localhost/myhw8/loadInfo.php", send_data_3, function (receive_data) {
-			$scope.oJson_3 = eval("(" + receive_data + ")");
+
+		$.get("http://localhost:3000/committees/" + $scope.targetID + "/5", {}, function (receive_data) {
+			$scope.oJson_3 = receive_data;
 		});
 		$scope.targetCommittees = [];
 		for (var i = 0; i < $scope.oJson_3.count; i++) {
@@ -110,6 +118,7 @@ function MainController($scope) {
 		for (var i = 0; i < $scope.oJson_4.count; i++) {
 			$scope.targetBills.push($scope.oJson_4.results[i]);
 		}
+
 		if (localStorage.getItem($scope.targetID)) {
 			$("#favIcon_legislators").attr("class", "fa fa-star fa-lg setYellow");
 		} else {

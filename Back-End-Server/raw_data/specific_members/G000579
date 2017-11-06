@@ -66,7 +66,7 @@
              "api_uri": "https://api.propublica.org/congress/v1/115/house/committees/HSHM.json",
              "side": "majority",
              "title": "Member",
-             "rank_in_party": 13,
+             "rank_in_party": 12,
              "begin_date": "",
              "end_date": "2019-01-03"
            }

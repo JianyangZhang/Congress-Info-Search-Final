@@ -1,3 +1,4 @@
+/* drop MongoDB collections, use it before setupMongoDB.js */
 var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
 var ObjectId = require('mongodb').ObjectID;
@@ -44,6 +45,15 @@ MongoClient.connect(url, function(err, db) {
   db.collection("committees").drop(function(err, delOK) {
     if (err) throw err;
     if (delOK) console.log("Collection committees dropped");
+    db.close();
+  });
+});
+
+MongoClient.connect(url, function(err, db) {
+  if (err) { throw err; }
+  db.collection("member-bills-sp").drop(function(err, delOK) {
+    if (err) throw err;
+    if (delOK) console.log("Collection member-bills-sp dropped");
     db.close();
   });
 });
