@@ -6,8 +6,8 @@ congress-tracker/newBills
 congress-tracker/activeBills
 congress-tracker/committees
 congress-tracker/committees/{member_id}/{num}
-congress-tracker/bills/{member_id}/{num}
 congress-tracker/bills/{bill_id}
+congress-tracker/bills/{member_id}/{num}
 ```
 
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
