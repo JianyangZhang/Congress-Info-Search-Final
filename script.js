@@ -61,6 +61,7 @@ function MainController($scope) {
 		$scope.targetName = this.info.title + ". " + this.info.last_name + ", " + this.info.first_name;
 		$scope.targetContactForm = this.info.contact_form;
 		$scope.targetChamber = this.info.chamber;
+		$scope.targetBirth = this.info.date_of_birth;
 		if ($scope.targetChamber == "house") {
 			$scope.targetChamber == "House";
 		} else {
@@ -152,7 +153,7 @@ function MainController($scope) {
 		$scope.selectedGovUrl = this.info.govtrack_url;
 		$scope.selectedState = this.info.sponsor_state;
 		$scope.selectedLastMajorAction = this.info.latest_major_action;
-		$scope.selectedLastMajorActionDate = this.info.latest_major_action_date;	
+		$scope.selectedLastMajorActionDate = this.info.latest_major_action_date;
 
 		if (localStorage.getItem($scope.selectedBillID)) {
 			$("#favIcon_bills").attr("class", "fa fa-star fa-lg setYellow");
@@ -215,11 +216,11 @@ function MainController($scope) {
 
 	$scope.favBtn_committees = function () {
 		var concateId = "#favIcon_committees_" + this.$index;
-		if (!localStorage.getItem(this.info.committee_id)) {
-			localStorage.setItem(this.info.committee_id, JSON.stringify(this.info));
+		if (!localStorage.getItem(this.info.id)) {
+			localStorage.setItem(this.info.id, JSON.stringify(this.info));
 			$(concateId).attr("class", "fa fa-star fa-lg setYellow");
 		} else {
-			localStorage.removeItem(this.info.committee_id);
+			localStorage.removeItem(this.info.id);
 			$(concateId).attr("class", "fa fa-star-o fa-lg");
 		}
 	}
@@ -238,8 +239,8 @@ function MainController($scope) {
 	}
 
 	$scope.deleteCommittee = function () {
-		if (localStorage.getItem(this.info.committee_id)) {
-			localStorage.removeItem(this.info.committee_id);
+		if (localStorage.getItem(this.info.id)) {
+			localStorage.removeItem(this.info.id);
 			pushFavCommittees();
 		}
 	}
@@ -273,7 +274,7 @@ function MainController($scope) {
 		$scope.favCommitteesInfo = [];
 		for (var i = 0; i < localStorage.length; i++) {
 			var jsonObj = eval("(" + localStorage.getItem(localStorage.key(i)) + ")");
-			if (typeof jsonObj.committee_id != "undefined") {
+			if (typeof jsonObj.id != "undefined") {
 				$scope.favCommitteesInfo.push(jsonObj);
 			}
 		}
@@ -281,7 +282,7 @@ function MainController($scope) {
 
 	$scope.isCommitteeInFav = function () {
 		for (var i = 0; i < localStorage.length; i++) {
-			if(this.info.committee_id == localStorage.key(i)) {
+			if(this.info.id == localStorage.key(i)) {
 				return true;
 			}
 		}

@@ -43,8 +43,7 @@ a:focus {
 }
 
 #logoImg {
-	width: 4vw;
-	/*vertical-align: top;*/
+	width: 3.45vw;
 }
 
 #titleCenter {
@@ -56,7 +55,9 @@ a:focus {
 
 #text1 {
 	font-weight: bold;
-	font-size: 1.4vw;
+	font-size: 1.65vw;
+	font-family: "Impact";
+	line-height: 2.4vw;
 }
 
 #sideBar {
@@ -226,13 +227,13 @@ a:focus {
 }
 
 #byState td, #house td, #senate td, #pickedHouse td, #pickedSenate td, #pickedJoint td,
-#favLegislators td, #favBills td, #favCommittees td {
+#favLegislators td, #favCommittees td {
 	padding: 0.05vw;
 	font-size: 0.85vw;
 	line-height: 2.4vw;
 }
 
-#activeBills td, #newBills td {
+#activeBills td, #newBills td, #favBills td {
 	padding: 0.05vw;
 	font-size: 0.85vw;
 	line-height: 2vw;
@@ -355,7 +356,8 @@ a:focus {
 }
 
 #billsCarousel .tdStyle_4 {
-	min-width: 25%;
+	min-width: 35%;
+	font-weight: bold;
 }
 
 #targetPhoto {
@@ -376,7 +378,7 @@ a:focus {
 }
 
 .setYellow {
-	color: yellow;
+	color: #ffb84d;
 }
 
 #favBtn_legislators i {

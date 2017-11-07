@@ -222,4 +222,4 @@ MongoClient.connect(url, function(err, db) {
   db.close();
 });
 
-console.log("大约legislators有547个，bills有76个, committees大约47个");
+console.log("大约legislators有547个，bills有76个, committees有47个");
