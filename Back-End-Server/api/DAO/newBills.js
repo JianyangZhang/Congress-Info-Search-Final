@@ -1,5 +1,5 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://localhost:27017/congressDB";
+var url = "mongodb://localhost:27017/CongressTrackerDB";
 
 module.exports = {
   get: function (callback) {

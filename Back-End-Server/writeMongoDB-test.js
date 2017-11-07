@@ -1,7 +1,7 @@
 var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
 var ObjectId = require('mongodb').ObjectID;
-var url = 'mongodb://localhost:27017/congressDB';
+var url = 'mongodb://localhost:27017/CongressTrackerDB';
 
 var insertOneDocument = function(db, oCollection, oDocument, callback) { // actually an upsert operation
    db.collection(oCollection).updateOne({_id:oDocument._id}, oDocument, {upsert:true}, function(err, result) {
@@ -127,24 +127,28 @@ MongoClient.connect(url, function(err, db) {
       var oDocument = recent_20_active_bills_of_house.results[0].bills[i];
       oDocument.chamber = "House";
       oDocument._id = oDocument.bill_id;
+      oDocument.sponsor_state = abbrState(oDocument.sponsor_state, "name");
       insertOneDocument(db, "bills", oDocument, function() {});
   }
   for (var i = 0; i < recent_20_active_bills_of_senate.results[0].num_results; i++) {
       var oDocument = recent_20_active_bills_of_senate.results[0].bills[i];
       oDocument.chamber = "Senate";
       oDocument._id = oDocument.bill_id;
+      oDocument.sponsor_state = abbrState(oDocument.sponsor_state, "name");
       insertOneDocument(db, "bills", oDocument, function() {});
   }
   for (var i = 0; i < recent_20_new_bills_of_house.results[0].num_results; i++) {
       var oDocument = recent_20_new_bills_of_house.results[0].bills[i];
       oDocument.chamber = "House";
       oDocument._id = oDocument.bill_id;
+      oDocument.sponsor_state = abbrState(oDocument.sponsor_state, "name");
       insertOneDocument(db, "bills", oDocument, function() {});
   }
   for (var i = 0; i < recent_20_new_bills_of_senate.results[0].num_results; i++) {
       var oDocument = recent_20_new_bills_of_senate.results[0].bills[i];
       oDocument.chamber = "Senate";
       oDocument._id = oDocument.bill_id;
+      oDocument.sponsor_state = abbrState(oDocument.sponsor_state, "name");
       insertOneDocument(db, "bills", oDocument, function() {});
   }
   for (var i = 0; i < all_committees_of_senate.results[0].num_results; i++) {

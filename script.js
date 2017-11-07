@@ -51,6 +51,7 @@ function MainController($scope) {
 	$scope.selectedCongressUrl = "-------";
 	$scope.selectedVersionName = "-------";
 	$scope.selectedPDF = "-------";
+	// $scope.iframeURL = "-------";
 
 	$.ajaxSetup({async: false});
 	$scope.generateDetails_l = function () {
@@ -110,9 +111,8 @@ function MainController($scope) {
 		for (var i = 0; i < $scope.oJson_3.count; i++) {
 			$scope.targetCommittees.push($scope.oJson_3.results[i]);
 		}
-		var send_data_4 = {"dataBase": "bills", "flag_4": $scope.targetID};
-		$.get("http://localhost/myhw8/loadInfo.php", send_data_4, function (receive_data) {
-			$scope.oJson_4 = eval("(" + receive_data + ")");
+		$.get("http://localhost:3000/bills/" + $scope.targetID + "/5", {}, function (receive_data) {
+			$scope.oJson_4 = receive_data;
 		});
 		$scope.targetBills = [];
 		for (var i = 0; i < $scope.oJson_4.count; i++) {
@@ -131,23 +131,28 @@ function MainController($scope) {
 	$scope.generateDetails_b = function () {
 		$scope.selectedInfo = this.info;
 		$scope.selectedBillID = this.info.bill_id;
-		$scope.selectedTitle = this.info.official_title;
 		$scope.selectedBillType = this.info.bill_type;
-		$scope.selectedSponsor = this.info.sponsor.title + ". " + this.info.sponsor.last_name + ", " + this.info.sponsor.first_name;
+		$scope.selectedTitle = this.info.title;
+		$scope.selectedShortTitle = this.info.short_title;
+		$scope.selectedSponsor = this.info.sponsor_title + " " + this.info.sponsor_name;
+		$scope.selectedCommittee = this.info.committees;
+		$scope.selectedParty = this.info.sponsor_party;
 		if (this.info.chamber == "house") {
 			$scope.selectedChamber = "House";
 		} else {
 			$scope.selectedChamber = "Senate";
 		}
-		if (this.info.history.active) {
+		if (this.info.active) {
 			$scope.selectedActivity = "Active";
 		} else {
 			$scope.selectedActivity = "New";
 		}
-		$scope.selectedIntroducedOn = formatDate(this.info.introduced_on);
-		$scope.selectedCongressUrl = this.info.urls.congress;
-		$scope.selectedVersionName = this.info.last_version.version_name;
-		$scope.selectedPDF = this.info.last_version.urls.pdf;
+		$scope.selectedIntroducedOn = this.info.introduced_date;
+		$scope.selectedCongressUrl = this.info.congressdotgov_url;
+		$scope.selectedGovUrl = this.info.govtrack_url;
+		$scope.selectedState = this.info.sponsor_state;
+		$scope.selectedLastMajorAction = this.info.latest_major_action;
+		$scope.selectedLastMajorActionDate = this.info.latest_major_action_date;	
 
 		if (localStorage.getItem($scope.selectedBillID)) {
 			$("#favIcon_bills").attr("class", "fa fa-star fa-lg setYellow");

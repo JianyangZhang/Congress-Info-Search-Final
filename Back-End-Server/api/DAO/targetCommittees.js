@@ -1,5 +1,5 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://localhost:27017/congressDB";
+var url = "mongodb://localhost:27017/CongressTrackerDB";
 
 module.exports = {
   get: function (id, num, callback) {
@@ -16,7 +16,6 @@ module.exports = {
 
 function dispose(result, num) {
     var disposedResult = [];
-    console.log(result);
     for (var i = 0; i < result.roles.length; i++) {
         for (var j = 0; j < result.roles[i].committees.length; j++) {
             disposedResult.push({

@@ -3,12 +3,14 @@ var activeBillsDAO = require('./DAO/activeBills.js');
 var newBillsDAO = require('./DAO/newBills.js');
 var committeesDAO = require('./DAO/committees.js');
 var targetCommitteesDAO = require('./DAO/targetCommittees.js');
+var targetMemberBillsDAO = require('./DAO/targetMemberBills.js');
+var targetBillDAO = require('./DAO/targetBill.js');
 
 var legislators;
 var activeBills;
 var newBills;
 var committees;
-var targetCommittees;
+
 legislatorsDAO.get(function(result) { legislators = result; });
 activeBillsDAO.get(function(result) { activeBills = result; });
 newBillsDAO.get(function(result) { newBills = result; });
@@ -61,5 +63,24 @@ app.get('/committees/:member_id/:num', function(req, res) {
         });
     });
 });
+
+app.get('/bills/:member_id/:num', function(req, res) {
+    var member_id = req.params.member_id;
+    var num = req.params.num;
+    targetMemberBillsDAO.get(member_id, num, function(targetMemberBills) {
+        res.send({
+            count: targetMemberBills.length,
+            results: targetMemberBills
+        });
+    });
+});
+
+app.get('/bills/:bill_id', function(req, res) {
+    var bill_id = req.params.bill_id;
+    targetBillDAO.get(bill_id, function(targetBill) {
+        res.send(targetBill);
+    });
+});
+
 
 app.listen(3000);

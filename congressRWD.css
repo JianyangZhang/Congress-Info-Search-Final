@@ -23,6 +23,12 @@ a:focus {
 	margin-bottom: 0vw;
 }
 
+#author {
+	float: right;
+	font-weight: bold;
+	font-size: 0.8vw;
+}
+
 .navbar {
 	min-height: 0;
 	height: 2.6vw;
@@ -54,7 +60,7 @@ a:focus {
 }
 
 #sideBar {
-	width: 15%;	
+	width: 15%;
 	position: fixed;
 	height: 100%;
 	background: #3D3C3E;
@@ -90,7 +96,7 @@ a:focus {
 	line-height: 300%;
 	text-align: left;
 	padding: 0.5vw 1vw;
-}	
+}
 
 #header a {
 	font-size: 0.85vw;
@@ -149,7 +155,7 @@ a:focus {
 }
 
 /*@media (max-width: 320px) {
-	
+
 }*/
 
 .my-controller {
@@ -166,7 +172,7 @@ a:focus {
 .tabMain {
 	font-size: 1vw;
 	background-color: #F4F3F4;
-	border-top-left-radius: 0.2vw;	
+	border-top-left-radius: 0.2vw;
 	border-top-right-radius: 0.2vw;
 	border: 2px solid #F4F3F4;
 }
@@ -199,7 +205,7 @@ a:focus {
 
 .dropdownBtn {
 	width: 8vw;
-	height: 2vw;	
+	height: 2vw;
 	font-size: 0.75vw;
 }
 
@@ -219,11 +225,17 @@ a:focus {
 	background-color: white;
 }
 
-#byState td, #house td, #senate td, #activeBills td, #newBills td, #pickedHouse td, #pickedSenate td, #pickedJoint td, 
+#byState td, #house td, #senate td, #pickedHouse td, #pickedSenate td, #pickedJoint td,
 #favLegislators td, #favBills td, #favCommittees td {
 	padding: 0.05vw;
 	font-size: 0.85vw;
-	line-height: 2.3vw;	
+	line-height: 2.4vw;
+}
+
+#activeBills td, #newBills td {
+	padding: 0.05vw;
+	font-size: 0.85vw;
+	line-height: 2vw;
 }
 
 .ng-binding, .ng-scope{
@@ -315,31 +327,31 @@ a:focus {
 }
 
 #legislatorsCarousel td {
-	padding: 0.45vw;	
-	font-size: 0.8vw;	
+	padding: 0.45vw;
+	font-size: 0.8vw;
 }
 
 #billsCarousel td {
-	padding: 0.6vw 0.45vw;	
+	padding: 0.6vw 0.45vw;
 	font-size: 0.9vw;
 }
 
 #legislatorsCarousel th, #billsCarousel th {
-	padding: 0.3vw;	
+	padding: 0.3vw;
 }
 
 #legislatorsCarousel .tdStyle {
-	font-weight: bold; 
-	min-width: 50%; 
+	font-weight: bold;
+	min-width: 50%;
 	padding-left: 5.5vw;
 }
 
 #legislatorsCarousel .tdStyle_2 {
-	min-width: 20%; 
+	min-width: 20%;
 }
 
 #legislatorsCarousel .tdStyle_3 {
-	min-width: 15%; 
+	min-width: 15%;
 }
 
 #billsCarousel .tdStyle_4 {
@@ -370,5 +382,3 @@ a:focus {
 #favBtn_legislators i {
 	font-size: 1.7em;
 }
-
-
