@@ -198,28 +198,40 @@ function readFiles(dirname, oCollection) {
     });
 }
 
-readFiles('./raw_data/specific_members/', "legislators-sp");
-readFiles('./raw_data/specific_bills/', "bills-sp");
-readFiles('./raw_data/specific_member_bills/', "member-bills-sp");
+async function readSp() {
+    readFiles('./raw_data/specific_members/', "legislators-sp");
+    readFiles('./raw_data/specific_bills/', "bills-sp");
+    readFiles('./raw_data/specific_member_bills/', "member-bills-sp");
+}
 
-MongoClient.connect(url, function(err, db) {
-  assert.equal(null, err);
-  for (var i = 0; i < specific_members.length; i++) {
-      var oDocument = specific_members[i];
-      oDocument._id = oDocument.member_id;
-      insertOneDocument(db, "legislators-sp", oDocument, function() {});
-  }
-  for (var i = 0; i < specific_bills.length; i++) {
-      var oDocument = specific_bills[i];
-      oDocument._id = oDocument.bill_id;
-      insertOneDocument(db, "bills-sp", oDocument, function() {});
-  }
-  for (var i = 0; i < specific_member_bills.length; i++) {
-      var oDocument = specific_member_bills[i];
-      oDocument._id = oDocument.id;
-      insertOneDocument(db, "member-bills-sp", oDocument, function() {});
-  }
-  db.close();
-});
+async function writeSp() {
+    MongoClient.connect(url, function(err, db) {
+      assert.equal(null, err);
+      for (var i = 0; i < specific_members.length; i++) {
+          var oDocument = specific_members[i];
+          oDocument._id = oDocument.member_id;
+          insertOneDocument(db, "legislators-sp", oDocument, function() {});
+      }
+      for (var i = 0; i < specific_bills.length; i++) {
+          var oDocument = specific_bills[i];
+          oDocument._id = oDocument.bill_id;
+          insertOneDocument(db, "bills-sp", oDocument, function() {});
+      }
+      for (var i = 0; i < specific_member_bills.length; i++) {
+          var oDocument = specific_member_bills[i];
+          oDocument._id = oDocument.id;
+          insertOneDocument(db, "member-bills-sp", oDocument, function() {});
+      }
+      db.close();
+    });
+}
 
-console.log("大约legislators有547个，bills有76个, committees有47个");
+function execSp() {
+    readSp().then(() => {
+        writeSp().then(() => {
+            console.log("legislators有547个，bills有76个, committees有47个");
+        });
+    });
+}
+
+execSp();
