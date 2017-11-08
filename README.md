@@ -1,14 +1,16 @@
 Working on hosting my own Node.js Server...<br/>
 **Current APIs:**
-```
-congress-tracker/legislators
-congress-tracker/newBills
-congress-tracker/activeBills
-congress-tracker/committees
-congress-tracker/committees/{member_id}/{num}
-congress-tracker/bills/{bill_id}
-congress-tracker/bills/{member_id}/{num}
-```
+
+|api                           |example                       |description                                                     |
+|------------------------------|------------------------------|----------------------------------------------------------------|
+|/legislators                  |/legislators |get all legislators' detailed information                       | 
+|/newBills                     |/newBills     |get 40 most recent new bills' information                       |
+|/activeBills                  |/activeBills  |get 40 most recent active bills' information                    | 
+|/committees                   |/committees   |get all committees' detailed information                        |
+|/committees/{member_id}/{num} |/committees/A000055/5 |get basic information of 5 committees that the legislator with ID *A000055* belongs to|
+|/bills/{bill_id}              |/bills/hr1074-115 |get detailed information of the bill with ID *hr1074-115*|
+|/bills/{member_id}/{num}      |/bills/B001250/10 |get basic information of 10 bills that the legislator with ID *B001250* belongs to|
+
 
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
 
