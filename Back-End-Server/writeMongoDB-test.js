@@ -226,12 +226,6 @@ async function writeSp() {
     });
 }
 
-function execSp() {
-    readSp().then(() => {
-        writeSp().then(() => {
-            console.log("legislators有547个，bills有76个, committees有47个");
-        });
-    });
-}
-
-execSp();
+readSp();
+writeSp();
+console.log("legislators有547个，bills有76个, committees有47个");
