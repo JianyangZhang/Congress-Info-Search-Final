@@ -696,24 +696,22 @@
 													<table class="table table-hover" style="background-color:white">
 														<tbody>
 															<tr style="font-weight:bold">
-																<td style="min-width:14%; padding-left:3vw"></td>
-																<td style="min-width:14%">Chamber</td>
-																<td style="min-width:14%">Committee ID</td>
-																<td style="min-width:30%">Name</td>
-																<td style="min-width:14%">Parent Committee</td>
-																<td style="min-width:14%">Sub Committee</td>
+																<td style="width:12%; padding-left:3vw"></td>
+																<td style="width:12%">Chamber</td>
+																<td style="width:12%">Committee ID</td>
+																<td style="width:28%">Name</td>
+																<td style="width:21%">Chair</td>
+																<td style="width:15%">State</td>
 															</tr>
 															<tr ng-repeat="info in favCommitteesInfo">
 																<td style="padding-left:3vw"><button id="rmBtn_committees" ng-click="deleteCommittee()" class="btn"><i class="fa fa-trash fa-lg" aria-hidden="true"></i></button></td>
 																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
 																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
 																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Joint</td>
-																<td>{{info.committee_id}}</td>
+																<td>{{info.id}}</td>
 																<td>{{info.name}}</td>
-																<td ng-if="info.parent_committee_id!=null">{{info.parent_committee_id}}</td>
-																<td ng-if="info.parent_committee_id==null">N.A</td>
-																<td ng-if="info.subcommittee">true</td>
-																<td ng-if="!info.subcommittee">false</td>
+																<td>{{info.chair}}</td>
+																<td>{{info.state_name}}</td>
 															</tr>
 														</tbody>
 													</table>

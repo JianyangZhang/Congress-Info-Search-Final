@@ -361,7 +361,7 @@ function MyController($scope, $filter) {
 	$scope.currentPage = 1;
 	$scope.pageSize = 10;
 	$scope.col = 'state_name';
-	$scope.col_2 = 'committee_id'
+	$scope.col_2 = 'id'
     $scope.desc = 0;
 	$scope.h = "House";
 	$scope.s = "Senate";
