@@ -82,13 +82,14 @@
 																<td style="width:12%; padding-left:3vw"></td>
 															</tr>
 															<tr dir-paginate="info in congressInfo | orderBy:col:desc | filter:b:true | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust1">
-																<td style="padding-left:3vw" ng-if="info.party=='R'"><img class="imgR" src="http://cs-server.usc.edu:45678/hw/hw8/images/r.png" onerror="this.src='./img/r.png';" alt="r" /></td>
-																<td style="padding-left:3vw" ng-if="info.party=='D'"><img class="imgD" src="http://cs-server.usc.edu:45678/hw/hw8/images/d.png" onerror="this.src='./img/d.png';" alt="d" /></td>
-																<td style="padding-left:3vw" ng-if="info.party=='I'"><img class="imgI" src="http://independentamericanparty.org/wp-content/themes/v/images/logo-american-heritage-academy.png" onerror="this.src='./img/i.png';" alt="i" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='R'"><img class="imgR" src="./img/r.png" alt="r" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='D'"><img class="imgD" src="./img/d.png" alt="d" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='I'"><img class="imgI" src="./img/i.png" alt="i" /></td>
 																<td>{{info.short_title}}</td>
 																<td>{{info.first_name}} {{info.last_name}}</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="j" />Joint</td>
 																<td>{{info.state_name}}</td>
 																<td>{{info.phone}}</td>
 																<td><button ng-click="generateDetails_l()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
@@ -135,13 +136,14 @@
 																<td style="width:12%; padding-left:3vw"></td>
 															</tr>
 															<tr dir-paginate="info in congressInfo | orderBy:col:desc | filter:h:true | filter:q | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust2">
-																<td style="padding-left:3vw" ng-if="info.party=='R'"><img class="imgR" src="http://cs-server.usc.edu:45678/hw/hw8/images/r.png" onerror="this.src='./img/r.png';" alt="r" /></td>
-																<td style="padding-left:3vw" ng-if="info.party=='D'"><img class="imgD" src="http://cs-server.usc.edu:45678/hw/hw8/images/d.png" onerror="this.src='./img/d.png';" alt="d" /></td>
-																<td style="padding-left:3vw" ng-if="info.party=='I'"><img class="imgI" src="http://independentamericanparty.org/wp-content/themes/v/images/logo-american-heritage-academy.png" onerror="this.src='./img/i.png';" alt="i" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='R'"><img class="imgR" src="./img/r.png" alt="r" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='D'"><img class="imgD" src="./img/d.png" alt="d" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='I'"><img class="imgI"src="./img/i.png" alt="i" /></td>
 																<td>{{info.short_title}}</td>
 																<td>{{info.first_name}} {{info.last_name}}</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="j" />Joint</td>
 																<td>{{info.state_name}}</td>
 																<td>{{info.phone}}</td>
 																<td><button ng-click="generateDetails_l()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
@@ -185,13 +187,14 @@
 																<td style="width:12%; padding-left:3vw"></td>
 															</tr>
 															<tr dir-paginate="info in congressInfo | orderBy:col:desc | filter:s:true | filter:p | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust3">
-																<td style="padding-left:3vw" ng-if="info.party=='R'"><img class="imgR" src="http://cs-server.usc.edu:45678/hw/hw8/images/r.png" onerror="this.src='./img/r.png';" alt="r" /></td>
-																<td style="padding-left:3vw" ng-if="info.party=='D'"><img class="imgD" src="http://cs-server.usc.edu:45678/hw/hw8/images/d.png" onerror="this.src='./img/d.png';" alt="d" /></td>
-																<td style="padding-left:3vw" ng-if="info.party=='I'"><img class="imgI" src="http://independentamericanparty.org/wp-content/themes/v/images/logo-american-heritage-academy.png" onerror="this.src='./img/i.png';" alt="i" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='R'"><img class="imgR" src="./img/r.png" alt="r" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='D'"><img class="imgD" src="./img/d.png" alt="d" /></td>
+																<td style="padding-left:3vw" ng-if="info.party=='I'"><img class="imgI" src="./img/i.png" alt="i" /></td>
 																<td>{{info.short_title}}</td>
 																<td>{{info.first_name}} {{info.last_name}}</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="j" />Joint</td>
 																<td>{{info.state_name}}</td>
 																<td>{{info.phone}}</td>
 																<td><button ng-click="generateDetails_l()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
@@ -229,9 +232,9 @@
 																			<tr><td><span style="font-weight:bold">Phone:</span> <a href="tel:{{targetContact}}">{{targetContact}}</a></td></tr>
 																			<tr><td><span style="font-weight:bold">Contact Form:</span> <a target="_blank" href={{targetContactForm}}>click to open in new tab</a></td></tr>
 																			<tr>
-																				<td ng-if="targetParty=='R'" style="padding-top:0.8vw"><img class="imgR" src="http://cs-server.usc.edu:45678/hw/hw8/images/r.png" onerror="this.src='./img/r.png';" alt="r" />  Democrat</td>
-																				<td ng-if="targetParty=='D'" style="padding-top:0.8vw"><img class="imgD" src="http://cs-server.usc.edu:45678/hw/hw8/images/d.png" onerror="this.src='./img/d.png';" alt="d" />  Republican</td>
-																				<td ng-if="targetParty=='I'" style="padding-top:0.8vw"><img class="imgI" src="http://independentamericanparty.org/wp-content/themes/v/images/logo-american-heritage-academy.png" onerror="this.src='./img/i.png';" alt="i" />  Independent</td>
+																				<td ng-if="targetParty=='R'" style="padding-top:0.8vw"><img class="imgR" src="./img/r.png" alt="r" />  Democrat</td>
+																				<td ng-if="targetParty=='D'" style="padding-top:0.8vw"><img class="imgD" src="./img/d.png" alt="d" />  Republican</td>
+																				<td ng-if="targetParty=='I'" style="padding-top:0.8vw"><img class="imgI" src="./img/i.png" alt="i" />  Independent</td>
 																			</tr>
 																		</tbody>
 																	</table>
@@ -339,8 +342,8 @@
 																<td style="padding-left:3vw">{{info.number}}</td>
 																<td ng-if="info.short_title!=null" style="padding-right:0.8vw; word-break:break-word">{{info.short_title}}</td>
 																<td ng-if="info.short_title==null">N.A</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 																<td>{{info.introduced_date}}</td>
 																<td style="padding-right:0.8vw">{{info.sponsor_name}}</td>
 																<td><button ng-click="generateDetails_b()" class="btn btn-primary" data-target="#carouselTab2" data-slide-to="1">View Details</button></td>
@@ -384,8 +387,8 @@
 																<td style="padding-left:3vw">{{info.number}}</td>
 																<td ng-if="info.short_title!=null" style="padding-right:0.8vw">{{info.short_title}}</td>
 																<td ng-if="info.short_title==null">N.A</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 																<td>{{info.introduced_date}}</td>
 																<td style="padding-right:0.8vw">{{info.sponsor_name}}</td>
 																<td><button ng-click="generateDetails_b()" class="btn btn-primary" data-target="#carouselTab2" data-slide-to="1">View Details</button></td>
@@ -486,8 +489,8 @@
 												<tr dir-paginate="info in committeesInfo | orderBy:col_2:desc | filter:h:true | filter:searchCommitteesHouse | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust6">
 													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
 													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
-													<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+													<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 													<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
 													<td>{{info.id}}</td>
 													<td style="padding-right:1vw">{{info.name}}</td>
@@ -533,8 +536,8 @@
 												<tr dir-paginate="info in committeesInfo | orderBy:col_2:desc | filter:s:true | filter:searchCommitteesSenate | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust7">
 													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
 													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
-													<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+													<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 													<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
 													<td>{{info.id}}</td>
 													<td style="padding-right:1vw">{{info.name}}</td>
@@ -580,8 +583,8 @@
 												<tr dir-paginate="info in committeesInfo | orderBy:col_2:desc | filter:'Joint':true | filter:searchCommitteesJoint | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust8">
 													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
 													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
-													<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+													<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 													<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
 													<td>{{info.id}}</td>
 													<td style="padding-right:1vw">{{info.name}}</td>
@@ -642,12 +645,13 @@
 															<tr ng-repeat="info in favLegislatorsInfo">
 																<td style="padding-left:3vw"><button id="rmBtn_legislators" ng-click="deleteLegislator()" class="btn"><i class="fa fa-trash fa-lg" aria-hidden="true"></i></button></td>
 																<td><img style="width:2vw" src="http://theunitedstates.io/images/congress/225x275/{{info.bioguide_id}}.jpg" /></td>
-																<td ng-if="info.party=='R'"><img class="imgR" src="http://cs-server.usc.edu:45678/hw/hw8/images/r.png" onerror="this.src='./img/r.png';" alt="r" /></td>
-																<td ng-if="info.party=='D'"><img class="imgD" src="http://cs-server.usc.edu:45678/hw/hw8/images/d.png" onerror="this.src='./img/d.png';" alt="d" /></td>
-																<td ng-if="info.party=='I'"><img class="imgI" src="http://independentamericanparty.org/wp-content/themes/v/images/logo-american-heritage-academy.png" onerror="this.src='./img/i.png';" alt="i" /></td>
+																<td ng-if="info.party=='R'"><img class="imgR" src="./img/r.png" alt="r" /></td>
+																<td ng-if="info.party=='D'"><img class="imgD" src="./img/d.png" alt="d" /></td>
+																<td ng-if="info.party=='I'"><img class="imgI" src="./img/i.png" alt="i" /></td>
 																<td>{{info.last_name}}, {{info.first_name}}</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
 																<td>{{info.state_name}}</td>
 																<td ng-if="info.oc_email==null">{{info.phone}}</td>
 																<td><button ng-click="generateDetails_l(); followup_legislators()" class="btn btn-primary" data-target="#carouselTab1" data-slide-to="1">View Details</button></td>
@@ -678,8 +682,8 @@
 																<td>{{info.bill_id}}</td>
 																<td>{{info.bill_type}}</td>
 																<td style="padding-right:1vw">{{info.short_title}}</td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 																<td>{{info.introduced_date}}</td>
 																<td style="padding-right:1vw">{{info.sponsor_name}}</td>
 																<td><button ng-click="generateDetails_b(); followup_bills()" class="btn btn-primary" data-target="#carouselTab2" data-slide-to="1">View Details</button></td>
