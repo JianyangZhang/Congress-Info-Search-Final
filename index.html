@@ -705,9 +705,9 @@
 															</tr>
 															<tr ng-repeat="info in favCommitteesInfo">
 																<td style="padding-left:3vw"><button id="rmBtn_committees" ng-click="deleteCommittee()" class="btn"><i class="fa fa-trash fa-lg" aria-hidden="true"></i></button></td>
-																<td ng-if="info.chamber=='House'"><img class="imgH" src="http://cs-server.usc.edu:45678/hw/hw8/images/h.png" onerror="this.src='./img/h.png';" alt="h" />House</td>
-																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Senate</td>
-																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="http://cs-server.usc.edu:45678/hw/hw8/images/s.svg" onerror="this.src='./img/s.svg';" alt="s" />Joint</td>
+																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
+																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
+																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
 																<td>{{info.id}}</td>
 																<td>{{info.name}}</td>
 																<td>{{info.chair}}</td>
