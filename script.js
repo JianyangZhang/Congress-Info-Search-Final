@@ -53,7 +53,7 @@ function MainController($scope) {
 	$scope.selectedPDF = "-------";
 	// $scope.iframeURL = "-------";
 
-	$.ajaxSetup({async: false});
+	$.ajaxSetup({async: true});
 	$scope.generateDetails_l = function () {
 		$scope.targetInfo = this.info;
 		$scope.targetID = this.info.bioguide_id;
@@ -105,20 +105,23 @@ function MainController($scope) {
 			$scope.targetYoutube = "N.A";
 		}
 
+		$scope.targetCommittees = [];
 		$.get("http://localhost:3000/committees/" + $scope.targetID + "/5", {}, function (receive_data) {
 			$scope.oJson_3 = receive_data;
+			for (var i = 0; i < $scope.oJson_3.count; i++) {
+				$scope.targetCommittees.push($scope.oJson_3.results[i]);
+			}
+			$scope.$apply();
 		});
-		$scope.targetCommittees = [];
-		for (var i = 0; i < $scope.oJson_3.count; i++) {
-			$scope.targetCommittees.push($scope.oJson_3.results[i]);
-		}
+
+		$scope.targetBills = [];
 		$.get("http://localhost:3000/bills/" + $scope.targetID + "/5", {}, function (receive_data) {
 			$scope.oJson_4 = receive_data;
+			for (var i = 0; i < $scope.oJson_4.count; i++) {
+				$scope.targetBills.push($scope.oJson_4.results[i]);
+			}
+			$scope.$apply();
 		});
-		$scope.targetBills = [];
-		for (var i = 0; i < $scope.oJson_4.count; i++) {
-			$scope.targetBills.push($scope.oJson_4.results[i]);
-		}
 
 		if (localStorage.getItem($scope.targetID)) {
 			$("#favIcon_legislators").attr("class", "fa fa-star fa-lg setYellow");
@@ -167,31 +170,33 @@ function MainController($scope) {
 
 	$.get("http://localhost:3000/legislators", {}, function (receive_data) {
 		$scope.oJson = receive_data;
+		for (var i = 0; i < $scope.oJson.count; i++) {
+			$scope.congressInfo.push($scope.oJson.results[i]);
+		}
+		$scope.$apply();
 	});
 	$.get("http://localhost:3000/committees", {}, function (receive_data) {
 		$scope.oJson_2 = receive_data;
+		for (var i = 0; i < $scope.oJson_2.count; i++) {
+			$scope.committeesInfo.push($scope.oJson_2.results[i]);
+		}
+
 	});
 
 	$.get("http://localhost:3000/activeBills", {}, function (receive_data) {
 		$scope.oJson_5 = receive_data;
+		for (var i = 0; i < $scope.oJson_5.count; i++) {
+			$scope.activeBillsInfo.push($scope.oJson_5.results[i]);
+		}
+		$scope.$apply();
 	});
 	$.get("http://localhost:3000/newBills", {}, function (receive_data) {
 		$scope.oJson_6 = receive_data;
+		for (var i = 0; i < $scope.oJson_6.count; i++) {
+			$scope.newBillsInfo.push($scope.oJson_6.results[i]);
+		}
+		$scope.$apply();
 	});
-
-
-	for (var i = 0; i < $scope.oJson.count; i++) {
-		$scope.congressInfo.push($scope.oJson.results[i]);
-	}
-	for (var i = 0; i < $scope.oJson_2.count; i++) {
-		$scope.committeesInfo.push($scope.oJson_2.results[i]);
-	}
-	for (var i = 0; i < $scope.oJson_5.count; i++) {
-		$scope.activeBillsInfo.push($scope.oJson_5.results[i]);
-	}
-	for (var i = 0; i < $scope.oJson_6.count; i++) {
-		$scope.newBillsInfo.push($scope.oJson_6.results[i]);
-	}
 
 	$("#favBtn_legislators").on("click", function () {
 		if (!localStorage.getItem($scope.targetID)) {
