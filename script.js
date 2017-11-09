@@ -1,6 +1,9 @@
 // manipulate data
 var theKey = 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ';
 var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination','ngAnimate', 'ngSanitize', 'ui.bootstrap']);
+var thePort = 80;
+var localhost = "18.216.159.209";
+var hostPrefix = "http://www.congress-tracker.com:";
 
 function MainController($scope) {
 	/*
@@ -106,7 +109,7 @@ function MainController($scope) {
 		}
 
 		$scope.targetCommittees = [];
-		$.get("http://localhost:3000/committees/" + $scope.targetID + "/5", {}, function (receive_data) {
+		$.get(hostPrefix + thePort + "/committees/" + $scope.targetID + "/5", {}, function (receive_data) {
 			$scope.oJson_3 = receive_data;
 			for (var i = 0; i < $scope.oJson_3.count; i++) {
 				$scope.targetCommittees.push($scope.oJson_3.results[i]);
@@ -115,7 +118,7 @@ function MainController($scope) {
 		});
 
 		$scope.targetBills = [];
-		$.get("http://localhost:3000/bills/" + $scope.targetID + "/5", {}, function (receive_data) {
+		$.get(hostPrefix + thePort + "/bills/" + $scope.targetID + "/5", {}, function (receive_data) {
 			$scope.oJson_4 = receive_data;
 			for (var i = 0; i < $scope.oJson_4.count; i++) {
 				$scope.targetBills.push($scope.oJson_4.results[i]);
@@ -168,14 +171,14 @@ function MainController($scope) {
 		$('#btn_b').click();
 	}
 
-	$.get("http://localhost:3000/legislators", {}, function (receive_data) {
+	$.get(hostPrefix + thePort + "/legislators", {}, function (receive_data) {
 		$scope.oJson = receive_data;
 		for (var i = 0; i < $scope.oJson.count; i++) {
 			$scope.congressInfo.push($scope.oJson.results[i]);
 		}
 		$scope.$apply();
 	});
-	$.get("http://localhost:3000/committees", {}, function (receive_data) {
+	$.get(hostPrefix + thePort + "/committees", {}, function (receive_data) {
 		$scope.oJson_2 = receive_data;
 		for (var i = 0; i < $scope.oJson_2.count; i++) {
 			$scope.committeesInfo.push($scope.oJson_2.results[i]);
@@ -183,14 +186,14 @@ function MainController($scope) {
 
 	});
 
-	$.get("http://localhost:3000/activeBills", {}, function (receive_data) {
+	$.get(hostPrefix + thePort + "/activeBills", {}, function (receive_data) {
 		$scope.oJson_5 = receive_data;
 		for (var i = 0; i < $scope.oJson_5.count; i++) {
 			$scope.activeBillsInfo.push($scope.oJson_5.results[i]);
 		}
 		$scope.$apply();
 	});
-	$.get("http://localhost:3000/newBills", {}, function (receive_data) {
+	$.get(hostPrefix + thePort + "/newBills", {}, function (receive_data) {
 		$scope.oJson_6 = receive_data;
 		for (var i = 0; i < $scope.oJson_6.count; i++) {
 			$scope.newBillsInfo.push($scope.oJson_6.results[i]);
