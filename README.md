@@ -1,5 +1,7 @@
 This website is hosting on <a>www.congress-tracker.com</a><br/>
 
+noticed some bugs in the “favorite” function, fix is in processing
+
 <h3>Current version using my congress tracker API</h3>
 
 |api                           |example                       |description                                                     |
