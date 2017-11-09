@@ -1,6 +1,6 @@
 This website is hosting on <a>www.congress-tracker.com</a><br/>
 
-<h3>Current Version using my congress tracker API</h3>
+<h3>Current version using my congress tracker API</h3>
 
 |api                           |example                       |description                                                     |
 |------------------------------|------------------------------|----------------------------------------------------------------|
