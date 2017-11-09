@@ -156,6 +156,7 @@ MongoClient.connect(url, function(err, db) {
       oDocument.chamber = "Senate";
       oDocument.state_name = abbrState(oDocument.chair_state, "name");
       oDocument._id = oDocument.id;
+      oDocument.committee_id = oDocument.id;
       insertOneDocument(db, "committees", oDocument, function() {});
   }
   for (var i = 0; i < all_committees_of_house.results[0].num_results; i++) {
@@ -163,6 +164,7 @@ MongoClient.connect(url, function(err, db) {
        oDocument.chamber = "House";
        oDocument.state_name = abbrState(oDocument.chair_state, "name");
        oDocument._id = oDocument.id;
+       oDocument.committee_id = oDocument.id;
       insertOneDocument(db, "committees", oDocument, function() {});
   }
   for (var i = 0; i < all_committees_of_joint.results[0].num_results; i++) {
@@ -170,6 +172,7 @@ MongoClient.connect(url, function(err, db) {
        oDocument.chamber = "Joint";
        oDocument.state_name = abbrState(oDocument.chair_state, "name");
        oDocument._id = oDocument.id;
+       oDocument.committee_id = oDocument.id;
       insertOneDocument(db, "committees", oDocument, function() {});
   }
   db.close();

@@ -280,7 +280,7 @@
 														</thead>
 														<tbody>
 															<tr ng-repeat="info in targetBills">
-																<td>{{info.id}}</td><td>{{info.type}}</td><td>{{info.subject}}</td><td>{{info.desc}}</td><td><a target="_blank" href={{info.link}}>Link</a></td>
+																<td>{{info.committee_id}}</td><td>{{info.type}}</td><td>{{info.subject}}</td><td>{{info.desc}}</td><td><a target="_blank" href={{info.link}}>Link</a></td>
 															</tr>
 														</tbody>
 													</table>
@@ -487,12 +487,12 @@
 													<td style="width:12%">State</td>
 												</tr>
 												<tr dir-paginate="info in committeesInfo | orderBy:col_2:desc | filter:h:true | filter:searchCommitteesHouse | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust6">
-													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
-													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
+													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{info.chamber}}_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
+													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{info.chamber}}_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
 													<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
 													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 													<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
-													<td>{{info.id}}</td>
+													<td>{{info.committee_id}}</td>
 													<td style="padding-right:1vw">{{info.name}}</td>
 													<td>{{info.chair}}</td>
 													<td>{{info.chair_party}}</td>
@@ -534,12 +534,12 @@
 													<td style="width:12%">State</td>
 												</tr>
 												<tr dir-paginate="info in committeesInfo | orderBy:col_2:desc | filter:s:true | filter:searchCommitteesSenate | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust7">
-													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
-													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
+													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{info.chamber}}_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
+													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{info.chamber}}_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
 													<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
 													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 													<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
-													<td>{{info.id}}</td>
+													<td>{{info.committee_id}}</td>
 													<td style="padding-right:1vw">{{info.name}}</td>
 													<td>{{info.chair}}</td>
 													<td>{{info.chair_party}}</td>
@@ -581,12 +581,12 @@
 													<td style="width:12%">State</td>
 												</tr>
 												<tr dir-paginate="info in committeesInfo | orderBy:col_2:desc | filter:'Joint':true | filter:searchCommitteesJoint | itemsPerPage:pageSize track by $index" current-page="currentPage" pagination-id="cust8">
-													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
-													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
+													<td ng-if="!isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{info.chamber}}_{{$index}}" class="fa fa-star-o fa-lg" aria-hidden="true"></i></button></td>
+													<td ng-if="isCommitteeInFav()"><button id="favBtn_committees" ng-click="favBtn_committees()" style="margin-left:3vw" class="btn"><i id="favIcon_committees_{{info.chamber}}_{{$index}}" class="fa fa-star fa-lg setYellow" aria-hidden="true"></i></button></td>
 													<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
 													<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 													<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
-													<td>{{info.id}}</td>
+													<td>{{info.committee_id}}</td>
 													<td style="padding-right:1vw">{{info.name}}</td>
 													<td>{{info.chair}}</td>
 													<td>{{info.chair_party}}</td>
@@ -712,7 +712,7 @@
 																<td ng-if="info.chamber=='House'"><img class="imgH" src="./img/h.png" alt="h" />House</td>
 																<td ng-if="info.chamber=='Senate'"><img class="imgS" src="./img/s.svg" alt="s" />Senate</td>
 																<td ng-if="info.chamber=='Joint'"><img class="imgS" src="./img/joint.png" alt="s" />Joint</td>
-																<td>{{info.id}}</td>
+																<td>{{info.committee_id}}</td>
 																<td>{{info.name}}</td>
 																<td>{{info.chair}}</td>
 																<td>{{info.state_name}}</td>

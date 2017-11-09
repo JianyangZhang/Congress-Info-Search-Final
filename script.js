@@ -3,7 +3,8 @@ var theKey = 'VyvCcQyPRe88ZvWJnmNby17eabJxPsXalZPiGOOZ';
 var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination','ngAnimate', 'ngSanitize', 'ui.bootstrap']);
 var thePort = 80;
 var localhost = "18.216.159.209";
-var hostPrefix = "http://www.congress-tracker.com:";
+// var hostPrefix = "http://www.congress-tracker.com:";
+var hostPrefix = "http://localhost:";
 
 function MainController($scope) {
 	/*
@@ -223,12 +224,12 @@ function MainController($scope) {
 	});
 
 	$scope.favBtn_committees = function () {
-		var concateId = "#favIcon_committees_" + this.$index;
-		if (!localStorage.getItem(this.info.id)) {
-			localStorage.setItem(this.info.id, JSON.stringify(this.info));
+		var concateId = "#favIcon_committees_" + this.info.chamber + "_" + this.$index;
+		if (!localStorage.getItem(this.info.committee_id)) {
+			localStorage.setItem(this.info.committee_id, JSON.stringify(this.info));
 			$(concateId).attr("class", "fa fa-star fa-lg setYellow");
 		} else {
-			localStorage.removeItem(this.info.id);
+			localStorage.removeItem(this.info.committee_id);
 			$(concateId).attr("class", "fa fa-star-o fa-lg");
 		}
 	}
@@ -247,8 +248,8 @@ function MainController($scope) {
 	}
 
 	$scope.deleteCommittee = function () {
-		if (localStorage.getItem(this.info.id)) {
-			localStorage.removeItem(this.info.id);
+		if (localStorage.getItem(this.info.committee_id)) {
+			localStorage.removeItem(this.info.committee_id);
 			pushFavCommittees();
 		}
 	}
@@ -282,7 +283,7 @@ function MainController($scope) {
 		$scope.favCommitteesInfo = [];
 		for (var i = 0; i < localStorage.length; i++) {
 			var jsonObj = eval("(" + localStorage.getItem(localStorage.key(i)) + ")");
-			if (typeof jsonObj.id != "undefined") {
+			if (typeof jsonObj.committee_id != "undefined") {
 				$scope.favCommitteesInfo.push(jsonObj);
 			}
 		}
@@ -290,7 +291,7 @@ function MainController($scope) {
 
 	$scope.isCommitteeInFav = function () {
 		for (var i = 0; i < localStorage.length; i++) {
-			if(this.info.id == localStorage.key(i)) {
+			if (this.info.committee_id == localStorage.key(i)) {
 				return true;
 			}
 		}
@@ -364,7 +365,7 @@ function MyController($scope, $filter) {
 	$scope.currentPage = 1;
 	$scope.pageSize = 10;
 	$scope.col = 'state_name';
-	$scope.col_2 = 'id'
+	$scope.col_2 = 'committee_id'
     $scope.desc = 0;
 	$scope.h = "House";
 	$scope.s = "Senate";
