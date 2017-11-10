@@ -10,7 +10,7 @@ This website is hosting on <a>www.congress-tracker.com</a><br/>
 |/committees                   |/committees   |get all committees' detailed information                        |
 |/committees/{member_id}/{num} |/committees/A000055/5 |get basic information of 5 committees that the legislator with ID *A000055* belongs to|
 |/bills/{bill_id}              |/bills/hr1074-115 |get detailed information of the bill with ID *hr1074-115*|
-|/bills/{member_id}/{num}      |/bills/B001250/10 |get basic information of 10 bills that the legislator with ID *B001250* come up with|
+|/bills/{member_id}/{num}      |/bills/B001250/10 |get basic information of 10 bills that the legislator with ID *B001250* came up with|
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
