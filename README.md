@@ -1,6 +1,6 @@
 This website is hosting on <a>www.congress-tracker.com</a><br/>
 
-<h3>Current version using my congress tracker API</h3>
+<h3>Current version using my congress-tracker API</h3>
 
 |api                           |example                       |description                                                     |
 |------------------------------|------------------------------|----------------------------------------------------------------|
@@ -12,6 +12,7 @@ This website is hosting on <a>www.congress-tracker.com</a><br/>
 |/bills/{bill_id}              |/bills/hr1074-115 |get detailed information of the bill with ID *hr1074-115*|
 |/bills/{member_id}/{num}      |/bills/B001250/10 |get basic information of 10 bills that the legislator with ID *B001250* come up with|
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Previous Version using Sunlight Foundation's Congress API</h3>
 
