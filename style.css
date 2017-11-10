@@ -381,6 +381,6 @@ a:focus {
 	color: #ffb84d;
 }
 
-#favBtn_legislators i {
+#favBtn_legislators i, #favBtn_bills i {
 	font-size: 1.7em;
 }
