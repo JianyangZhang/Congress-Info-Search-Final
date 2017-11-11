@@ -19,7 +19,7 @@ committeesDAO.get(function(result) { committees = result; });
 // host api
 const express = require('express');
 const app = express();
-app.use(express.static('../../'));
+app.use(express.static('../'));
 
 app.get('/status', function(req, res) {
     res.send('congress api is running');
