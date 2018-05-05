@@ -1,4 +1,4 @@
-This website is hosting on <a>www.congress-tracker.com</a><br/>
+This website is hosting on <a>www.congress-tracker.com (closed on 05/05/2018)</a><br/>
 
 <h3>Current version using my congress-tracker API</h3>
 
